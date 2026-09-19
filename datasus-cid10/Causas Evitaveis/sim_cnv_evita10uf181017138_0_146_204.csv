@@ -1,0 +1,44 @@
+ Óbitos por causas evitáveis em menores de 5 anos - Brasil
+Óbitos p/Residênc por Região/Unidade da Federação e Sexo
+Período:2025
+"Região/Unidade da Federação";"Masc";"Fem";"Ign";"Total"
+"Região Norte";2787;2246;30;5063
+".. Rondônia";192;161;2;355
+".. Acre";158;136;-;294
+".. Amazonas";742;599;5;1346
+".. Roraima";186;160;2;348
+".. Pará";1185;921;19;2125
+".. Amapá";143;119;-;262
+".. Tocantins";181;150;2;333
+"Região Nordeste";5658;4643;73;10374
+".. Maranhão";832;662;7;1501
+".. Piauí";333;312;15;660
+".. Ceará";731;644;6;1381
+".. Rio Grande do Norte";299;214;2;515
+".. Paraíba";386;338;5;729
+".. Pernambuco";935;774;17;1726
+".. Alagoas";354;306;3;663
+".. Sergipe";285;218;2;505
+".. Bahia";1503;1175;16;2694
+"Região Sudeste";6746;5566;30;12342
+".. Minas Gerais";1608;1353;8;2969
+".. Espírito Santo";387;331;1;719
+".. Rio de Janeiro";1426;1126;6;2558
+".. São Paulo";3325;2756;15;6096
+"Região Sul";2280;1819;6;4105
+".. Paraná";937;757;1;1695
+".. Santa Catarina";620;470;2;1092
+".. Rio Grande do Sul";723;592;3;1318
+"Região Centro-Oeste";1835;1390;14;3239
+".. Mato Grosso do Sul";350;275;3;628
+".. Mato Grosso";555;421;2;978
+".. Goiás";715;528;7;1250
+".. Distrito Federal";215;166;2;383
+"Total";19306;15664;153;35123
+ Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Notas:
+ 
+ Dados finais disponíveis até 2024 - data de extração 02/12/2025.
+ Dados de 2025 - Preliminares - data de extração 28/07/2026.
+ Dados de 2026 - 1a prévia - data de extração 01/06/2026.
+ 

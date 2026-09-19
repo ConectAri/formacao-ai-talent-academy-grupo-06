@@ -1,0 +1,44 @@
+ Óbitos fetais - Brasil
+Óbitos p/Residênc por Região/Unidade da Federação e Duração gestação
+Período:2019
+"Região/Unidade da Federação";"Menos de 22 semanas";"22 a 27 semanas";"28 a 31 semanas";"32 a 36 semanas";"37 a 41 semanas";"42 semanas e mais";"Ignorado";"Total"
+"Região Norte";238;680;517;918;912;37;236;3538
+".. Rondônia";16;52;43;61;59;1;19;251
+".. Acre";14;42;25;38;50;3;15;187
+".. Amazonas";47;188;139;236;263;16;17;906
+".. Roraima";5;33;23;44;27;3;11;146
+".. Pará";108;271;221;427;412;11;128;1578
+".. Amapá";16;31;33;45;40;1;33;199
+".. Tocantins";32;63;33;67;61;2;13;271
+"Região Nordeste";633;1923;1468;2242;2410;51;793;9520
+".. Maranhão";101;234;194;327;481;14;98;1449
+".. Piauí";20;96;86;153;158;3;46;562
+".. Ceará";97;316;249;348;305;3;73;1391
+".. Rio Grande do Norte";45;104;70;118;96;-;24;457
+".. Paraíba";24;132;117;142;127;2;42;586
+".. Pernambuco";87;301;254;363;346;7;170;1528
+".. Alagoas";31;98;73;121;151;3;75;552
+".. Sergipe";33;61;57;98;95;-;7;351
+".. Bahia";195;581;368;572;651;19;258;2644
+"Região Sudeste";820;2861;1797;2536;1968;10;828;10820
+".. Minas Gerais";223;720;400;609;498;1;162;2613
+".. Espírito Santo";16;116;62;110;122;2;61;489
+".. Rio de Janeiro";195;614;499;665;478;4;192;2647
+".. São Paulo";386;1411;836;1152;870;3;413;5071
+"Região Sul";206;792;467;793;612;4;143;3017
+".. Paraná";84;275;188;304;234;-;40;1125
+".. Santa Catarina";62;234;118;201;171;-;24;810
+".. Rio Grande do Sul";60;283;161;288;207;4;79;1082
+"Região Centro-Oeste";158;568;371;560;462;4;87;2210
+".. Mato Grosso do Sul";30;107;72;116;108;1;24;458
+".. Mato Grosso";35;137;97;133;105;2;25;534
+".. Goiás";63;215;144;217;185;1;31;856
+".. Distrito Federal";30;109;58;94;64;-;7;362
+"Total";2055;6824;4620;7049;6364;106;2087;29105
+ Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Notas:
+ 
+ Dados finais disponíveis até 2024 - data de extração 02/12/2025.
+ Dados de 2025 - Preliminares - data de extração 28/07/2026.
+ Dados de 2026 - 1a prévia - data de extração 01/06/2026.
+ 

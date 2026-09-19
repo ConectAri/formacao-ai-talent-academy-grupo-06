@@ -1,0 +1,44 @@
+ Óbitos fetais - Brasil
+Óbitos p/Residênc por Região/Unidade da Federação e Local ocorrência
+Período:2020
+"Região/Unidade da Federação";"Hospital";"Outro estabelecimento de saúde";"Domicílio";"Via pública";"Outros";"Ignorado";"Total"
+"Região Norte";3132;42;256;24;56;52;3562
+".. Rondônia";228;-;12;1;-;2;243
+".. Acre";177;4;7;-;-;-;188
+".. Amazonas";752;7;120;3;24;15;921
+".. Roraima";129;1;9;-;2;2;143
+".. Pará";1444;23;86;15;23;27;1618
+".. Amapá";190;5;7;1;3;6;212
+".. Tocantins";212;2;15;4;4;-;237
+"Região Nordeste";8874;125;348;67;95;122;9631
+".. Maranhão";1229;14;92;6;22;12;1375
+".. Piauí";493;2;25;5;6;6;537
+".. Ceará";1284;7;41;5;9;45;1391
+".. Rio Grande do Norte";497;7;21;4;2;2;533
+".. Paraíba";615;2;14;2;14;4;651
+".. Pernambuco";1315;30;45;14;11;9;1424
+".. Alagoas";556;2;25;3;5;5;596
+".. Sergipe";365;-;15;1;1;3;385
+".. Bahia";2520;61;70;27;25;36;2739
+"Região Sudeste";10085;121;257;42;56;20;10581
+".. Minas Gerais";2394;22;85;12;16;8;2537
+".. Espírito Santo";452;41;4;3;5;2;507
+".. Rio de Janeiro";2468;15;52;12;12;4;2563
+".. São Paulo";4771;43;116;15;23;6;4974
+"Região Sul";2721;31;80;10;21;18;2881
+".. Paraná";1012;14;25;3;5;4;1063
+".. Santa Catarina";718;8;25;3;7;4;765
+".. Rio Grande do Sul";991;9;30;4;9;10;1053
+"Região Centro-Oeste";2154;40;75;12;33;24;2338
+".. Mato Grosso do Sul";446;2;15;1;7;-;471
+".. Mato Grosso";501;7;17;3;8;8;544
+".. Goiás";862;30;28;2;18;12;952
+".. Distrito Federal";345;1;15;6;-;4;371
+"Total";26966;359;1016;155;261;236;28993
+ Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Notas:
+ 
+ Dados finais disponíveis até 2024 - data de extração 02/12/2025.
+ Dados de 2025 - Preliminares - data de extração 28/07/2026.
+ Dados de 2026 - 1a prévia - data de extração 01/06/2026.
+ 

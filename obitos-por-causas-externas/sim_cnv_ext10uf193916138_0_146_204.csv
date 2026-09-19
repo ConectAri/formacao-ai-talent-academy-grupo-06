@@ -1,0 +1,44 @@
+ Óbitos por Causas Externas - Brasil
+Óbitos p/Residênc por Região/Unidade da Federação e Local ocorrência
+Período:2020
+"Região/Unidade da Federação";"Hospital";"Outro estabelecimento de saúde";"Domicílio";"Via pública";"Outros";"Ignorado";"Total"
+"Região Norte";3796;298;2295;4054;2978;74;13495
+".. Rondônia";429;16;259;430;240;4;1378
+".. Acre";103;-;166;160;163;4;596
+".. Amazonas";899;104;475;694;558;2;2732
+".. Roraima";183;2;121;74;215;6;601
+".. Pará";1606;146;905;2008;1372;54;6091
+".. Amapá";198;7;123;168;180;1;677
+".. Tocantins";378;23;246;520;250;3;1420
+"Região Nordeste";14872;1016;7293;17276;8004;131;48592
+".. Maranhão";1479;51;884;1747;821;9;4991
+".. Piauí";826;5;461;835;336;15;2478
+".. Ceará";2257;115;1270;3453;1555;21;8671
+".. Rio Grande do Norte";784;38;497;1090;311;10;2730
+".. Paraíba";1042;23;420;1021;465;5;2976
+".. Pernambuco";2577;433;1282;2941;1400;20;8653
+".. Alagoas";892;19;308;1034;453;2;2708
+".. Sergipe";750;8;346;827;77;2;2010
+".. Bahia";4265;324;1825;4328;2586;47;13375
+"Região Sudeste";23647;2360;7387;11740;5822;101;51057
+".. Minas Gerais";5043;507;2146;3060;1600;60;12416
+".. Espírito Santo";1365;111;470;1017;487;14;3464
+".. Rio de Janeiro";6676;858;1083;2611;1667;6;12901
+".. São Paulo";10563;884;3688;5052;2068;21;22276
+"Região Sul";6974;318;4262;5683;3015;25;20277
+".. Paraná";3183;193;1572;2588;1183;6;8725
+".. Santa Catarina";1507;38;919;1208;663;7;4342
+".. Rio Grande do Sul";2284;87;1771;1887;1169;12;7210
+"Região Centro-Oeste";4570;345;2076;3743;1864;19;12617
+".. Mato Grosso do Sul";558;27;357;589;374;1;1906
+".. Mato Grosso";1018;85;508;1014;510;7;3142
+".. Goiás";2281;205;974;1729;860;9;6058
+".. Distrito Federal";713;28;237;411;120;2;1511
+"Total";53859;4337;23313;42496;21683;350;146038
+ Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Notas:
+ 
+ Dados finais disponíveis até 2024 - data de extração 02/12/2025.
+ Dados de 2025 - Preliminares - data de extração 28/07/2026.
+ Dados de 2026 - 1a prévia - data de extração 01/06/2026.
+ 

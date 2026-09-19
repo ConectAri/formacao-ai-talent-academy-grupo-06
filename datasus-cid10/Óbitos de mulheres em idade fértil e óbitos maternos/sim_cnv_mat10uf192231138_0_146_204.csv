@@ -1,0 +1,44 @@
+ Óbitos de mulheres em idade fértil e óbitos maternos - Brasil
+Óbitos mulheres idade fértil por Região/Unidade da Federação e Tipo causa obstétr
+Período:2024
+"Região/Unidade da Federação";"Morte materna obstétrica direta";"Morte materna obstétrica indireta";"Morte materna obstétrica não especificada";"Total"
+"Região Norte";133;319;4;456
+".. Rondônia";5;17;-;22
+".. Acre";7;6;-;13
+".. Amazonas";30;79;1;110
+".. Roraima";12;9;-;21
+".. Pará";61;173;3;237
+".. Amapá";6;10;-;16
+".. Tocantins";12;25;-;37
+"Região Nordeste";294;571;6;871
+".. Maranhão";48;90;-;138
+".. Piauí";26;35;1;62
+".. Ceará";42;65;-;107
+".. Rio Grande do Norte";21;31;-;52
+".. Paraíba";20;34;-;54
+".. Pernambuco";35;117;3;155
+".. Alagoas";19;28;-;47
+".. Sergipe";12;19;-;31
+".. Bahia";71;152;2;225
+"Região Sudeste";291;800;15;1106
+".. Minas Gerais";96;127;4;227
+".. Espírito Santo";14;47;1;62
+".. Rio de Janeiro";54;291;4;349
+".. São Paulo";127;335;6;468
+"Região Sul";117;440;5;562
+".. Paraná";48;118;5;171
+".. Santa Catarina";32;78;-;110
+".. Rio Grande do Sul";37;244;-;281
+"Região Centro-Oeste";96;169;2;267
+".. Mato Grosso do Sul";15;39;-;54
+".. Mato Grosso";21;51;1;73
+".. Goiás";51;53;1;105
+".. Distrito Federal";9;26;-;35
+"Total";931;2299;32;3262
+ Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Notas:
+ 
+ Dados finais disponíveis até 2024 - data de extração 02/12/2025.
+ Dados de 2025 - Preliminares - data de extração 28/07/2026.
+ Dados de 2026 - 1a prévia - data de extração 01/06/2026.
+ 

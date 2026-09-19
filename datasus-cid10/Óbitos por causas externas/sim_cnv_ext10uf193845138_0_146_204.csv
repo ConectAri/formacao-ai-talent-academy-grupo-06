@@ -1,0 +1,44 @@
+ Óbitos por Causas Externas - Brasil
+Óbitos p/Residênc por Região/Unidade da Federação e Local ocorrência
+Período:2018
+"Região/Unidade da Federação";"Hospital";"Outro estabelecimento de saúde";"Domicílio";"Via pública";"Outros";"Ignorado";"Total"
+"Região Norte";4218;323;2277;5224;3091;149;15282
+".. Rondônia";410;11;221;439;203;6;1290
+".. Acre";138;-;155;220;175;1;689
+".. Amazonas";972;80;421;905;543;7;2928
+".. Roraima";199;8;121;131;237;2;698
+".. Pará";1901;201;1016;2821;1502;128;7569
+".. Amapá";213;12;96;176;154;1;652
+".. Tocantins";385;11;247;532;277;4;1456
+"Região Nordeste";15122;960;6820;18312;7783;182;49179
+".. Maranhão";1641;57;708;1564;824;17;4811
+".. Piauí";798;7;456;842;314;55;2472
+".. Ceará";2340;130;1379;3887;1414;36;9186
+".. Rio Grande do Norte";874;42;501;1258;458;11;3144
+".. Paraíba";973;14;368;1205;468;8;3036
+".. Pernambuco";2598;413;1122;3260;1229;17;8639
+".. Alagoas";818;12;311;1158;382;2;2683
+".. Sergipe";788;7;354;854;108;1;2112
+".. Bahia";4292;278;1621;4284;2586;35;13096
+"Região Sudeste";24785;2169;6759;12203;6883;82;52881
+".. Minas Gerais";5043;522;1964;3510;1704;39;12782
+".. Espírito Santo";1405;109;462;1032;380;21;3409
+".. Rio de Janeiro";7438;829;996;2701;2735;6;14705
+".. São Paulo";10899;709;3337;4960;2064;16;21985
+"Região Sul";7438;357;3959;5998;3046;24;20822
+".. Paraná";3265;203;1462;2364;1247;8;8549
+".. Santa Catarina";1460;42;873;1252;619;5;4251
+".. Rio Grande do Sul";2713;112;1624;2382;1180;11;8022
+"Região Centro-Oeste";4699;348;1917;3842;1798;46;12650
+".. Mato Grosso do Sul";635;27;351;552;419;1;1985
+".. Mato Grosso";1017;79;444;941;429;12;2922
+".. Goiás";2280;210;913;1921;832;29;6185
+".. Distrito Federal";767;32;209;428;118;4;1558
+"Total";56262;4157;21732;45579;22601;483;150814
+ Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Notas:
+ 
+ Dados finais disponíveis até 2024 - data de extração 02/12/2025.
+ Dados de 2025 - Preliminares - data de extração 28/07/2026.
+ Dados de 2026 - 1a prévia - data de extração 01/06/2026.
+ 

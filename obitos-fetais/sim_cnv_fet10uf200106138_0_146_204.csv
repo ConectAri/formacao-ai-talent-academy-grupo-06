@@ -1,0 +1,44 @@
+ Óbitos fetais - Brasil
+Óbitos p/Residênc por Região/Unidade da Federação e Duração gestação
+Período:2022
+"Região/Unidade da Federação";"Menos de 22 semanas";"22 a 27 semanas";"28 a 31 semanas";"32 a 36 semanas";"37 a 41 semanas";"42 semanas e mais";"Ignorado";"Total"
+"Região Norte";276;662;523;876;810;24;168;3339
+".. Rondônia";16;47;31;73;40;2;13;222
+".. Acre";13;27;34;28;37;-;13;152
+".. Amazonas";51;185;132;221;217;10;36;852
+".. Roraima";7;25;19;30;32;-;9;122
+".. Pará";142;297;240;435;400;10;72;1596
+".. Amapá";15;31;26;39;38;2;13;164
+".. Tocantins";32;50;41;50;46;-;12;231
+"Região Nordeste";666;1834;1310;2256;2012;28;548;8654
+".. Maranhão";82;233;195;366;344;8;87;1315
+".. Piauí";15;108;79;130;112;2;18;464
+".. Ceará";93;284;191;308;275;1;52;1204
+".. Rio Grande do Norte";53;105;72;102;90;-;19;441
+".. Paraíba";33;119;99;147;111;-;36;545
+".. Pernambuco";58;255;182;357;292;4;99;1247
+".. Alagoas";31;104;77;145;125;2;38;522
+".. Sergipe";46;63;54;92;93;1;15;364
+".. Bahia";255;563;361;609;570;10;184;2552
+"Região Sudeste";932;2792;1650;2222;1584;19;746;9945
+".. Minas Gerais";248;697;373;540;392;5;173;2428
+".. Espírito Santo";23;135;88;112;103;1;33;495
+".. Rio de Janeiro";208;552;427;527;366;4;118;2202
+".. São Paulo";453;1408;762;1043;723;9;422;4820
+"Região Sul";285;825;518;714;483;2;172;2999
+".. Paraná";122;334;202;251;205;1;42;1157
+".. Santa Catarina";74;225;157;209;132;-;57;854
+".. Rio Grande do Sul";89;266;159;254;146;1;73;988
+"Região Centro-Oeste";275;631;380;587;478;3;103;2457
+".. Mato Grosso do Sul";42;115;83;120;90;-;26;476
+".. Mato Grosso";56;159;84;153;114;-;10;576
+".. Goiás";121;250;161;234;202;2;53;1023
+".. Distrito Federal";56;107;52;80;72;1;14;382
+"Total";2434;6744;4381;6655;5367;76;1737;27394
+ Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Notas:
+ 
+ Dados finais disponíveis até 2024 - data de extração 02/12/2025.
+ Dados de 2025 - Preliminares - data de extração 28/07/2026.
+ Dados de 2026 - 1a prévia - data de extração 01/06/2026.
+ 

@@ -1,0 +1,76 @@
+ Mortalidade de Residentes no Exterior
+Óbitos p/Ocorrência por País de residência e Local ocorrência
+Período:2024
+"País de residência";"Hospital";"Outro estabelecimento de saúde";"Domicílio";"Via pública";"Outros";"Total"
+"208  ARUBA";1;-;-;-;-;1
+"25   POLONIA";2;-;-;-;-;2
+"119  MACEDONIA";-;-;-;-;1;1
+"40   VIETNA";-;-;-;-;1;1
+"45   ESTADOS UNIDOS";4;1;-;1;8;14
+"38   REINO UNIDO";2;-;-;-;-;2
+"68   BOLIVIA";111;4;3;4;8;130
+"71   EQUADOR";1;-;-;-;-;1
+"81   QUIRGUISTAO";1;-;-;-;-;1
+"84   SURINAME";1;-;-;-;-;1
+"113  GUINE EQUATORIAL";1;-;-;-;-;1
+"2    GABAO";2;1;-;-;-;3
+"3    GEORGIA";1;-;4;-;-;5
+"4    IEMEM";1;-;-;-;-;1
+"5    LIBIA";-;-;-;-;1;1
+"7    PERU";8;1;1;-;-;10
+"9    SUICA";2;-;1;-;-;3
+"11   SOMALIA";2;-;-;-;-;2
+"16   IRAQUE";-;-;-;-;1;1
+"19   ITALIA";1;-;1;-;-;2
+"21   MEXICO";1;-;-;-;1;2
+"22   MOCAMBIQUE";-;1;-;-;-;1
+"24   NORUEGA";1;-;-;-;1;2
+"32   ARGENTINA";24;2;1;13;6;46
+"33   BRUNEI";1;-;-;-;-;1
+"37   PAISES BAIXOS";1;-;-;-;-;1
+"41   ALEMANHA";4;-;1;-;1;6
+"43   BELGICA";1;-;-;-;1;2
+"44   ESPANHA";3;1;-;-;2;6
+"46   FRANCA";1;-;-;-;3;4
+"54   ISRAEL";-;-;-;1;-;1
+"55   JAPAO";6;-;1;-;1;8
+"59   ANTILHAS HOLANDESAS";-;-;-;1;-;1
+"70   ERITREIA";-;-;1;-;-;1
+"96   CANADA";2;-;-;-;1;3
+"98   CHADE";-;1;-;-;-;1
+"101  DOMINICA";1;-;-;-;-;1
+"105  ESTONIA";1;-;-;-;-;1
+"107  FILIPINAS";2;-;-;-;7;9
+"120  MALAVI";1;-;-;-;-;1
+"123  NEPAL";-;-;-;1;-;1
+"124  PANAMA";1;-;-;-;1;2
+"126  PARAGUAI";100;2;1;14;9;126
+"127  QUENIA";2;-;-;-;-;2
+"128  REPUBLICA CENTRO-AFRICANA";1;-;-;-;-;1
+"129  REPUBLICA DOMINICANA";-;-;-;-;1;1
+"130  ILHAS SALOMAO";1;-;-;-;-;1
+"137  URUGUAI";5;-;2;3;3;13
+"138  VENEZUELA";27;1;1;2;6;37
+"140  AFRICA DO SUL";-;-;-;-;1;1
+"143  AUSTRIA";2;-;-;-;-;2
+"147  BOSNIA-HERZEGOVINA";1;-;-;-;-;1
+"151  COLOMBIA";7;-;-;5;1;13
+"164  INDIA";-;1;-;-;3;4
+"165  INDONESIA";1;-;-;-;1;2
+"182  PORTUGAL";2;-;-;-;1;3
+"186  TAILANDIA";1;-;-;-;1;2
+"192  CHILE";3;1;-;2;7;13
+"193  REPUBLICA POPULAR DA CHINA";3;1;-;-;-;4
+"199  GUIANA";29;-;-;1;1;31
+"204  SERVIA E MONTENEGRO";1;-;-;-;-;1
+"205  RUANDA";-;-;1;-;-;1
+"218  ILHAS DE JERSEY";1;-;-;-;-;1
+"0    IGNORADO/BRANCO";15;-;-;1;2;18
+"Total";394;18;19;49;82;562
+ Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Notas:
+ 
+ Dados finais disponíveis até 2024 - data de extração 02/12/2025.
+ Dados de 2025 - Preliminares - data de extração 28/07/2026.
+ Dados de 2026 - 1a prévia - data de extração 01/06/2026.
+ 

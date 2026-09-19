@@ -1,0 +1,44 @@
+ Óbitos por causas evitáveis em menores de 5 anos - Brasil
+Óbitos p/Residênc por Região/Unidade da Federação e Faixa Etária
+Período:2020
+"Região/Unidade da Federação";"0 a 6 dias";"7 a 27 dias";"28 a 364 dias";"Menor 1 ano (ign)";"1 a 4 anos";"Total"
+"Região Norte";2314;665;1407;-;799;5185
+".. Rondônia";180;54;102;-;46;382
+".. Acre";100;48;95;-;41;284
+".. Amazonas";553;146;352;-;207;1258
+".. Roraima";145;29;90;-;45;309
+".. Pará";1074;290;612;-;360;2336
+".. Amapá";132;56;76;-;40;304
+".. Tocantins";130;42;80;-;60;312
+"Região Nordeste";5644;1623;2729;1;1407;11404
+".. Maranhão";834;221;403;-;259;1717
+".. Piauí";331;90;207;-;97;725
+".. Ceará";784;231;402;-;208;1625
+".. Rio Grande do Norte";292;81;119;-;63;555
+".. Paraíba";364;133;218;-;80;795
+".. Pernambuco";861;224;408;-;233;1726
+".. Alagoas";309;97;173;-;81;660
+".. Sergipe";268;104;133;-;63;568
+".. Bahia";1601;442;666;1;323;3033
+"Região Sudeste";5780;2166;3126;2;1500;12574
+".. Minas Gerais";1467;472;642;1;383;2965
+".. Espírito Santo";284;90;151;-;88;613
+".. Rio de Janeiro";1253;502;753;-;347;2855
+".. São Paulo";2776;1102;1580;1;682;6141
+"Região Sul";1877;686;840;1;483;3887
+".. Paraná";719;272;369;1;210;1571
+".. Santa Catarina";532;169;212;-;116;1029
+".. Rio Grande do Sul";626;245;259;-;157;1287
+"Região Centro-Oeste";1385;437;753;3;397;2975
+".. Mato Grosso do Sul";237;77;137;-;79;530
+".. Mato Grosso";345;112;232;-;132;821
+".. Goiás";593;174;287;-;148;1202
+".. Distrito Federal";210;74;97;3;38;422
+"Total";17000;5577;8855;7;4586;36025
+ Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Notas:
+ 
+ Dados finais disponíveis até 2024 - data de extração 02/12/2025.
+ Dados de 2025 - Preliminares - data de extração 28/07/2026.
+ Dados de 2026 - 1a prévia - data de extração 01/06/2026.
+ 

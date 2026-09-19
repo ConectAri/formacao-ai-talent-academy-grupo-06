@@ -1,0 +1,44 @@
+ Óbitos por causas evitáveis em menores de 5 anos - Brasil
+Óbitos p/Residênc por Região/Unidade da Federação e Causas evitáveis
+Período:2021
+"Região/Unidade da Federação";"1.1. Reduzível pelas ações de imunização";"1.2.1 Reduzíveis atenção à mulher na gestação";"1.2.2 Reduz por adequada atenção à mulher no parto";"1.2.3 Reduzíveis adequada atenção ao recém-nascido";"1.3. Reduz ações diagnóstico e tratamento adequado";"1.4. Reduz. ações promoção à saúde vinc. Aç. At";"2. Causas mal definidas";"3. Demais causas (não claramente evitáveis)";"Total"
+"Região Norte";5;1197;465;829;500;640;144;1728;5508
+".. Rondônia";-;86;20;62;22;35;7;137;369
+".. Acre";-;54;29;65;32;33;7;109;329
+".. Amazonas";-;287;120;174;141;176;57;455;1410
+".. Roraima";-;54;12;34;54;99;7;97;357
+".. Pará";3;513;235;405;182;232;55;709;2334
+".. Amapá";2;99;27;41;43;25;7;102;346
+".. Tocantins";-;104;22;48;26;40;4;119;363
+"Região Nordeste";5;2709;1108;1979;674;896;233;3895;11499
+".. Maranhão";3;403;190;240;135;170;39;555;1735
+".. Piauí";1;184;66;95;41;60;22;249;718
+".. Ceará";-;316;129;285;86;119;29;534;1498
+".. Rio Grande do Norte";1;162;62;92;18;25;3;221;584
+".. Paraíba";-;160;82;182;49;65;27;247;812
+".. Pernambuco";-;470;165;233;105;159;37;621;1790
+".. Alagoas";-;137;66;175;38;77;14;247;754
+".. Sergipe";-;122;56;71;30;36;7;187;509
+".. Bahia";-;755;292;606;172;185;55;1034;3099
+"Região Sudeste";3;3119;1117;1874;821;1000;182;4576;12692
+".. Minas Gerais";-;720;227;443;154;201;94;1111;2950
+".. Espírito Santo";-;175;64;76;41;60;-;280;696
+".. Rio de Janeiro";1;652;270;424;208;300;22;893;2770
+".. São Paulo";2;1572;556;931;418;439;66;2292;6276
+"Região Sul";1;1183;260;464;205;326;35;1527;4001
+".. Paraná";-;479;88;148;74;138;16;612;1555
+".. Santa Catarina";-;259;79;157;55;71;3;396;1020
+".. Rio Grande do Sul";1;445;93;159;76;117;16;519;1426
+"Região Centro-Oeste";1;784;222;427;195;312;51;1185;3177
+".. Mato Grosso do Sul";1;94;37;74;53;59;9;206;533
+".. Mato Grosso";-;185;58;132;60;103;17;337;892
+".. Goiás";-;326;101;192;61;120;23;473;1296
+".. Distrito Federal";-;179;26;29;21;30;2;169;456
+"Total";15;8992;3172;5573;2395;3174;645;12911;36877
+ Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Notas:
+ 
+ Dados finais disponíveis até 2024 - data de extração 02/12/2025.
+ Dados de 2025 - Preliminares - data de extração 28/07/2026.
+ Dados de 2026 - 1a prévia - data de extração 01/06/2026.
+ 
