@@ -175,8 +175,10 @@ pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python
 
-data/raw/**/*.csv       # se o volume crescer muito (ex: recorte nacional futuro)
-*.pbix                  # arquivos do Power BI podem ficar grandes — avaliar Git LFS
+# se o volume crescer muito (ex: recorte nacional futuro)
+data/raw/**/*.csv
+# arquivos do Power BI podem ficar grandes — avaliar Git LFS
+*.pbix
 .ipynb_checkpoints/
 __pycache__/
 
