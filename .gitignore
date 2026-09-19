@@ -179,3 +179,6 @@ data/raw/**/*.csv       # se o volume crescer muito (ex: recorte nacional futuro
 *.pbix                  # arquivos do Power BI podem ficar grandes — avaliar Git LFS
 .ipynb_checkpoints/
 __pycache__/
+
+# macOS
+.DS_Store
