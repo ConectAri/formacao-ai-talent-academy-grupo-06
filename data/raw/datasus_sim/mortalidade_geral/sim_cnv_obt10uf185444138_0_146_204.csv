@@ -1,0 +1,44 @@
+ Mortalidade - Brasil
+Óbitos p/Residênc por Região/Unidade da Federação e Região
+Período:2016
+"Região/Unidade da Federação";"1 Região Norte";"2 Região Nordeste";"3 Região Sudeste";"4 Região Sul";"5 Região Centro-Oeste";"Total"
+"Região Norte";80105;-;-;-;-;80105
+".. Rondônia";8344;-;-;-;-;8344
+".. Acre";3763;-;-;-;-;3763
+".. Amazonas";16799;-;-;-;-;16799
+".. Roraima";2157;-;-;-;-;2157
+".. Pará";38557;-;-;-;-;38557
+".. Amapá";2995;-;-;-;-;2995
+".. Tocantins";7490;-;-;-;-;7490
+"Região Nordeste";-;347095;-;-;-;347095
+".. Maranhão";-;34362;-;-;-;34362
+".. Piauí";-;19187;-;-;-;19187
+".. Ceará";-;54276;-;-;-;54276
+".. Rio Grande do Norte";-;21922;-;-;-;21922
+".. Paraíba";-;28041;-;-;-;28041
+".. Pernambuco";-;66928;-;-;-;66928
+".. Alagoas";-;20769;-;-;-;20769
+".. Sergipe";-;13516;-;-;-;13516
+".. Bahia";-;88094;-;-;-;88094
+"Região Sudeste";-;-;595573;-;-;595573
+".. Minas Gerais";-;-;135257;-;-;135257
+".. Espírito Santo";-;-;22868;-;-;22868
+".. Rio de Janeiro";-;-;141089;-;-;141089
+".. São Paulo";-;-;296359;-;-;296359
+"Região Sul";-;-;-;202593;-;202593
+".. Paraná";-;-;-;74740;-;74740
+".. Santa Catarina";-;-;-;40270;-;40270
+".. Rio Grande do Sul";-;-;-;87583;-;87583
+"Região Centro-Oeste";-;-;-;-;84408;84408
+".. Mato Grosso do Sul";-;-;-;-;16749;16749
+".. Mato Grosso";-;-;-;-;17535;17535
+".. Goiás";-;-;-;-;38074;38074
+".. Distrito Federal";-;-;-;-;12050;12050
+"Total";80105;347095;595573;202593;84408;1309774
+ Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Notas:
+ 
+ Dados finais disponíveis até 2024 - data de extração 02/12/2025.
+ Dados de 2025 - Preliminares - data de extração 28/07/2026.
+ Dados de 2026 - 1a prévia - data de extração 01/06/2026.
+ 
