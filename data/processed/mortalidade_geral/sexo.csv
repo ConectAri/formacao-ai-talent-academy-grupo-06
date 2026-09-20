@@ -1,364 +1,353 @@
-ano,dimensao,Região/Unidade da Federação,Masc,Fem,Ign,Total
-2016,sexo,Região Norte,49725,30313,67,80105
-2016,sexo,.. Rondônia,5279,3060,5,8344
-2016,sexo,.. Acre,2357,1406,0,3763
-2016,sexo,.. Amazonas,10237,6550,12,16799
-2016,sexo,.. Roraima,1353,804,0,2157
-2016,sexo,.. Pará,23910,14605,42,38557
-2016,sexo,.. Amapá,1922,1072,1,2995
-2016,sexo,.. Tocantins,4667,2816,7,7490
-2016,sexo,Região Nordeste,199015,147900,180,347095
-2016,sexo,.. Maranhão,20657,13695,10,34362
-2016,sexo,.. Piauí,11089,8076,22,19187
-2016,sexo,.. Ceará,30893,23369,14,54276
-2016,sexo,.. Rio Grande do Norte,12616,9298,8,21922
-2016,sexo,.. Paraíba,15225,12807,9,28041
-2016,sexo,.. Pernambuco,37078,29814,36,66928
-2016,sexo,.. Alagoas,11787,8963,19,20769
-2016,sexo,.. Sergipe,7996,5511,9,13516
-2016,sexo,.. Bahia,51674,36367,53,88094
-2016,sexo,Região Sudeste,324899,270429,245,595573
-2016,sexo,.. Minas Gerais,75837,59359,61,135257
-2016,sexo,.. Espírito Santo,13215,9649,4,22868
-2016,sexo,.. Rio de Janeiro,74393,66584,112,141089
-2016,sexo,.. São Paulo,161454,134837,68,296359
-2016,sexo,Região Sul,112466,90088,39,202593
-2016,sexo,.. Paraná,42578,32148,14,74740
-2016,sexo,.. Santa Catarina,22562,17697,11,40270
-2016,sexo,.. Rio Grande do Sul,47326,40243,14,87583
-2016,sexo,Região Centro-Oeste,50737,33629,42,84408
-2016,sexo,.. Mato Grosso do Sul,9909,6839,1,16749
-2016,sexo,.. Mato Grosso,11109,6416,10,17535
-2016,sexo,.. Goiás,22942,15101,31,38074
-2016,sexo,.. Distrito Federal,6777,5273,0,12050
-2016,sexo,Total,736842,572359,573,1309774
-2017,sexo,Região Norte,50937,31978,68,82983
-2017,sexo,.. Rondônia,5109,3102,8,8219
-2017,sexo,.. Acre,2360,1471,1,3832
-2017,sexo,.. Amazonas,10440,6833,8,17281
-2017,sexo,.. Roraima,1577,882,2,2461
-2017,sexo,.. Pará,24542,15397,41,39980
-2017,sexo,.. Amapá,1963,1193,2,3158
-2017,sexo,.. Tocantins,4946,3100,6,8052
-2017,sexo,Região Nordeste,201255,150569,221,352045
-2017,sexo,.. Maranhão,20948,14298,29,35275
-2017,sexo,.. Piauí,11263,8564,23,19850
-2017,sexo,.. Ceará,33865,25381,17,59263
-2017,sexo,.. Rio Grande do Norte,12235,9164,10,21409
-2017,sexo,.. Paraíba,14831,12135,9,26975
-2017,sexo,.. Pernambuco,35905,28417,42,64364
-2017,sexo,.. Alagoas,11746,8916,11,20673
-2017,sexo,.. Sergipe,7642,5676,3,13321
-2017,sexo,.. Bahia,52820,38018,77,90915
-2017,sexo,Região Sudeste,321540,271901,251,593692
-2017,sexo,.. Minas Gerais,76972,61116,30,138118
-2017,sexo,.. Espírito Santo,14008,10097,7,24112
-2017,sexo,.. Rio de Janeiro,72032,64534,143,136709
-2017,sexo,.. São Paulo,158528,136154,71,294753
-2017,sexo,Região Sul,109740,88033,20,197793
-2017,sexo,.. Paraná,40598,31023,12,71633
-2017,sexo,.. Santa Catarina,22379,17536,4,39919
-2017,sexo,.. Rio Grande do Sul,46763,39474,4,86241
-2017,sexo,Região Centro-Oeste,50997,35092,61,86150
-2017,sexo,.. Mato Grosso do Sul,9307,6644,3,15954
-2017,sexo,.. Mato Grosso,11067,6637,5,17709
-2017,sexo,.. Goiás,23736,16186,51,39973
-2017,sexo,.. Distrito Federal,6887,5625,2,12514
-2017,sexo,Total,734469,577573,621,1312663
-2018,sexo,Região Norte,51568,32741,100,84409
-2018,sexo,.. Rondônia,5065,3090,10,8165
-2018,sexo,.. Acre,2481,1606,7,4094
-2018,sexo,.. Amazonas,10666,7041,3,17710
-2018,sexo,.. Roraima,1716,1068,3,2787
-2018,sexo,.. Pará,24735,15709,69,40513
-2018,sexo,.. Amapá,2098,1246,1,3345
-2018,sexo,.. Tocantins,4807,2981,7,7795
-2018,sexo,Região Nordeste,195296,148460,213,343969
-2018,sexo,.. Maranhão,20200,14307,18,34525
-2018,sexo,.. Piauí,11381,8574,28,19983
-2018,sexo,.. Ceará,32363,24648,17,57028
-2018,sexo,.. Rio Grande do Norte,12054,9140,15,21209
-2018,sexo,.. Paraíba,14613,12021,10,26644
-2018,sexo,.. Pernambuco,34227,27736,48,62011
-2018,sexo,.. Alagoas,10940,8460,11,19411
-2018,sexo,.. Sergipe,7524,5496,4,13024
-2018,sexo,.. Bahia,51994,38078,62,90134
-2018,sexo,Região Sudeste,323636,274286,216,598138
-2018,sexo,.. Minas Gerais,75052,60551,16,135619
-2018,sexo,.. Espírito Santo,13351,10137,12,23500
-2018,sexo,.. Rio de Janeiro,74036,66548,122,140706
-2018,sexo,.. São Paulo,161197,137050,66,298313
-2018,sexo,Região Sul,112244,91409,81,203734
-2018,sexo,.. Paraná,41581,32251,16,73848
-2018,sexo,.. Santa Catarina,22963,18303,2,41268
-2018,sexo,.. Rio Grande do Sul,47700,40855,63,88618
-2018,sexo,Região Centro-Oeste,50872,35561,36,86469
-2018,sexo,.. Mato Grosso do Sul,9637,6962,1,16600
-2018,sexo,.. Mato Grosso,11245,6949,11,18205
-2018,sexo,.. Goiás,23302,16183,22,39507
-2018,sexo,.. Distrito Federal,6688,5467,2,12157
-2018,sexo,Total,733616,582457,646,1316719
-2019,sexo,Região Norte,52206,33379,101,85686
-2019,sexo,.. Rondônia,5117,3212,9,8338
-2019,sexo,.. Acre,2533,1556,9,4098
-2019,sexo,.. Amazonas,11171,7146,10,18327
-2019,sexo,.. Roraima,1730,1047,2,2779
-2019,sexo,.. Pará,24604,15937,58,40599
-2019,sexo,.. Amapá,2128,1395,1,3524
-2019,sexo,.. Tocantins,4923,3086,12,8021
-2019,sexo,Região Nordeste,197380,155237,184,352801
-2019,sexo,.. Maranhão,20442,14662,24,35128
-2019,sexo,.. Piauí,11485,9029,14,20528
-2019,sexo,.. Ceará,31148,25421,11,56580
-2019,sexo,.. Rio Grande do Norte,12147,9607,13,21767
-2019,sexo,.. Paraíba,14768,12599,11,27378
-2019,sexo,.. Pernambuco,35032,29230,33,64295
-2019,sexo,.. Alagoas,11083,9198,6,20287
-2019,sexo,.. Sergipe,7646,5817,10,13473
-2019,sexo,.. Bahia,53629,39674,62,93365
-2019,sexo,Região Sudeste,331194,284851,198,616243
-2019,sexo,.. Minas Gerais,77557,63449,16,141022
-2019,sexo,.. Espírito Santo,13852,10570,9,24431
-2019,sexo,.. Rio de Janeiro,75114,69369,117,144600
-2019,sexo,.. São Paulo,164671,141463,56,306190
-2019,sexo,Região Sul,112805,93241,40,206086
-2019,sexo,.. Paraná,42157,32391,18,74566
-2019,sexo,.. Santa Catarina,23412,18861,9,42282
-2019,sexo,.. Rio Grande do Sul,47236,41989,13,89238
-2019,sexo,Região Centro-Oeste,51934,37017,34,88985
-2019,sexo,.. Mato Grosso do Sul,9672,7143,0,16815
-2019,sexo,.. Mato Grosso,11315,7013,13,18341
-2019,sexo,.. Goiás,23917,17088,20,41025
-2019,sexo,.. Distrito Federal,7030,5773,1,12804
-2019,sexo,Total,745519,603725,557,1349801
-2020,sexo,Região Norte,66820,42105,89,109014
-2020,sexo,.. Rondônia,6329,3945,4,10278
-2020,sexo,.. Acre,3010,1832,18,4860
-2020,sexo,.. Amazonas,15117,9644,4,24765
-2020,sexo,.. Roraima,2198,1376,6,3580
-2020,sexo,.. Pará,31482,20114,47,51643
-2020,sexo,.. Amapá,2895,1722,0,4617
-2020,sexo,.. Tocantins,5789,3472,10,9271
-2020,sexo,Região Nordeste,237124,178619,176,415919
-2020,sexo,.. Maranhão,25862,17397,12,43271
-2020,sexo,.. Piauí,13606,10013,27,23646
-2020,sexo,.. Ceará,39664,29836,12,69512
-2020,sexo,.. Rio Grande do Norte,13957,10711,6,24674
-2020,sexo,.. Paraíba,17104,13996,7,31107
-2020,sexo,.. Pernambuco,42047,34483,44,76574
-2020,sexo,.. Alagoas,13596,10545,7,24148
-2020,sexo,.. Sergipe,9120,6664,9,15793
-2020,sexo,.. Bahia,62168,44974,52,107194
-2020,sexo,Região Sudeste,383253,319522,284,703059
-2020,sexo,.. Minas Gerais,84432,67663,33,152128
-2020,sexo,.. Espírito Santo,16665,12413,33,29111
-2020,sexo,.. Rio de Janeiro,90921,81129,135,172185
-2020,sexo,.. São Paulo,191235,158317,83,349635
-2020,sexo,Região Sul,123659,98108,41,221808
-2020,sexo,.. Paraná,47278,35278,17,82573
-2020,sexo,.. Santa Catarina,26380,20054,10,46444
-2020,sexo,.. Rio Grande do Sul,50001,42776,14,92791
-2020,sexo,Região Centro-Oeste,63311,43673,40,107024
-2020,sexo,.. Mato Grosso do Sul,11173,7875,3,19051
-2020,sexo,.. Mato Grosso,14515,8874,8,23397
-2020,sexo,.. Goiás,28461,19869,28,48358
-2020,sexo,.. Distrito Federal,9162,7055,1,16218
-2020,sexo,Total,874167,682027,630,1556824
-2021,sexo,Região Norte,72396,48873,85,121354
-2021,sexo,.. Rondônia,8587,5453,2,14042
-2021,sexo,.. Acre,3214,2271,11,5496
-2021,sexo,.. Amazonas,17095,11976,9,29080
-2021,sexo,.. Roraima,2641,1663,2,4306
-2021,sexo,.. Pará,30964,21149,53,52166
-2021,sexo,.. Amapá,2890,1859,1,4750
-2021,sexo,.. Tocantins,7005,4502,7,11514
-2021,sexo,Região Nordeste,248707,194988,177,443872
-2021,sexo,.. Maranhão,26322,18311,21,44654
-2021,sexo,.. Piauí,14921,11263,28,26212
-2021,sexo,.. Ceará,41058,32610,15,73683
-2021,sexo,.. Rio Grande do Norte,14782,11981,8,26771
-2021,sexo,.. Paraíba,18873,15793,12,34678
-2021,sexo,.. Pernambuco,43556,37124,37,80717
-2021,sexo,.. Alagoas,13843,11241,6,25090
-2021,sexo,.. Sergipe,9486,7177,12,16675
-2021,sexo,.. Bahia,65866,49488,38,115392
-2021,sexo,Região Sudeste,456197,387247,290,843734
-2021,sexo,.. Minas Gerais,104471,85579,35,190085
-2021,sexo,.. Espírito Santo,18301,14479,21,32801
-2021,sexo,.. Rio de Janeiro,97888,91219,125,189232
-2021,sexo,.. São Paulo,235537,195970,109,431616
-2021,sexo,Região Sul,160455,129673,98,290226
-2021,sexo,.. Paraná,64044,48518,44,112606
-2021,sexo,.. Santa Catarina,33471,26423,4,59898
-2021,sexo,.. Rio Grande do Sul,62940,54732,50,117722
-2021,sexo,Região Centro-Oeste,77595,55835,33,133463
-2021,sexo,.. Mato Grosso do Sul,14404,10642,3,25049
-2021,sexo,.. Mato Grosso,17394,11216,13,28623
-2021,sexo,.. Goiás,35185,25515,12,60712
-2021,sexo,.. Distrito Federal,10612,8462,5,19079
-2021,sexo,Total,1015350,816616,683,1832649
-2022,sexo,Região Norte,57976,38502,74,96552
-2022,sexo,.. Rondônia,6328,3948,1,10277
-2022,sexo,.. Acre,2432,1722,5,4159
-2022,sexo,.. Amazonas,12177,7971,7,20155
-2022,sexo,.. Roraima,2029,1217,0,3246
-2022,sexo,.. Pará,26987,18457,55,45499
-2022,sexo,.. Amapá,2293,1551,2,3846
-2022,sexo,.. Tocantins,5730,3636,4,9370
-2022,sexo,Região Nordeste,224343,178582,207,403132
-2022,sexo,.. Maranhão,22951,16950,35,39936
-2022,sexo,.. Piauí,13704,10620,19,24343
-2022,sexo,.. Ceará,35656,28989,19,64664
-2022,sexo,.. Rio Grande do Norte,13419,10785,15,24219
-2022,sexo,.. Paraíba,17586,14814,5,32405
-2022,sexo,.. Pernambuco,38941,33034,36,72011
-2022,sexo,.. Alagoas,12736,10378,8,23122
-2022,sexo,.. Sergipe,8333,6446,12,14791
-2022,sexo,.. Bahia,61017,46566,58,107641
-2022,sexo,Região Sudeste,369783,325447,239,695469
-2022,sexo,.. Minas Gerais,88203,74393,19,162615
-2022,sexo,.. Espírito Santo,15604,12364,24,27992
-2022,sexo,.. Rio de Janeiro,76868,73815,123,150806
-2022,sexo,.. São Paulo,189108,164875,73,354056
-2022,sexo,Região Sul,132818,112353,50,245221
-2022,sexo,.. Paraná,50224,39559,25,89808
-2022,sexo,.. Santa Catarina,27956,23354,7,51317
-2022,sexo,.. Rio Grande do Sul,54638,49440,18,104096
-2022,sexo,Região Centro-Oeste,60000,43836,56,103892
-2022,sexo,.. Mato Grosso do Sul,11831,8598,5,20434
-2022,sexo,.. Mato Grosso,13368,8356,7,21731
-2022,sexo,.. Goiás,27059,20188,23,47270
-2022,sexo,.. Distrito Federal,7742,6694,21,14457
-2022,sexo,Total,844920,698720,626,1544266
-2023,sexo,Região Norte,56678,37733,66,94477
-2023,sexo,.. Rondônia,6110,3861,3,9974
-2023,sexo,.. Acre,2434,1748,7,4189
-2023,sexo,.. Amazonas,12234,8144,7,20385
-2023,sexo,.. Roraima,1998,1311,2,3311
-2023,sexo,.. Pará,25922,17813,45,43780
-2023,sexo,.. Amapá,2527,1397,2,3926
-2023,sexo,.. Tocantins,5453,3459,0,8912
-2023,sexo,Região Nordeste,212303,168155,188,380646
-2023,sexo,.. Maranhão,22570,16150,27,38747
-2023,sexo,.. Piauí,12829,9680,20,22529
-2023,sexo,.. Ceará,33472,27139,24,60635
-2023,sexo,.. Rio Grande do Norte,12241,10041,20,22302
-2023,sexo,.. Paraíba,15509,13258,6,28773
-2023,sexo,.. Pernambuco,37117,31383,27,68527
-2023,sexo,.. Alagoas,12134,9824,7,21965
-2023,sexo,.. Sergipe,7956,6122,9,14087
-2023,sexo,.. Bahia,58475,44558,48,103081
-2023,sexo,Região Sudeste,353453,310711,205,664369
-2023,sexo,.. Minas Gerais,86068,71502,33,157603
-2023,sexo,.. Espírito Santo,15357,11953,5,27315
-2023,sexo,.. Rio de Janeiro,74304,70729,115,145148
-2023,sexo,.. São Paulo,177724,156527,52,334303
-2023,sexo,Região Sul,122668,102867,35,225570
-2023,sexo,.. Paraná,46697,36751,17,83465
-2023,sexo,.. Santa Catarina,26565,22016,8,48589
-2023,sexo,.. Rio Grande do Sul,49406,44100,10,93516
-2023,sexo,Região Centro-Oeste,58098,42418,32,100548
-2023,sexo,.. Mato Grosso do Sul,11283,8353,2,19638
-2023,sexo,.. Mato Grosso,13409,8371,10,21790
-2023,sexo,.. Goiás,25800,19222,19,45041
-2023,sexo,.. Distrito Federal,7606,6472,1,14079
-2023,sexo,Total,803200,661884,526,1465610
-2024,sexo,Região Norte,57416,38878,55,96349
-2024,sexo,.. Rondônia,6179,3912,6,10097
-2024,sexo,.. Acre,2524,1736,7,4267
-2024,sexo,.. Amazonas,11934,8287,4,20225
-2024,sexo,.. Roraima,1808,1243,4,3055
-2024,sexo,.. Pará,26860,18489,26,45375
-2024,sexo,.. Amapá,2376,1525,2,3903
-2024,sexo,.. Tocantins,5735,3686,6,9427
-2024,sexo,Região Nordeste,220883,173881,142,394906
-2024,sexo,.. Maranhão,23514,16606,23,40143
-2024,sexo,.. Piauí,13270,10188,18,23476
-2024,sexo,.. Ceará,35663,27822,11,63496
-2024,sexo,.. Rio Grande do Norte,12827,10681,19,23527
-2024,sexo,.. Paraíba,16361,13785,7,30153
-2024,sexo,.. Pernambuco,38280,32485,28,70793
-2024,sexo,.. Alagoas,12564,10085,4,22653
-2024,sexo,.. Sergipe,8025,6426,2,14453
-2024,sexo,.. Bahia,60379,45803,30,106212
-2024,sexo,Região Sudeste,366348,325001,233,691582
-2024,sexo,.. Minas Gerais,89043,74597,28,163668
-2024,sexo,.. Espírito Santo,15675,12452,15,28142
-2024,sexo,.. Rio de Janeiro,75365,72669,122,148156
-2024,sexo,.. São Paulo,186265,165283,68,351616
-2024,sexo,Região Sul,130978,111799,49,242826
-2024,sexo,.. Paraná,49361,39740,21,89122
-2024,sexo,.. Santa Catarina,28329,23880,15,52224
-2024,sexo,.. Rio Grande do Sul,53288,48179,13,101480
-2024,sexo,Região Centro-Oeste,61034,45286,32,106352
-2024,sexo,.. Mato Grosso do Sul,11477,8357,7,19841
-2024,sexo,.. Mato Grosso,13743,9053,7,22803
-2024,sexo,.. Goiás,27316,20496,18,47830
-2024,sexo,.. Distrito Federal,8498,7380,0,15878
-2024,sexo,Total,836659,694845,511,1532015
-2025,sexo,Região Norte,58792,40069,52,98913
-2025,sexo,.. Rondônia,6427,4126,6,10559
-2025,sexo,.. Acre,2554,1683,2,4239
-2025,sexo,.. Amazonas,11831,8538,6,20375
-2025,sexo,.. Roraima,1990,1376,2,3368
-2025,sexo,.. Pará,27695,19017,32,46744
-2025,sexo,.. Amapá,2444,1544,0,3988
-2025,sexo,.. Tocantins,5851,3785,4,9640
-2025,sexo,Região Nordeste,221624,174491,161,396276
-2025,sexo,.. Maranhão,23946,16972,15,40933
-2025,sexo,.. Piauí,13174,10030,17,23221
-2025,sexo,.. Ceará,35526,28362,12,63900
-2025,sexo,.. Rio Grande do Norte,12915,10430,5,23350
-2025,sexo,.. Paraíba,16661,13878,8,30547
-2025,sexo,.. Pernambuco,38027,32448,35,70510
-2025,sexo,.. Alagoas,12859,10071,6,22936
-2025,sexo,.. Sergipe,8151,6427,2,14580
-2025,sexo,.. Bahia,60365,45873,61,106299
-2025,sexo,Região Sudeste,368236,327761,217,696214
-2025,sexo,.. Minas Gerais,87125,72625,22,159772
-2025,sexo,.. Espírito Santo,16347,13044,10,29401
-2025,sexo,.. Rio de Janeiro,77327,74848,109,152284
-2025,sexo,.. São Paulo,187437,167244,76,354757
-2025,sexo,Região Sul,127743,110192,41,237976
-2025,sexo,.. Paraná,48322,39477,17,87816
-2025,sexo,.. Santa Catarina,28500,23620,6,52126
-2025,sexo,.. Rio Grande do Sul,50921,47095,18,98034
-2025,sexo,Região Centro-Oeste,59987,45192,30,105209
-2025,sexo,.. Mato Grosso do Sul,11514,8525,4,20043
-2025,sexo,.. Mato Grosso,13715,9330,4,23049
-2025,sexo,.. Goiás,26780,20213,19,47012
-2025,sexo,.. Distrito Federal,7978,7124,3,15105
-2025,sexo,Total,836382,697705,501,1534588
-2026,sexo,Região Norte,20421,14396,20,34837
-2026,sexo,.. Rondônia,2155,1478,0,3633
-2026,sexo,.. Acre,848,656,6,1510
-2026,sexo,.. Amazonas,3999,2917,2,6918
-2026,sexo,.. Roraima,606,427,1,1034
-2026,sexo,.. Pará,9935,7015,8,16958
-2026,sexo,.. Amapá,857,533,0,1390
-2026,sexo,.. Tocantins,2021,1370,3,3394
-2026,sexo,Região Nordeste,75727,61150,45,136922
-2026,sexo,.. Maranhão,8894,6426,11,15331
-2026,sexo,.. Piauí,4630,3478,4,8112
-2026,sexo,.. Ceará,12693,10391,3,23087
-2026,sexo,.. Rio Grande do Norte,4350,3702,2,8054
-2026,sexo,.. Paraíba,6051,5039,2,11092
-2026,sexo,.. Pernambuco,12445,10963,9,23417
-2026,sexo,.. Alagoas,4307,3432,0,7739
-2026,sexo,.. Sergipe,2932,2404,2,5338
-2026,sexo,.. Bahia,19425,15315,12,34752
-2026,sexo,Região Sudeste,117014,104315,67,221396
-2026,sexo,.. Minas Gerais,27069,22679,5,49753
-2026,sexo,.. Espírito Santo,5040,4039,7,9086
-2026,sexo,.. Rio de Janeiro,24311,23941,34,48286
-2026,sexo,.. São Paulo,60594,53656,21,114271
-2026,sexo,Região Sul,41709,35996,22,77727
-2026,sexo,.. Paraná,16517,13602,5,30124
-2026,sexo,.. Santa Catarina,9413,7973,6,17392
-2026,sexo,.. Rio Grande do Sul,15779,14421,11,30211
-2026,sexo,Região Centro-Oeste,20116,15527,6,35649
-2026,sexo,.. Mato Grosso do Sul,3972,3005,1,6978
-2026,sexo,.. Mato Grosso,4717,3411,0,8128
-2026,sexo,.. Goiás,8701,6670,4,15375
-2026,sexo,.. Distrito Federal,2726,2441,1,5168
-2026,sexo,Total,274987,231384,160,506531
+ano,dimensao,nivel,regiao,uf,sigla,Masc,Fem,Ign,Total
+2016,sexo,Regiao,Região Norte,,,49725,30313,67,80105
+2016,sexo,Estado,Região Norte,Rondônia,RO,5279,3060,5,8344
+2016,sexo,Estado,Região Norte,Acre,AC,2357,1406,0,3763
+2016,sexo,Estado,Região Norte,Amazonas,AM,10237,6550,12,16799
+2016,sexo,Estado,Região Norte,Roraima,RR,1353,804,0,2157
+2016,sexo,Estado,Região Norte,Pará,PA,23910,14605,42,38557
+2016,sexo,Estado,Região Norte,Amapá,AP,1922,1072,1,2995
+2016,sexo,Estado,Região Norte,Tocantins,TO,4667,2816,7,7490
+2016,sexo,Regiao,Região Nordeste,,,199015,147900,180,347095
+2016,sexo,Estado,Região Nordeste,Maranhão,MA,20657,13695,10,34362
+2016,sexo,Estado,Região Nordeste,Piauí,PI,11089,8076,22,19187
+2016,sexo,Estado,Região Nordeste,Ceará,CE,30893,23369,14,54276
+2016,sexo,Estado,Região Nordeste,Rio Grande do Norte,RN,12616,9298,8,21922
+2016,sexo,Estado,Região Nordeste,Paraíba,PB,15225,12807,9,28041
+2016,sexo,Estado,Região Nordeste,Pernambuco,PE,37078,29814,36,66928
+2016,sexo,Estado,Região Nordeste,Alagoas,AL,11787,8963,19,20769
+2016,sexo,Estado,Região Nordeste,Sergipe,SE,7996,5511,9,13516
+2016,sexo,Estado,Região Nordeste,Bahia,BA,51674,36367,53,88094
+2016,sexo,Regiao,Região Sudeste,,,324899,270429,245,595573
+2016,sexo,Estado,Região Sudeste,Minas Gerais,MG,75837,59359,61,135257
+2016,sexo,Estado,Região Sudeste,Espírito Santo,ES,13215,9649,4,22868
+2016,sexo,Estado,Região Sudeste,Rio de Janeiro,RJ,74393,66584,112,141089
+2016,sexo,Estado,Região Sudeste,São Paulo,SP,161454,134837,68,296359
+2016,sexo,Regiao,Região Sul,,,112466,90088,39,202593
+2016,sexo,Estado,Região Sul,Paraná,PR,42578,32148,14,74740
+2016,sexo,Estado,Região Sul,Santa Catarina,SC,22562,17697,11,40270
+2016,sexo,Estado,Região Sul,Rio Grande do Sul,RS,47326,40243,14,87583
+2016,sexo,Regiao,Região Centro-Oeste,,,50737,33629,42,84408
+2016,sexo,Estado,Região Centro-Oeste,Mato Grosso do Sul,MS,9909,6839,1,16749
+2016,sexo,Estado,Região Centro-Oeste,Mato Grosso,MT,11109,6416,10,17535
+2016,sexo,Estado,Região Centro-Oeste,Goiás,GO,22942,15101,31,38074
+2016,sexo,Estado,Região Centro-Oeste,Distrito Federal,DF,6777,5273,0,12050
+2017,sexo,Regiao,Região Norte,,,50937,31978,68,82983
+2017,sexo,Estado,Região Norte,Rondônia,RO,5109,3102,8,8219
+2017,sexo,Estado,Região Norte,Acre,AC,2360,1471,1,3832
+2017,sexo,Estado,Região Norte,Amazonas,AM,10440,6833,8,17281
+2017,sexo,Estado,Região Norte,Roraima,RR,1577,882,2,2461
+2017,sexo,Estado,Região Norte,Pará,PA,24542,15397,41,39980
+2017,sexo,Estado,Região Norte,Amapá,AP,1963,1193,2,3158
+2017,sexo,Estado,Região Norte,Tocantins,TO,4946,3100,6,8052
+2017,sexo,Regiao,Região Nordeste,,,201255,150569,221,352045
+2017,sexo,Estado,Região Nordeste,Maranhão,MA,20948,14298,29,35275
+2017,sexo,Estado,Região Nordeste,Piauí,PI,11263,8564,23,19850
+2017,sexo,Estado,Região Nordeste,Ceará,CE,33865,25381,17,59263
+2017,sexo,Estado,Região Nordeste,Rio Grande do Norte,RN,12235,9164,10,21409
+2017,sexo,Estado,Região Nordeste,Paraíba,PB,14831,12135,9,26975
+2017,sexo,Estado,Região Nordeste,Pernambuco,PE,35905,28417,42,64364
+2017,sexo,Estado,Região Nordeste,Alagoas,AL,11746,8916,11,20673
+2017,sexo,Estado,Região Nordeste,Sergipe,SE,7642,5676,3,13321
+2017,sexo,Estado,Região Nordeste,Bahia,BA,52820,38018,77,90915
+2017,sexo,Regiao,Região Sudeste,,,321540,271901,251,593692
+2017,sexo,Estado,Região Sudeste,Minas Gerais,MG,76972,61116,30,138118
+2017,sexo,Estado,Região Sudeste,Espírito Santo,ES,14008,10097,7,24112
+2017,sexo,Estado,Região Sudeste,Rio de Janeiro,RJ,72032,64534,143,136709
+2017,sexo,Estado,Região Sudeste,São Paulo,SP,158528,136154,71,294753
+2017,sexo,Regiao,Região Sul,,,109740,88033,20,197793
+2017,sexo,Estado,Região Sul,Paraná,PR,40598,31023,12,71633
+2017,sexo,Estado,Região Sul,Santa Catarina,SC,22379,17536,4,39919
+2017,sexo,Estado,Região Sul,Rio Grande do Sul,RS,46763,39474,4,86241
+2017,sexo,Regiao,Região Centro-Oeste,,,50997,35092,61,86150
+2017,sexo,Estado,Região Centro-Oeste,Mato Grosso do Sul,MS,9307,6644,3,15954
+2017,sexo,Estado,Região Centro-Oeste,Mato Grosso,MT,11067,6637,5,17709
+2017,sexo,Estado,Região Centro-Oeste,Goiás,GO,23736,16186,51,39973
+2017,sexo,Estado,Região Centro-Oeste,Distrito Federal,DF,6887,5625,2,12514
+2018,sexo,Regiao,Região Norte,,,51568,32741,100,84409
+2018,sexo,Estado,Região Norte,Rondônia,RO,5065,3090,10,8165
+2018,sexo,Estado,Região Norte,Acre,AC,2481,1606,7,4094
+2018,sexo,Estado,Região Norte,Amazonas,AM,10666,7041,3,17710
+2018,sexo,Estado,Região Norte,Roraima,RR,1716,1068,3,2787
+2018,sexo,Estado,Região Norte,Pará,PA,24735,15709,69,40513
+2018,sexo,Estado,Região Norte,Amapá,AP,2098,1246,1,3345
+2018,sexo,Estado,Região Norte,Tocantins,TO,4807,2981,7,7795
+2018,sexo,Regiao,Região Nordeste,,,195296,148460,213,343969
+2018,sexo,Estado,Região Nordeste,Maranhão,MA,20200,14307,18,34525
+2018,sexo,Estado,Região Nordeste,Piauí,PI,11381,8574,28,19983
+2018,sexo,Estado,Região Nordeste,Ceará,CE,32363,24648,17,57028
+2018,sexo,Estado,Região Nordeste,Rio Grande do Norte,RN,12054,9140,15,21209
+2018,sexo,Estado,Região Nordeste,Paraíba,PB,14613,12021,10,26644
+2018,sexo,Estado,Região Nordeste,Pernambuco,PE,34227,27736,48,62011
+2018,sexo,Estado,Região Nordeste,Alagoas,AL,10940,8460,11,19411
+2018,sexo,Estado,Região Nordeste,Sergipe,SE,7524,5496,4,13024
+2018,sexo,Estado,Região Nordeste,Bahia,BA,51994,38078,62,90134
+2018,sexo,Regiao,Região Sudeste,,,323636,274286,216,598138
+2018,sexo,Estado,Região Sudeste,Minas Gerais,MG,75052,60551,16,135619
+2018,sexo,Estado,Região Sudeste,Espírito Santo,ES,13351,10137,12,23500
+2018,sexo,Estado,Região Sudeste,Rio de Janeiro,RJ,74036,66548,122,140706
+2018,sexo,Estado,Região Sudeste,São Paulo,SP,161197,137050,66,298313
+2018,sexo,Regiao,Região Sul,,,112244,91409,81,203734
+2018,sexo,Estado,Região Sul,Paraná,PR,41581,32251,16,73848
+2018,sexo,Estado,Região Sul,Santa Catarina,SC,22963,18303,2,41268
+2018,sexo,Estado,Região Sul,Rio Grande do Sul,RS,47700,40855,63,88618
+2018,sexo,Regiao,Região Centro-Oeste,,,50872,35561,36,86469
+2018,sexo,Estado,Região Centro-Oeste,Mato Grosso do Sul,MS,9637,6962,1,16600
+2018,sexo,Estado,Região Centro-Oeste,Mato Grosso,MT,11245,6949,11,18205
+2018,sexo,Estado,Região Centro-Oeste,Goiás,GO,23302,16183,22,39507
+2018,sexo,Estado,Região Centro-Oeste,Distrito Federal,DF,6688,5467,2,12157
+2019,sexo,Regiao,Região Norte,,,52206,33379,101,85686
+2019,sexo,Estado,Região Norte,Rondônia,RO,5117,3212,9,8338
+2019,sexo,Estado,Região Norte,Acre,AC,2533,1556,9,4098
+2019,sexo,Estado,Região Norte,Amazonas,AM,11171,7146,10,18327
+2019,sexo,Estado,Região Norte,Roraima,RR,1730,1047,2,2779
+2019,sexo,Estado,Região Norte,Pará,PA,24604,15937,58,40599
+2019,sexo,Estado,Região Norte,Amapá,AP,2128,1395,1,3524
+2019,sexo,Estado,Região Norte,Tocantins,TO,4923,3086,12,8021
+2019,sexo,Regiao,Região Nordeste,,,197380,155237,184,352801
+2019,sexo,Estado,Região Nordeste,Maranhão,MA,20442,14662,24,35128
+2019,sexo,Estado,Região Nordeste,Piauí,PI,11485,9029,14,20528
+2019,sexo,Estado,Região Nordeste,Ceará,CE,31148,25421,11,56580
+2019,sexo,Estado,Região Nordeste,Rio Grande do Norte,RN,12147,9607,13,21767
+2019,sexo,Estado,Região Nordeste,Paraíba,PB,14768,12599,11,27378
+2019,sexo,Estado,Região Nordeste,Pernambuco,PE,35032,29230,33,64295
+2019,sexo,Estado,Região Nordeste,Alagoas,AL,11083,9198,6,20287
+2019,sexo,Estado,Região Nordeste,Sergipe,SE,7646,5817,10,13473
+2019,sexo,Estado,Região Nordeste,Bahia,BA,53629,39674,62,93365
+2019,sexo,Regiao,Região Sudeste,,,331194,284851,198,616243
+2019,sexo,Estado,Região Sudeste,Minas Gerais,MG,77557,63449,16,141022
+2019,sexo,Estado,Região Sudeste,Espírito Santo,ES,13852,10570,9,24431
+2019,sexo,Estado,Região Sudeste,Rio de Janeiro,RJ,75114,69369,117,144600
+2019,sexo,Estado,Região Sudeste,São Paulo,SP,164671,141463,56,306190
+2019,sexo,Regiao,Região Sul,,,112805,93241,40,206086
+2019,sexo,Estado,Região Sul,Paraná,PR,42157,32391,18,74566
+2019,sexo,Estado,Região Sul,Santa Catarina,SC,23412,18861,9,42282
+2019,sexo,Estado,Região Sul,Rio Grande do Sul,RS,47236,41989,13,89238
+2019,sexo,Regiao,Região Centro-Oeste,,,51934,37017,34,88985
+2019,sexo,Estado,Região Centro-Oeste,Mato Grosso do Sul,MS,9672,7143,0,16815
+2019,sexo,Estado,Região Centro-Oeste,Mato Grosso,MT,11315,7013,13,18341
+2019,sexo,Estado,Região Centro-Oeste,Goiás,GO,23917,17088,20,41025
+2019,sexo,Estado,Região Centro-Oeste,Distrito Federal,DF,7030,5773,1,12804
+2020,sexo,Regiao,Região Norte,,,66820,42105,89,109014
+2020,sexo,Estado,Região Norte,Rondônia,RO,6329,3945,4,10278
+2020,sexo,Estado,Região Norte,Acre,AC,3010,1832,18,4860
+2020,sexo,Estado,Região Norte,Amazonas,AM,15117,9644,4,24765
+2020,sexo,Estado,Região Norte,Roraima,RR,2198,1376,6,3580
+2020,sexo,Estado,Região Norte,Pará,PA,31482,20114,47,51643
+2020,sexo,Estado,Região Norte,Amapá,AP,2895,1722,0,4617
+2020,sexo,Estado,Região Norte,Tocantins,TO,5789,3472,10,9271
+2020,sexo,Regiao,Região Nordeste,,,237124,178619,176,415919
+2020,sexo,Estado,Região Nordeste,Maranhão,MA,25862,17397,12,43271
+2020,sexo,Estado,Região Nordeste,Piauí,PI,13606,10013,27,23646
+2020,sexo,Estado,Região Nordeste,Ceará,CE,39664,29836,12,69512
+2020,sexo,Estado,Região Nordeste,Rio Grande do Norte,RN,13957,10711,6,24674
+2020,sexo,Estado,Região Nordeste,Paraíba,PB,17104,13996,7,31107
+2020,sexo,Estado,Região Nordeste,Pernambuco,PE,42047,34483,44,76574
+2020,sexo,Estado,Região Nordeste,Alagoas,AL,13596,10545,7,24148
+2020,sexo,Estado,Região Nordeste,Sergipe,SE,9120,6664,9,15793
+2020,sexo,Estado,Região Nordeste,Bahia,BA,62168,44974,52,107194
+2020,sexo,Regiao,Região Sudeste,,,383253,319522,284,703059
+2020,sexo,Estado,Região Sudeste,Minas Gerais,MG,84432,67663,33,152128
+2020,sexo,Estado,Região Sudeste,Espírito Santo,ES,16665,12413,33,29111
+2020,sexo,Estado,Região Sudeste,Rio de Janeiro,RJ,90921,81129,135,172185
+2020,sexo,Estado,Região Sudeste,São Paulo,SP,191235,158317,83,349635
+2020,sexo,Regiao,Região Sul,,,123659,98108,41,221808
+2020,sexo,Estado,Região Sul,Paraná,PR,47278,35278,17,82573
+2020,sexo,Estado,Região Sul,Santa Catarina,SC,26380,20054,10,46444
+2020,sexo,Estado,Região Sul,Rio Grande do Sul,RS,50001,42776,14,92791
+2020,sexo,Regiao,Região Centro-Oeste,,,63311,43673,40,107024
+2020,sexo,Estado,Região Centro-Oeste,Mato Grosso do Sul,MS,11173,7875,3,19051
+2020,sexo,Estado,Região Centro-Oeste,Mato Grosso,MT,14515,8874,8,23397
+2020,sexo,Estado,Região Centro-Oeste,Goiás,GO,28461,19869,28,48358
+2020,sexo,Estado,Região Centro-Oeste,Distrito Federal,DF,9162,7055,1,16218
+2021,sexo,Regiao,Região Norte,,,72396,48873,85,121354
+2021,sexo,Estado,Região Norte,Rondônia,RO,8587,5453,2,14042
+2021,sexo,Estado,Região Norte,Acre,AC,3214,2271,11,5496
+2021,sexo,Estado,Região Norte,Amazonas,AM,17095,11976,9,29080
+2021,sexo,Estado,Região Norte,Roraima,RR,2641,1663,2,4306
+2021,sexo,Estado,Região Norte,Pará,PA,30964,21149,53,52166
+2021,sexo,Estado,Região Norte,Amapá,AP,2890,1859,1,4750
+2021,sexo,Estado,Região Norte,Tocantins,TO,7005,4502,7,11514
+2021,sexo,Regiao,Região Nordeste,,,248707,194988,177,443872
+2021,sexo,Estado,Região Nordeste,Maranhão,MA,26322,18311,21,44654
+2021,sexo,Estado,Região Nordeste,Piauí,PI,14921,11263,28,26212
+2021,sexo,Estado,Região Nordeste,Ceará,CE,41058,32610,15,73683
+2021,sexo,Estado,Região Nordeste,Rio Grande do Norte,RN,14782,11981,8,26771
+2021,sexo,Estado,Região Nordeste,Paraíba,PB,18873,15793,12,34678
+2021,sexo,Estado,Região Nordeste,Pernambuco,PE,43556,37124,37,80717
+2021,sexo,Estado,Região Nordeste,Alagoas,AL,13843,11241,6,25090
+2021,sexo,Estado,Região Nordeste,Sergipe,SE,9486,7177,12,16675
+2021,sexo,Estado,Região Nordeste,Bahia,BA,65866,49488,38,115392
+2021,sexo,Regiao,Região Sudeste,,,456197,387247,290,843734
+2021,sexo,Estado,Região Sudeste,Minas Gerais,MG,104471,85579,35,190085
+2021,sexo,Estado,Região Sudeste,Espírito Santo,ES,18301,14479,21,32801
+2021,sexo,Estado,Região Sudeste,Rio de Janeiro,RJ,97888,91219,125,189232
+2021,sexo,Estado,Região Sudeste,São Paulo,SP,235537,195970,109,431616
+2021,sexo,Regiao,Região Sul,,,160455,129673,98,290226
+2021,sexo,Estado,Região Sul,Paraná,PR,64044,48518,44,112606
+2021,sexo,Estado,Região Sul,Santa Catarina,SC,33471,26423,4,59898
+2021,sexo,Estado,Região Sul,Rio Grande do Sul,RS,62940,54732,50,117722
+2021,sexo,Regiao,Região Centro-Oeste,,,77595,55835,33,133463
+2021,sexo,Estado,Região Centro-Oeste,Mato Grosso do Sul,MS,14404,10642,3,25049
+2021,sexo,Estado,Região Centro-Oeste,Mato Grosso,MT,17394,11216,13,28623
+2021,sexo,Estado,Região Centro-Oeste,Goiás,GO,35185,25515,12,60712
+2021,sexo,Estado,Região Centro-Oeste,Distrito Federal,DF,10612,8462,5,19079
+2022,sexo,Regiao,Região Norte,,,57976,38502,74,96552
+2022,sexo,Estado,Região Norte,Rondônia,RO,6328,3948,1,10277
+2022,sexo,Estado,Região Norte,Acre,AC,2432,1722,5,4159
+2022,sexo,Estado,Região Norte,Amazonas,AM,12177,7971,7,20155
+2022,sexo,Estado,Região Norte,Roraima,RR,2029,1217,0,3246
+2022,sexo,Estado,Região Norte,Pará,PA,26987,18457,55,45499
+2022,sexo,Estado,Região Norte,Amapá,AP,2293,1551,2,3846
+2022,sexo,Estado,Região Norte,Tocantins,TO,5730,3636,4,9370
+2022,sexo,Regiao,Região Nordeste,,,224343,178582,207,403132
+2022,sexo,Estado,Região Nordeste,Maranhão,MA,22951,16950,35,39936
+2022,sexo,Estado,Região Nordeste,Piauí,PI,13704,10620,19,24343
+2022,sexo,Estado,Região Nordeste,Ceará,CE,35656,28989,19,64664
+2022,sexo,Estado,Região Nordeste,Rio Grande do Norte,RN,13419,10785,15,24219
+2022,sexo,Estado,Região Nordeste,Paraíba,PB,17586,14814,5,32405
+2022,sexo,Estado,Região Nordeste,Pernambuco,PE,38941,33034,36,72011
+2022,sexo,Estado,Região Nordeste,Alagoas,AL,12736,10378,8,23122
+2022,sexo,Estado,Região Nordeste,Sergipe,SE,8333,6446,12,14791
+2022,sexo,Estado,Região Nordeste,Bahia,BA,61017,46566,58,107641
+2022,sexo,Regiao,Região Sudeste,,,369783,325447,239,695469
+2022,sexo,Estado,Região Sudeste,Minas Gerais,MG,88203,74393,19,162615
+2022,sexo,Estado,Região Sudeste,Espírito Santo,ES,15604,12364,24,27992
+2022,sexo,Estado,Região Sudeste,Rio de Janeiro,RJ,76868,73815,123,150806
+2022,sexo,Estado,Região Sudeste,São Paulo,SP,189108,164875,73,354056
+2022,sexo,Regiao,Região Sul,,,132818,112353,50,245221
+2022,sexo,Estado,Região Sul,Paraná,PR,50224,39559,25,89808
+2022,sexo,Estado,Região Sul,Santa Catarina,SC,27956,23354,7,51317
+2022,sexo,Estado,Região Sul,Rio Grande do Sul,RS,54638,49440,18,104096
+2022,sexo,Regiao,Região Centro-Oeste,,,60000,43836,56,103892
+2022,sexo,Estado,Região Centro-Oeste,Mato Grosso do Sul,MS,11831,8598,5,20434
+2022,sexo,Estado,Região Centro-Oeste,Mato Grosso,MT,13368,8356,7,21731
+2022,sexo,Estado,Região Centro-Oeste,Goiás,GO,27059,20188,23,47270
+2022,sexo,Estado,Região Centro-Oeste,Distrito Federal,DF,7742,6694,21,14457
+2023,sexo,Regiao,Região Norte,,,56678,37733,66,94477
+2023,sexo,Estado,Região Norte,Rondônia,RO,6110,3861,3,9974
+2023,sexo,Estado,Região Norte,Acre,AC,2434,1748,7,4189
+2023,sexo,Estado,Região Norte,Amazonas,AM,12234,8144,7,20385
+2023,sexo,Estado,Região Norte,Roraima,RR,1998,1311,2,3311
+2023,sexo,Estado,Região Norte,Pará,PA,25922,17813,45,43780
+2023,sexo,Estado,Região Norte,Amapá,AP,2527,1397,2,3926
+2023,sexo,Estado,Região Norte,Tocantins,TO,5453,3459,0,8912
+2023,sexo,Regiao,Região Nordeste,,,212303,168155,188,380646
+2023,sexo,Estado,Região Nordeste,Maranhão,MA,22570,16150,27,38747
+2023,sexo,Estado,Região Nordeste,Piauí,PI,12829,9680,20,22529
+2023,sexo,Estado,Região Nordeste,Ceará,CE,33472,27139,24,60635
+2023,sexo,Estado,Região Nordeste,Rio Grande do Norte,RN,12241,10041,20,22302
+2023,sexo,Estado,Região Nordeste,Paraíba,PB,15509,13258,6,28773
+2023,sexo,Estado,Região Nordeste,Pernambuco,PE,37117,31383,27,68527
+2023,sexo,Estado,Região Nordeste,Alagoas,AL,12134,9824,7,21965
+2023,sexo,Estado,Região Nordeste,Sergipe,SE,7956,6122,9,14087
+2023,sexo,Estado,Região Nordeste,Bahia,BA,58475,44558,48,103081
+2023,sexo,Regiao,Região Sudeste,,,353453,310711,205,664369
+2023,sexo,Estado,Região Sudeste,Minas Gerais,MG,86068,71502,33,157603
+2023,sexo,Estado,Região Sudeste,Espírito Santo,ES,15357,11953,5,27315
+2023,sexo,Estado,Região Sudeste,Rio de Janeiro,RJ,74304,70729,115,145148
+2023,sexo,Estado,Região Sudeste,São Paulo,SP,177724,156527,52,334303
+2023,sexo,Regiao,Região Sul,,,122668,102867,35,225570
+2023,sexo,Estado,Região Sul,Paraná,PR,46697,36751,17,83465
+2023,sexo,Estado,Região Sul,Santa Catarina,SC,26565,22016,8,48589
+2023,sexo,Estado,Região Sul,Rio Grande do Sul,RS,49406,44100,10,93516
+2023,sexo,Regiao,Região Centro-Oeste,,,58098,42418,32,100548
+2023,sexo,Estado,Região Centro-Oeste,Mato Grosso do Sul,MS,11283,8353,2,19638
+2023,sexo,Estado,Região Centro-Oeste,Mato Grosso,MT,13409,8371,10,21790
+2023,sexo,Estado,Região Centro-Oeste,Goiás,GO,25800,19222,19,45041
+2023,sexo,Estado,Região Centro-Oeste,Distrito Federal,DF,7606,6472,1,14079
+2024,sexo,Regiao,Região Norte,,,57416,38878,55,96349
+2024,sexo,Estado,Região Norte,Rondônia,RO,6179,3912,6,10097
+2024,sexo,Estado,Região Norte,Acre,AC,2524,1736,7,4267
+2024,sexo,Estado,Região Norte,Amazonas,AM,11934,8287,4,20225
+2024,sexo,Estado,Região Norte,Roraima,RR,1808,1243,4,3055
+2024,sexo,Estado,Região Norte,Pará,PA,26860,18489,26,45375
+2024,sexo,Estado,Região Norte,Amapá,AP,2376,1525,2,3903
+2024,sexo,Estado,Região Norte,Tocantins,TO,5735,3686,6,9427
+2024,sexo,Regiao,Região Nordeste,,,220883,173881,142,394906
+2024,sexo,Estado,Região Nordeste,Maranhão,MA,23514,16606,23,40143
+2024,sexo,Estado,Região Nordeste,Piauí,PI,13270,10188,18,23476
+2024,sexo,Estado,Região Nordeste,Ceará,CE,35663,27822,11,63496
+2024,sexo,Estado,Região Nordeste,Rio Grande do Norte,RN,12827,10681,19,23527
+2024,sexo,Estado,Região Nordeste,Paraíba,PB,16361,13785,7,30153
+2024,sexo,Estado,Região Nordeste,Pernambuco,PE,38280,32485,28,70793
+2024,sexo,Estado,Região Nordeste,Alagoas,AL,12564,10085,4,22653
+2024,sexo,Estado,Região Nordeste,Sergipe,SE,8025,6426,2,14453
+2024,sexo,Estado,Região Nordeste,Bahia,BA,60379,45803,30,106212
+2024,sexo,Regiao,Região Sudeste,,,366348,325001,233,691582
+2024,sexo,Estado,Região Sudeste,Minas Gerais,MG,89043,74597,28,163668
+2024,sexo,Estado,Região Sudeste,Espírito Santo,ES,15675,12452,15,28142
+2024,sexo,Estado,Região Sudeste,Rio de Janeiro,RJ,75365,72669,122,148156
+2024,sexo,Estado,Região Sudeste,São Paulo,SP,186265,165283,68,351616
+2024,sexo,Regiao,Região Sul,,,130978,111799,49,242826
+2024,sexo,Estado,Região Sul,Paraná,PR,49361,39740,21,89122
+2024,sexo,Estado,Região Sul,Santa Catarina,SC,28329,23880,15,52224
+2024,sexo,Estado,Região Sul,Rio Grande do Sul,RS,53288,48179,13,101480
+2024,sexo,Regiao,Região Centro-Oeste,,,61034,45286,32,106352
+2024,sexo,Estado,Região Centro-Oeste,Mato Grosso do Sul,MS,11477,8357,7,19841
+2024,sexo,Estado,Região Centro-Oeste,Mato Grosso,MT,13743,9053,7,22803
+2024,sexo,Estado,Região Centro-Oeste,Goiás,GO,27316,20496,18,47830
+2024,sexo,Estado,Região Centro-Oeste,Distrito Federal,DF,8498,7380,0,15878
+2025,sexo,Regiao,Região Norte,,,58792,40069,52,98913
+2025,sexo,Estado,Região Norte,Rondônia,RO,6427,4126,6,10559
+2025,sexo,Estado,Região Norte,Acre,AC,2554,1683,2,4239
+2025,sexo,Estado,Região Norte,Amazonas,AM,11831,8538,6,20375
+2025,sexo,Estado,Região Norte,Roraima,RR,1990,1376,2,3368
+2025,sexo,Estado,Região Norte,Pará,PA,27695,19017,32,46744
+2025,sexo,Estado,Região Norte,Amapá,AP,2444,1544,0,3988
+2025,sexo,Estado,Região Norte,Tocantins,TO,5851,3785,4,9640
+2025,sexo,Regiao,Região Nordeste,,,221624,174491,161,396276
+2025,sexo,Estado,Região Nordeste,Maranhão,MA,23946,16972,15,40933
+2025,sexo,Estado,Região Nordeste,Piauí,PI,13174,10030,17,23221
+2025,sexo,Estado,Região Nordeste,Ceará,CE,35526,28362,12,63900
+2025,sexo,Estado,Região Nordeste,Rio Grande do Norte,RN,12915,10430,5,23350
+2025,sexo,Estado,Região Nordeste,Paraíba,PB,16661,13878,8,30547
+2025,sexo,Estado,Região Nordeste,Pernambuco,PE,38027,32448,35,70510
+2025,sexo,Estado,Região Nordeste,Alagoas,AL,12859,10071,6,22936
+2025,sexo,Estado,Região Nordeste,Sergipe,SE,8151,6427,2,14580
+2025,sexo,Estado,Região Nordeste,Bahia,BA,60365,45873,61,106299
+2025,sexo,Regiao,Região Sudeste,,,368236,327761,217,696214
+2025,sexo,Estado,Região Sudeste,Minas Gerais,MG,87125,72625,22,159772
+2025,sexo,Estado,Região Sudeste,Espírito Santo,ES,16347,13044,10,29401
+2025,sexo,Estado,Região Sudeste,Rio de Janeiro,RJ,77327,74848,109,152284
+2025,sexo,Estado,Região Sudeste,São Paulo,SP,187437,167244,76,354757
+2025,sexo,Regiao,Região Sul,,,127743,110192,41,237976
+2025,sexo,Estado,Região Sul,Paraná,PR,48322,39477,17,87816
+2025,sexo,Estado,Região Sul,Santa Catarina,SC,28500,23620,6,52126
+2025,sexo,Estado,Região Sul,Rio Grande do Sul,RS,50921,47095,18,98034
+2025,sexo,Regiao,Região Centro-Oeste,,,59987,45192,30,105209
+2025,sexo,Estado,Região Centro-Oeste,Mato Grosso do Sul,MS,11514,8525,4,20043
+2025,sexo,Estado,Região Centro-Oeste,Mato Grosso,MT,13715,9330,4,23049
+2025,sexo,Estado,Região Centro-Oeste,Goiás,GO,26780,20213,19,47012
+2025,sexo,Estado,Região Centro-Oeste,Distrito Federal,DF,7978,7124,3,15105
+2026,sexo,Regiao,Região Norte,,,20421,14396,20,34837
+2026,sexo,Estado,Região Norte,Rondônia,RO,2155,1478,0,3633
+2026,sexo,Estado,Região Norte,Acre,AC,848,656,6,1510
+2026,sexo,Estado,Região Norte,Amazonas,AM,3999,2917,2,6918
+2026,sexo,Estado,Região Norte,Roraima,RR,606,427,1,1034
+2026,sexo,Estado,Região Norte,Pará,PA,9935,7015,8,16958
+2026,sexo,Estado,Região Norte,Amapá,AP,857,533,0,1390
+2026,sexo,Estado,Região Norte,Tocantins,TO,2021,1370,3,3394
+2026,sexo,Regiao,Região Nordeste,,,75727,61150,45,136922
+2026,sexo,Estado,Região Nordeste,Maranhão,MA,8894,6426,11,15331
+2026,sexo,Estado,Região Nordeste,Piauí,PI,4630,3478,4,8112
+2026,sexo,Estado,Região Nordeste,Ceará,CE,12693,10391,3,23087
+2026,sexo,Estado,Região Nordeste,Rio Grande do Norte,RN,4350,3702,2,8054
+2026,sexo,Estado,Região Nordeste,Paraíba,PB,6051,5039,2,11092
+2026,sexo,Estado,Região Nordeste,Pernambuco,PE,12445,10963,9,23417
+2026,sexo,Estado,Região Nordeste,Alagoas,AL,4307,3432,0,7739
+2026,sexo,Estado,Região Nordeste,Sergipe,SE,2932,2404,2,5338
+2026,sexo,Estado,Região Nordeste,Bahia,BA,19425,15315,12,34752
+2026,sexo,Regiao,Região Sudeste,,,117014,104315,67,221396
+2026,sexo,Estado,Região Sudeste,Minas Gerais,MG,27069,22679,5,49753
+2026,sexo,Estado,Região Sudeste,Espírito Santo,ES,5040,4039,7,9086
+2026,sexo,Estado,Região Sudeste,Rio de Janeiro,RJ,24311,23941,34,48286
+2026,sexo,Estado,Região Sudeste,São Paulo,SP,60594,53656,21,114271
+2026,sexo,Regiao,Região Sul,,,41709,35996,22,77727
+2026,sexo,Estado,Região Sul,Paraná,PR,16517,13602,5,30124
+2026,sexo,Estado,Região Sul,Santa Catarina,SC,9413,7973,6,17392
+2026,sexo,Estado,Região Sul,Rio Grande do Sul,RS,15779,14421,11,30211
+2026,sexo,Regiao,Região Centro-Oeste,,,20116,15527,6,35649
+2026,sexo,Estado,Região Centro-Oeste,Mato Grosso do Sul,MS,3972,3005,1,6978
+2026,sexo,Estado,Região Centro-Oeste,Mato Grosso,MT,4717,3411,0,8128
+2026,sexo,Estado,Região Centro-Oeste,Goiás,GO,8701,6670,4,15375
+2026,sexo,Estado,Região Centro-Oeste,Distrito Federal,DF,2726,2441,1,5168

@@ -64,3 +64,20 @@ As 6 categorias abaixo existem no dataset original do DATASUS/SIM, mas seus CSVs
 - 3 arquivos duplicados com sufixo `(1).csv` — em Causas Evitáveis, Óbitos Infantis e Óbitos por Causas Externas.
 - 1 arquivo de Causas Externas classificado incorretamente dentro da pasta de Óbitos Fetais.
 - Verificar, para cada categoria, se o mesmo padrão de colunas de capítulo CID-10 "aparecem só em anos com ocorrência" se repete (provável, dado o comportamento do TabNet).
+
+### Padronização de categorias (Etapa 5)
+Script: `src/cleaning/padronizacao_categorias.py`. **Depende da Etapa 4 já ter rodado** (recria os arquivos processados a partir dos brutos, depois padroniza por cima — rodar limpeza antes, sempre).
+
+**Região/UF → 4 colunas explícitas:**
+| Coluna nova | Conteúdo |
+|---|---|
+| `nivel` | `"Regiao"` ou `"Estado"` |
+| `regiao` | Nome da região (preenchido em ambos os níveis) |
+| `uf` | Nome do estado, sem o prefixo `".. "` (vazio para linhas de região) |
+| `sigla` | Sigla de 2 letras do estado (ex: `SP`, `RJ`) — vazio para linhas de região |
+
+A linha "Total" (Brasil) foi **removida** — é recalculável a qualquer momento somando todos os registros de `nivel="Estado"`, não precisa ser armazenada.
+
+**CID-10 → descrição:** tabela de referência oficial (22 capítulos, OMS) salva em `data/processed/mortalidade_geral/referencia_cid10.csv` (colunas: `capitulo`, `intervalo_codigos`, `descricao`), reaproveitável pelas outras 6 categorias.
+
+**Formato longo/tidy:** `capitulo_cid10_long.csv` (7.392 linhas) — uma linha por combinação (ano, UF/Região, capítulo), já com a descrição do capítulo. Este é o formato recomendado para o P4 consumir no Power BI (dimensões `faixa_etaria`, `sexo`, `local_ocorrencia` continuam em formato largo, pois já têm poucas colunas e nomes autoexplicativos — não precisam de melt).

@@ -1,364 +1,353 @@
-ano,dimensao,Região/Unidade da Federação,Hospital,Outro estabelecimento de saúde,Domicílio,Via pública,Outros,Ignorado,Total
-2016,local_ocorrencia,Região Norte,50245,1605,17505,6276,4236,238,80105
-2016,local_ocorrencia,.. Rondônia,5757,95,1436,717,323,16,8344
-2016,local_ocorrencia,.. Acre,2497,14,766,270,213,3,3763
-2016,local_ocorrencia,.. Amazonas,10866,188,3906,1061,771,7,16799
-2016,local_ocorrencia,.. Roraima,1336,34,466,96,208,17,2157
-2016,local_ocorrencia,.. Pará,23080,1149,8694,3323,2135,176,38557
-2016,local_ocorrencia,.. Amapá,2141,20,495,145,191,3,2995
-2016,local_ocorrencia,.. Tocantins,4568,105,1742,664,395,16,7490
-2016,local_ocorrencia,Região Nordeste,207735,11078,91912,23598,12269,503,347095
-2016,local_ocorrencia,.. Maranhão,19378,1460,9736,2444,1279,65,34362
-2016,local_ocorrencia,.. Piauí,10989,120,6218,1207,614,39,19187
-2016,local_ocorrencia,.. Ceará,30588,1906,15833,3505,2380,64,54276
-2016,local_ocorrencia,.. Rio Grande do Norte,12754,991,5835,1604,698,40,21922
-2016,local_ocorrencia,.. Paraíba,17323,565,7799,1456,876,22,28041
-2016,local_ocorrencia,.. Pernambuco,43305,1871,15320,4642,1752,38,66928
-2016,local_ocorrencia,.. Alagoas,12832,363,5257,1857,451,9,20769
-2016,local_ocorrencia,.. Sergipe,8263,156,3451,1400,241,5,13516
-2016,local_ocorrencia,.. Bahia,52303,3646,22463,5483,3978,221,88094
-2016,local_ocorrencia,Região Sudeste,421494,46612,92630,16797,17585,455,595573
-2016,local_ocorrencia,.. Minas Gerais,89535,11212,24834,5260,4203,213,135257
-2016,local_ocorrencia,.. Espírito Santo,16138,1053,3808,1207,598,64,22868
-2016,local_ocorrencia,.. Rio de Janeiro,97274,16448,18909,3204,5225,29,141089
-2016,local_ocorrencia,.. São Paulo,218547,17899,45079,7126,7559,149,296359
-2016,local_ocorrencia,Região Sul,141483,6255,39864,8108,6797,86,202593
-2016,local_ocorrencia,.. Paraná,49091,3578,16369,3366,2310,26,74740
-2016,local_ocorrencia,.. Santa Catarina,28197,918,8083,1546,1511,15,40270
-2016,local_ocorrencia,.. Rio Grande do Sul,64195,1759,15412,3196,2976,45,87583
-2016,local_ocorrencia,Região Centro-Oeste,58042,3536,14223,5195,3357,55,84408
-2016,local_ocorrencia,.. Mato Grosso do Sul,11336,710,3163,790,747,3,16749
-2016,local_ocorrencia,.. Mato Grosso,11708,792,2961,1225,832,17,17535
-2016,local_ocorrencia,.. Goiás,26041,1583,6399,2498,1522,31,38074
-2016,local_ocorrencia,.. Distrito Federal,8957,451,1700,682,256,4,12050
-2016,local_ocorrencia,Total,878999,69086,256134,59974,44244,1337,1309774
-2017,local_ocorrencia,Região Norte,51605,1806,18241,6455,4614,262,82983
-2017,local_ocorrencia,.. Rondônia,5756,94,1416,606,329,18,8219
-2017,local_ocorrencia,.. Acre,2401,14,809,329,273,6,3832
-2017,local_ocorrencia,.. Amazonas,11170,170,3992,1032,893,24,17281
-2017,local_ocorrencia,.. Roraima,1504,29,514,140,268,6,2461
-2017,local_ocorrencia,.. Pará,23740,1311,8981,3507,2246,195,39980
-2017,local_ocorrencia,.. Amapá,2243,41,532,153,187,2,3158
-2017,local_ocorrencia,.. Tocantins,4791,147,1997,688,418,11,8052
-2017,local_ocorrencia,Região Nordeste,207386,14581,92648,24280,12780,370,352045
-2017,local_ocorrencia,.. Maranhão,20582,1383,9738,2120,1400,52,35275
-2017,local_ocorrencia,.. Piauí,11432,144,6584,1068,605,17,19850
-2017,local_ocorrencia,.. Ceará,32691,2545,16804,4771,2383,69,59263
-2017,local_ocorrencia,.. Rio Grande do Norte,12311,1076,5482,1786,725,29,21409
-2017,local_ocorrencia,.. Paraíba,16509,587,7455,1463,929,32,26975
-2017,local_ocorrencia,.. Pernambuco,39781,3418,14412,4578,2135,40,64364
-2017,local_ocorrencia,.. Alagoas,12660,446,5171,1758,622,16,20673
-2017,local_ocorrencia,.. Sergipe,8130,179,3561,1200,247,4,13321
-2017,local_ocorrencia,.. Bahia,53290,4803,23441,5536,3734,111,90915
-2017,local_ocorrencia,Região Sudeste,417368,48509,93473,16671,17280,391,593692
-2017,local_ocorrencia,.. Minas Gerais,91314,11232,26291,5107,4005,169,138118
-2017,local_ocorrencia,.. Espírito Santo,16715,1088,4103,1431,695,80,24112
-2017,local_ocorrencia,.. Rio de Janeiro,92738,17236,18395,3244,5071,25,136709
-2017,local_ocorrencia,.. São Paulo,216601,18953,44684,6889,7509,117,294753
-2017,local_ocorrencia,Região Sul,138386,6292,37936,7981,7102,96,197793
-2017,local_ocorrencia,.. Paraná,47501,3393,15149,3028,2531,31,71633
-2017,local_ocorrencia,.. Santa Catarina,28053,884,7837,1707,1428,10,39919
-2017,local_ocorrencia,.. Rio Grande do Sul,62832,2015,14950,3246,3143,55,86241
-2017,local_ocorrencia,Região Centro-Oeste,58153,4602,15051,4937,3327,80,86150
-2017,local_ocorrencia,.. Mato Grosso do Sul,10976,560,2988,732,696,2,15954
-2017,local_ocorrencia,.. Mato Grosso,11628,1015,3117,1156,780,13,17709
-2017,local_ocorrencia,.. Goiás,26497,2348,7044,2443,1584,57,39973
-2017,local_ocorrencia,.. Distrito Federal,9052,679,1902,606,267,8,12514
-2017,local_ocorrencia,Total,872898,75790,257349,60324,45103,1199,1312663
-2018,local_ocorrencia,Região Norte,52533,2625,18550,5923,4578,200,84409
-2018,local_ocorrencia,.. Rondônia,5662,111,1545,525,309,13,8165
-2018,local_ocorrencia,.. Acre,2620,11,951,262,246,4,4094
-2018,local_ocorrencia,.. Amazonas,11486,145,4233,999,828,19,17710
-2018,local_ocorrencia,.. Roraima,1790,28,503,154,308,4,2787
-2018,local_ocorrencia,.. Pará,23941,2006,8960,3174,2283,149,40513
-2018,local_ocorrencia,.. Amapá,2303,67,592,188,192,3,3345
-2018,local_ocorrencia,.. Tocantins,4731,257,1766,621,412,8,7795
-2018,local_ocorrencia,Região Nordeste,205020,16110,88867,21279,12335,358,343969
-2018,local_ocorrencia,.. Maranhão,20452,1283,9395,1980,1377,38,34525
-2018,local_ocorrencia,.. Piauí,11680,125,6466,1050,593,69,19983
-2018,local_ocorrencia,.. Ceará,31524,2806,16158,4322,2165,53,57028
-2018,local_ocorrencia,.. Rio Grande do Norte,12476,1218,5263,1446,778,28,21209
-2018,local_ocorrencia,.. Paraíba,16412,646,7183,1394,991,18,26644
-2018,local_ocorrencia,.. Pernambuco,38616,4238,13651,3684,1788,34,62011
-2018,local_ocorrencia,.. Alagoas,12231,486,4757,1347,584,6,19411
-2018,local_ocorrencia,.. Sergipe,8316,145,3395,963,202,3,13024
-2018,local_ocorrencia,.. Bahia,53313,5163,22599,5093,3857,109,90134
-2018,local_ocorrencia,Região Sudeste,421919,49594,94172,15161,17014,278,598138
-2018,local_ocorrencia,.. Minas Gerais,90664,10800,25764,4467,3798,126,135619
-2018,local_ocorrencia,.. Espírito Santo,16536,1041,3964,1197,722,40,23500
-2018,local_ocorrencia,.. Rio de Janeiro,95008,18677,18914,3100,4968,39,140706
-2018,local_ocorrencia,.. São Paulo,219711,19076,45530,6397,7526,73,298313
-2018,local_ocorrencia,Região Sul,142249,7113,39622,7211,7468,71,203734
-2018,local_ocorrencia,.. Paraná,49133,3654,15702,2861,2476,22,73848
-2018,local_ocorrencia,.. Santa Catarina,29252,855,8249,1476,1421,15,41268
-2018,local_ocorrencia,.. Rio Grande do Sul,63864,2604,15671,2874,3571,34,88618
-2018,local_ocorrencia,Região Centro-Oeste,58204,5094,15484,4445,3157,85,86469
-2018,local_ocorrencia,.. Mato Grosso do Sul,11314,630,3268,695,690,3,16600
-2018,local_ocorrencia,.. Mato Grosso,12008,1155,3192,1107,715,28,18205
-2018,local_ocorrencia,.. Goiás,26044,2772,7011,2143,1492,45,39507
-2018,local_ocorrencia,.. Distrito Federal,8838,537,2013,500,260,9,12157
-2018,local_ocorrencia,Total,879925,80536,256695,54019,44552,992,1316719
-2019,local_ocorrencia,Região Norte,53536,3234,18975,5148,4626,167,85686
-2019,local_ocorrencia,.. Rondônia,5750,136,1623,493,325,11,8338
-2019,local_ocorrencia,.. Acre,2676,20,950,219,224,9,4098
-2019,local_ocorrencia,.. Amazonas,11925,114,4372,985,917,14,18327
-2019,local_ocorrencia,.. Roraima,1830,24,575,108,240,2,2779
-2019,local_ocorrencia,.. Pará,24027,2603,8928,2587,2334,120,40599
-2019,local_ocorrencia,.. Amapá,2392,91,635,208,196,2,3524
-2019,local_ocorrencia,.. Tocantins,4936,246,1892,548,390,9,8021
-2019,local_ocorrencia,Região Nordeste,213280,17577,91583,18439,11644,278,352801
-2019,local_ocorrencia,.. Maranhão,20921,1290,9739,1844,1302,32,35128
-2019,local_ocorrencia,.. Piauí,12230,166,6515,951,638,28,20528
-2019,local_ocorrencia,.. Ceará,32390,3241,16183,3014,1731,21,56580
-2019,local_ocorrencia,.. Rio Grande do Norte,12845,1514,5509,1252,617,30,21767
-2019,local_ocorrencia,.. Paraíba,17093,896,7405,1090,882,12,27378
-2019,local_ocorrencia,.. Pernambuco,40659,4241,14257,3168,1914,56,64295
-2019,local_ocorrencia,.. Alagoas,13076,622,4888,1111,582,8,20287
-2019,local_ocorrencia,.. Sergipe,8718,90,3518,949,197,1,13473
-2019,local_ocorrencia,.. Bahia,55348,5517,23569,5060,3781,90,93365
-2019,local_ocorrencia,Região Sudeste,432347,53474,98596,14621,16934,271,616243
-2019,local_ocorrencia,.. Minas Gerais,93643,11954,26885,4309,4110,121,141022
-2019,local_ocorrencia,.. Espírito Santo,17101,1106,4315,1108,771,30,24431
-2019,local_ocorrencia,.. Rio de Janeiro,96602,21073,19660,2792,4423,50,144600
-2019,local_ocorrencia,.. São Paulo,225001,19341,47736,6412,7630,70,306190
-2019,local_ocorrencia,Região Sul,144654,7356,39621,6675,7690,90,206086
-2019,local_ocorrencia,.. Paraná,50018,3679,15824,2758,2268,19,74566
-2019,local_ocorrencia,.. Santa Catarina,30158,896,8146,1444,1618,20,42282
-2019,local_ocorrencia,.. Rio Grande do Sul,64478,2781,15651,2473,3804,51,89238
-2019,local_ocorrencia,Região Centro-Oeste,60212,5398,15853,4256,3213,53,88985
-2019,local_ocorrencia,.. Mato Grosso do Sul,11533,619,3257,724,680,2,16815
-2019,local_ocorrencia,.. Mato Grosso,12092,1245,3202,1057,737,8,18341
-2019,local_ocorrencia,.. Goiás,27221,2930,7331,1952,1551,40,41025
-2019,local_ocorrencia,.. Distrito Federal,9366,604,2063,523,245,3,12804
-2019,local_ocorrencia,Total,904029,87039,264628,49139,44107,859,1349801
-2020,local_ocorrencia,Região Norte,69015,4390,25728,4911,4809,161,109014
-2020,local_ocorrencia,.. Rondônia,7238,163,1981,514,369,13,10278
-2020,local_ocorrencia,.. Acre,3127,19,1190,195,317,12,4860
-2020,local_ocorrencia,.. Amazonas,16535,361,6107,814,933,15,24765
-2020,local_ocorrencia,.. Roraima,2356,19,797,104,297,7,3580
-2020,local_ocorrencia,.. Pará,31105,3267,12424,2473,2277,97,51643
-2020,local_ocorrencia,.. Amapá,3087,176,891,210,249,4,4617
-2020,local_ocorrencia,.. Tocantins,5567,385,2338,601,367,13,9271
-2020,local_ocorrencia,Região Nordeste,244543,22155,114939,20382,13573,327,415919
-2020,local_ocorrencia,.. Maranhão,25378,1474,12527,2234,1626,32,43271
-2020,local_ocorrencia,.. Piauí,13702,173,7972,1016,745,38,23646
-2020,local_ocorrencia,.. Ceará,38538,4827,19940,3898,2271,38,69512
-2020,local_ocorrencia,.. Rio Grande do Norte,14166,1870,6671,1291,654,22,24674
-2020,local_ocorrencia,.. Paraíba,19001,1004,8794,1248,1037,23,31107
-2020,local_ocorrencia,.. Pernambuco,48380,4582,17968,3298,2310,36,76574
-2020,local_ocorrencia,.. Alagoas,14900,775,6463,1232,765,13,24148
-2020,local_ocorrencia,.. Sergipe,9959,165,4463,960,241,5,15793
-2020,local_ocorrencia,.. Bahia,60519,7285,30141,5205,3924,120,107194
-2020,local_ocorrencia,Região Sudeste,491889,60276,118936,15200,16404,354,703059
-2020,local_ocorrencia,.. Minas Gerais,99865,11721,32429,4102,3835,176,152128
-2020,local_ocorrencia,.. Espírito Santo,20440,1385,5230,1182,843,31,29111
-2020,local_ocorrencia,.. Rio de Janeiro,116165,24062,24886,3184,3845,43,172185
-2020,local_ocorrencia,.. São Paulo,255419,23108,56391,6732,7881,104,349635
-2020,local_ocorrencia,Região Sul,153312,7266,46181,6863,8101,85,221808
-2020,local_ocorrencia,.. Paraná,54970,3691,18296,3094,2498,24,82573
-2020,local_ocorrencia,.. Santa Catarina,32709,993,9619,1421,1683,19,46444
-2020,local_ocorrencia,.. Rio Grande do Sul,65633,2582,18266,2348,3920,42,92791
-2020,local_ocorrencia,Região Centro-Oeste,72839,6245,19798,4484,3594,64,107024
-2020,local_ocorrencia,.. Mato Grosso do Sul,13155,656,3806,740,682,12,19051
-2020,local_ocorrencia,.. Mato Grosso,15239,1715,4287,1263,882,11,23397
-2020,local_ocorrencia,.. Goiás,32581,2928,9118,1976,1717,38,48358
-2020,local_ocorrencia,.. Distrito Federal,11864,946,2587,505,313,3,16218
-2020,local_ocorrencia,Total,1031598,100332,325582,51840,46481,991,1556824
-2021,local_ocorrencia,Região Norte,81777,4849,24244,5344,5012,128,121354
-2021,local_ocorrencia,.. Rondônia,10478,296,2243,612,399,14,14042
-2021,local_ocorrencia,.. Acre,4007,16,1106,169,191,7,5496
-2021,local_ocorrencia,.. Amazonas,20475,547,5873,1056,1111,18,29080
-2021,local_ocorrencia,.. Roraima,3008,23,746,132,395,2,4306
-2021,local_ocorrencia,.. Pará,33119,3150,11046,2562,2227,62,52166
-2021,local_ocorrencia,.. Amapá,3270,213,800,201,264,2,4750
-2021,local_ocorrencia,.. Tocantins,7420,604,2430,612,425,23,11514
-2021,local_ocorrencia,Região Nordeste,273416,23540,113272,19402,13954,288,443872
-2021,local_ocorrencia,.. Maranhão,27900,1174,11500,2145,1900,35,44654
-2021,local_ocorrencia,.. Piauí,15758,177,8380,1067,802,28,26212
-2021,local_ocorrencia,.. Ceará,43151,5065,19777,3311,2350,29,73683
-2021,local_ocorrencia,.. Rio Grande do Norte,16424,2108,6420,1229,571,19,26771
-2021,local_ocorrencia,.. Paraíba,22076,1111,9070,1271,1128,22,34678
-2021,local_ocorrencia,.. Pernambuco,53314,4381,17737,3075,2190,20,80717
-2021,local_ocorrencia,.. Alagoas,16114,1070,6143,1060,688,15,25090
-2021,local_ocorrencia,.. Sergipe,10771,248,4625,799,232,0,16675
-2021,local_ocorrencia,.. Bahia,67908,8206,29620,5445,4093,120,115392
-2021,local_ocorrencia,Região Sudeste,605208,77772,127480,15282,17527,465,843734
-2021,local_ocorrencia,.. Minas Gerais,131769,15210,34765,4117,4055,169,190085
-2021,local_ocorrencia,.. Espírito Santo,23437,1805,5487,1075,952,45,32801
-2021,local_ocorrencia,.. Rio de Janeiro,131927,24921,25411,3154,3789,30,189232
-2021,local_ocorrencia,.. São Paulo,318075,35836,61817,6936,8731,221,431616
-2021,local_ocorrencia,Região Sul,209246,12780,51711,7062,9287,140,290226
-2021,local_ocorrencia,.. Paraná,79025,6784,20762,3160,2842,33,112606
-2021,local_ocorrencia,.. Santa Catarina,43616,1749,11086,1442,1986,19,59898
-2021,local_ocorrencia,.. Rio Grande do Sul,86605,4247,19863,2460,4459,88,117722
-2021,local_ocorrencia,Região Centro-Oeste,96582,8099,20667,4260,3796,59,133463
-2021,local_ocorrencia,.. Mato Grosso do Sul,18258,1058,4198,755,763,17,25049
-2021,local_ocorrencia,.. Mato Grosso,20195,1913,4380,1202,918,15,28623
-2021,local_ocorrencia,.. Goiás,44066,3650,9515,1789,1667,25,60712
-2021,local_ocorrencia,.. Distrito Federal,14063,1478,2574,514,448,2,19079
-2021,local_ocorrencia,Total,1266229,127040,337374,51350,49576,1080,1832649
-2022,local_ocorrencia,Região Norte,59532,4864,21784,5432,4837,103,96552
-2022,local_ocorrencia,.. Rondônia,6891,300,2026,602,443,15,10277
-2022,local_ocorrencia,.. Acre,2757,13,961,210,212,6,4159
-2022,local_ocorrencia,.. Amazonas,13140,143,4764,1206,894,8,20155
-2022,local_ocorrencia,.. Roraima,2096,17,640,132,360,1,3246
-2022,local_ocorrencia,.. Pará,26673,3540,10483,2532,2225,46,45499
-2022,local_ocorrencia,.. Amapá,2358,304,760,145,271,8,3846
-2022,local_ocorrencia,.. Tocantins,5617,547,2150,605,432,19,9370
-2022,local_ocorrencia,Região Nordeste,236831,23010,109822,18676,14527,266,403132
-2022,local_ocorrencia,.. Maranhão,23541,1299,11298,2101,1663,34,39936
-2022,local_ocorrencia,.. Piauí,13800,282,8422,1078,738,23,24343
-2022,local_ocorrencia,.. Ceará,36802,3805,18413,3098,2535,11,64664
-2022,local_ocorrencia,.. Rio Grande do Norte,13963,2258,6166,1163,637,32,24219
-2022,local_ocorrencia,.. Paraíba,19479,1230,9274,1200,1198,24,32405
-2022,local_ocorrencia,.. Pernambuco,45127,4455,16998,3089,2322,20,72011
-2022,local_ocorrencia,.. Alagoas,13755,1394,5970,993,999,11,23122
-2022,local_ocorrencia,.. Sergipe,9388,182,4169,835,213,4,14791
-2022,local_ocorrencia,.. Bahia,60976,8105,29112,5119,4222,107,107641
-2022,local_ocorrencia,Região Sudeste,475791,61949,123801,15435,18174,319,695469
-2022,local_ocorrencia,.. Minas Gerais,106837,12358,34556,4251,4455,158,162615
-2022,local_ocorrencia,.. Espírito Santo,18699,1708,5346,1245,947,47,27992
-2022,local_ocorrencia,.. Rio de Janeiro,101088,19774,23608,3001,3310,25,150806
-2022,local_ocorrencia,.. São Paulo,249167,28109,60291,6938,9462,89,354056
-2022,local_ocorrencia,Região Sul,166465,10312,51292,7274,9785,93,245221
-2022,local_ocorrencia,.. Paraná,57677,5185,20632,3289,3006,19,89808
-2022,local_ocorrencia,.. Santa Catarina,35583,1370,10901,1431,2020,12,51317
-2022,local_ocorrencia,.. Rio Grande do Sul,73205,3757,19759,2554,4759,62,104096
-2022,local_ocorrencia,Região Centro-Oeste,69913,6370,19476,4355,3711,67,103892
-2022,local_ocorrencia,.. Mato Grosso do Sul,14094,665,4056,818,782,19,20434
-2022,local_ocorrencia,.. Mato Grosso,13670,1678,4197,1241,929,16,21731
-2022,local_ocorrencia,.. Goiás,32120,2819,8815,1802,1686,28,47270
-2022,local_ocorrencia,.. Distrito Federal,10029,1208,2408,494,314,4,14457
-2022,local_ocorrencia,Total,1008532,106505,326175,51172,51034,848,1544266
-2023,local_ocorrencia,Região Norte,58698,4538,20975,5328,4859,79,94477
-2023,local_ocorrencia,.. Rondônia,6845,250,1861,586,418,14,9974
-2023,local_ocorrencia,.. Acre,2731,17,1043,177,220,1,4189
-2023,local_ocorrencia,.. Amazonas,13360,102,4808,1176,937,2,20385
-2023,local_ocorrencia,.. Roraima,2193,23,655,105,333,2,3311
-2023,local_ocorrencia,.. Pará,25529,3592,9978,2405,2225,51,43780
-2023,local_ocorrencia,.. Amapá,2535,147,733,225,284,2,3926
-2023,local_ocorrencia,.. Tocantins,5505,407,1897,654,442,7,8912
-2023,local_ocorrencia,Região Nordeste,226752,21536,99174,18373,14557,254,380646
-2023,local_ocorrencia,.. Maranhão,22878,1466,10458,2172,1732,41,38747
-2023,local_ocorrencia,.. Piauí,13105,303,7277,1122,700,22,22529
-2023,local_ocorrencia,.. Ceará,34777,3538,16853,2851,2605,11,60635
-2023,local_ocorrencia,.. Rio Grande do Norte,13035,1950,5722,974,574,47,22302
-2023,local_ocorrencia,.. Paraíba,17819,934,7735,1241,1030,14,28773
-2023,local_ocorrencia,.. Pernambuco,43089,4506,15378,3224,2304,26,68527
-2023,local_ocorrencia,.. Alagoas,13437,1160,5339,1007,1017,5,21965
-2023,local_ocorrencia,.. Sergipe,9205,162,3797,697,220,6,14087
-2023,local_ocorrencia,.. Bahia,59407,7517,26615,5085,4375,82,103081
-2023,local_ocorrencia,Região Sudeste,454516,60880,115130,15426,18144,273,664369
-2023,local_ocorrencia,.. Minas Gerais,104587,11563,32020,4473,4803,157,157603
-2023,local_ocorrencia,.. Espírito Santo,18270,1718,5219,1163,921,24,27315
-2023,local_ocorrencia,.. Rio de Janeiro,94274,22075,22225,3064,3480,30,145148
-2023,local_ocorrencia,.. São Paulo,237385,25524,55666,6726,8940,62,334303
-2023,local_ocorrencia,Região Sul,154745,8740,45803,6922,9249,111,225570
-2023,local_ocorrencia,.. Paraná,54971,4206,18438,3073,2755,22,83465
-2023,local_ocorrencia,.. Santa Catarina,33614,1341,10180,1463,1978,13,48589
-2023,local_ocorrencia,.. Rio Grande do Sul,66160,3193,17185,2386,4516,76,93516
-2023,local_ocorrencia,Região Centro-Oeste,67403,6348,18839,4250,3638,70,100548
-2023,local_ocorrencia,.. Mato Grosso do Sul,13387,634,4013,850,737,17,19638
-2023,local_ocorrencia,.. Mato Grosso,13835,1582,4202,1275,875,21,21790
-2023,local_ocorrencia,.. Goiás,30520,2796,8332,1678,1684,31,45041
-2023,local_ocorrencia,.. Distrito Federal,9661,1336,2292,447,342,1,14079
-2023,local_ocorrencia,Total,962114,102042,299921,50299,50447,787,1465610
-2024,local_ocorrencia,Região Norte,60505,5153,20982,5070,4562,77,96349
-2024,local_ocorrencia,.. Rondônia,6913,279,1897,580,416,12,10097
-2024,local_ocorrencia,.. Acre,2892,27,941,189,210,8,4267
-2024,local_ocorrencia,.. Amazonas,13432,156,4654,997,982,4,20225
-2024,local_ocorrencia,.. Roraima,2013,35,645,106,255,1,3055
-2024,local_ocorrencia,.. Pará,26550,4162,10149,2489,1980,45,45375
-2024,local_ocorrencia,.. Amapá,2696,112,670,142,281,2,3903
-2024,local_ocorrencia,.. Tocantins,6009,382,2026,567,438,5,9427
-2024,local_ocorrencia,Região Nordeste,237672,23295,99781,19071,14789,298,394906
-2024,local_ocorrencia,.. Maranhão,24002,1550,10363,2311,1851,66,40143
-2024,local_ocorrencia,.. Piauí,13441,464,7491,1162,895,23,23476
-2024,local_ocorrencia,.. Ceará,36379,4087,17251,3165,2600,14,63496
-2024,local_ocorrencia,.. Rio Grande do Norte,14051,2118,5787,936,600,35,23527
-2024,local_ocorrencia,.. Paraíba,18984,1001,7846,1244,1049,29,30153
-2024,local_ocorrencia,.. Pernambuco,44771,4779,15701,3302,2196,44,70793
-2024,local_ocorrencia,.. Alagoas,13476,1742,5313,974,1141,7,22653
-2024,local_ocorrencia,.. Sergipe,9603,132,3770,731,213,4,14453
-2024,local_ocorrencia,.. Bahia,62965,7422,26259,5246,4244,76,106212
-2024,local_ocorrencia,Região Sudeste,474078,65463,117418,15894,18479,250,691582
-2024,local_ocorrencia,.. Minas Gerais,109772,11940,32304,4751,4750,151,163668
-2024,local_ocorrencia,.. Espírito Santo,18998,1704,5287,1199,936,18,28142
-2024,local_ocorrencia,.. Rio de Janeiro,94261,24161,23208,2814,3680,32,148156
-2024,local_ocorrencia,.. São Paulo,251047,27658,56619,7130,9113,49,351616
-2024,local_ocorrencia,Região Sul,168114,10059,47812,7120,9635,86,242826
-2024,local_ocorrencia,.. Paraná,59936,4740,18448,3095,2891,12,89122
-2024,local_ocorrencia,.. Santa Catarina,36291,1619,10685,1572,2047,10,52224
-2024,local_ocorrencia,.. Rio Grande do Sul,71887,3700,18679,2453,4697,64,101480
-2024,local_ocorrencia,Região Centro-Oeste,71795,7556,19009,4288,3670,34,106352
-2024,local_ocorrencia,.. Mato Grosso do Sul,13875,638,3825,781,719,3,19841
-2024,local_ocorrencia,.. Mato Grosso,14467,1987,4114,1261,962,12,22803
-2024,local_ocorrencia,.. Goiás,32605,3293,8477,1817,1620,18,47830
-2024,local_ocorrencia,.. Distrito Federal,10848,1638,2593,429,369,1,15878
-2024,local_ocorrencia,Total,1012164,111526,305002,51443,51135,745,1532015
-2025,local_ocorrencia,Região Norte,63343,5064,21050,4759,4637,60,98913
-2025,local_ocorrencia,.. Rondônia,7305,354,1934,542,421,3,10559
-2025,local_ocorrencia,.. Acre,2855,22,972,181,202,7,4239
-2025,local_ocorrencia,.. Amazonas,13973,155,4662,722,859,4,20375
-2025,local_ocorrencia,.. Roraima,2249,52,679,124,253,11,3368
-2025,local_ocorrencia,.. Pará,27910,4052,10119,2486,2146,31,46744
-2025,local_ocorrencia,.. Amapá,2776,95,676,111,330,0,3988
-2025,local_ocorrencia,.. Tocantins,6275,334,2008,593,426,4,9640
-2025,local_ocorrencia,Região Nordeste,242420,23109,98298,18195,13957,297,396276
-2025,local_ocorrencia,.. Maranhão,24840,1443,10486,2274,1857,33,40933
-2025,local_ocorrencia,.. Piauí,13767,504,7138,1101,693,18,23221
-2025,local_ocorrencia,.. Ceará,36971,4196,17205,2936,2558,34,63900
-2025,local_ocorrencia,.. Rio Grande do Norte,14228,2103,5447,881,645,46,23350
-2025,local_ocorrencia,.. Paraíba,19377,1312,7633,1168,1036,21,30547
-2025,local_ocorrencia,.. Pernambuco,45304,4852,15226,3031,2079,18,70510
-2025,local_ocorrencia,.. Alagoas,13555,1957,5447,974,989,14,22936
-2025,local_ocorrencia,.. Sergipe,9774,144,3715,678,255,14,14580
-2025,local_ocorrencia,.. Bahia,64604,6598,26001,5152,3845,99,106299
-2025,local_ocorrencia,Região Sudeste,474198,66222,121108,15574,18886,226,696214
-2025,local_ocorrencia,.. Minas Gerais,107220,10931,32459,4575,4468,119,159772
-2025,local_ocorrencia,.. Espírito Santo,19944,1760,5631,1150,896,20,29401
-2025,local_ocorrencia,.. Rio de Janeiro,95683,25028,24749,2870,3933,21,152284
-2025,local_ocorrencia,.. São Paulo,251351,28503,58269,6979,9589,66,354757
-2025,local_ocorrencia,Região Sul,165618,9798,46301,6867,9291,101,237976
-2025,local_ocorrencia,.. Paraná,59267,4580,18220,3065,2678,6,87816
-2025,local_ocorrencia,.. Santa Catarina,36338,1547,10615,1529,2075,22,52126
-2025,local_ocorrencia,.. Rio Grande do Sul,70013,3671,17466,2273,4538,73,98034
-2025,local_ocorrencia,Região Centro-Oeste,71330,7886,18534,4036,3390,33,105209
-2025,local_ocorrencia,.. Mato Grosso do Sul,14215,695,3701,766,663,3,20043
-2025,local_ocorrencia,.. Mato Grosso,15020,2075,4022,1117,800,15,23049
-2025,local_ocorrencia,.. Goiás,31782,3599,8343,1678,1595,15,47012
-2025,local_ocorrencia,.. Distrito Federal,10313,1517,2468,475,332,0,15105
-2025,local_ocorrencia,Total,1016909,112079,305291,49431,50161,717,1534588
-2026,local_ocorrencia,Região Norte,22980,1759,7221,1491,1370,16,34837
-2026,local_ocorrencia,.. Rondônia,2585,131,618,169,125,5,3633
-2026,local_ocorrencia,.. Acre,1023,5,346,56,79,1,1510
-2026,local_ocorrencia,.. Amazonas,4835,15,1603,229,235,1,6918
-2026,local_ocorrencia,.. Roraima,740,9,201,36,48,0,1034
-2026,local_ocorrencia,.. Pará,10493,1452,3579,782,645,7,16958
-2026,local_ocorrencia,.. Amapá,1001,24,218,46,100,1,1390
-2026,local_ocorrencia,.. Tocantins,2303,123,656,173,138,1,3394
-2026,local_ocorrencia,Região Nordeste,85208,8056,33311,5545,4732,70,136922
-2026,local_ocorrencia,.. Maranhão,9720,509,3677,702,717,6,15331
-2026,local_ocorrencia,.. Piauí,5016,171,2353,340,230,2,8112
-2026,local_ocorrencia,.. Ceará,13584,1674,6211,743,864,11,23087
-2026,local_ocorrencia,.. Rio Grande do Norte,4891,841,1829,303,183,7,8054
-2026,local_ocorrencia,.. Paraíba,7180,552,2587,388,373,12,11092
-2026,local_ocorrencia,.. Pernambuco,14895,1665,5252,871,728,6,23417
-2026,local_ocorrencia,.. Alagoas,4701,543,1924,284,286,1,7739
-2026,local_ocorrencia,.. Sergipe,3522,57,1417,236,105,1,5338
-2026,local_ocorrencia,.. Bahia,21699,2044,8061,1678,1246,24,34752
-2026,local_ocorrencia,Região Sudeste,152536,20689,37309,4886,5907,69,221396
-2026,local_ocorrencia,.. Minas Gerais,34656,3166,9431,1191,1272,37,49753
-2026,local_ocorrencia,.. Espírito Santo,6122,606,1708,373,274,3,9086
-2026,local_ocorrencia,.. Rio de Janeiro,30487,7560,8003,846,1380,10,48286
-2026,local_ocorrencia,.. São Paulo,81271,9357,18167,2476,2981,19,114271
-2026,local_ocorrencia,Região Sul,54907,3077,14326,2307,3092,18,77727
-2026,local_ocorrencia,.. Paraná,20748,1498,5885,1106,884,3,30124
-2026,local_ocorrencia,.. Santa Catarina,12277,459,3394,529,729,4,17392
-2026,local_ocorrencia,.. Rio Grande do Sul,21882,1120,5047,672,1479,11,30211
-2026,local_ocorrencia,Região Centro-Oeste,24656,2404,6160,1258,1162,9,35649
-2026,local_ocorrencia,.. Mato Grosso do Sul,4967,257,1244,236,274,0,6978
-2026,local_ocorrencia,.. Mato Grosso,5573,601,1347,327,277,3,8128
-2026,local_ocorrencia,.. Goiás,10536,1056,2759,519,500,5,15375
-2026,local_ocorrencia,.. Distrito Federal,3580,490,810,176,111,1,5168
-2026,local_ocorrencia,Total,340287,35985,98327,15487,16263,182,506531
+ano,dimensao,nivel,regiao,uf,sigla,Hospital,Outro estabelecimento de saúde,Domicílio,Via pública,Outros,Ignorado,Total
+2016,local_ocorrencia,Regiao,Região Norte,,,50245,1605,17505,6276,4236,238,80105
+2016,local_ocorrencia,Estado,Região Norte,Rondônia,RO,5757,95,1436,717,323,16,8344
+2016,local_ocorrencia,Estado,Região Norte,Acre,AC,2497,14,766,270,213,3,3763
+2016,local_ocorrencia,Estado,Região Norte,Amazonas,AM,10866,188,3906,1061,771,7,16799
+2016,local_ocorrencia,Estado,Região Norte,Roraima,RR,1336,34,466,96,208,17,2157
+2016,local_ocorrencia,Estado,Região Norte,Pará,PA,23080,1149,8694,3323,2135,176,38557
+2016,local_ocorrencia,Estado,Região Norte,Amapá,AP,2141,20,495,145,191,3,2995
+2016,local_ocorrencia,Estado,Região Norte,Tocantins,TO,4568,105,1742,664,395,16,7490
+2016,local_ocorrencia,Regiao,Região Nordeste,,,207735,11078,91912,23598,12269,503,347095
+2016,local_ocorrencia,Estado,Região Nordeste,Maranhão,MA,19378,1460,9736,2444,1279,65,34362
+2016,local_ocorrencia,Estado,Região Nordeste,Piauí,PI,10989,120,6218,1207,614,39,19187
+2016,local_ocorrencia,Estado,Região Nordeste,Ceará,CE,30588,1906,15833,3505,2380,64,54276
+2016,local_ocorrencia,Estado,Região Nordeste,Rio Grande do Norte,RN,12754,991,5835,1604,698,40,21922
+2016,local_ocorrencia,Estado,Região Nordeste,Paraíba,PB,17323,565,7799,1456,876,22,28041
+2016,local_ocorrencia,Estado,Região Nordeste,Pernambuco,PE,43305,1871,15320,4642,1752,38,66928
+2016,local_ocorrencia,Estado,Região Nordeste,Alagoas,AL,12832,363,5257,1857,451,9,20769
+2016,local_ocorrencia,Estado,Região Nordeste,Sergipe,SE,8263,156,3451,1400,241,5,13516
+2016,local_ocorrencia,Estado,Região Nordeste,Bahia,BA,52303,3646,22463,5483,3978,221,88094
+2016,local_ocorrencia,Regiao,Região Sudeste,,,421494,46612,92630,16797,17585,455,595573
+2016,local_ocorrencia,Estado,Região Sudeste,Minas Gerais,MG,89535,11212,24834,5260,4203,213,135257
+2016,local_ocorrencia,Estado,Região Sudeste,Espírito Santo,ES,16138,1053,3808,1207,598,64,22868
+2016,local_ocorrencia,Estado,Região Sudeste,Rio de Janeiro,RJ,97274,16448,18909,3204,5225,29,141089
+2016,local_ocorrencia,Estado,Região Sudeste,São Paulo,SP,218547,17899,45079,7126,7559,149,296359
+2016,local_ocorrencia,Regiao,Região Sul,,,141483,6255,39864,8108,6797,86,202593
+2016,local_ocorrencia,Estado,Região Sul,Paraná,PR,49091,3578,16369,3366,2310,26,74740
+2016,local_ocorrencia,Estado,Região Sul,Santa Catarina,SC,28197,918,8083,1546,1511,15,40270
+2016,local_ocorrencia,Estado,Região Sul,Rio Grande do Sul,RS,64195,1759,15412,3196,2976,45,87583
+2016,local_ocorrencia,Regiao,Região Centro-Oeste,,,58042,3536,14223,5195,3357,55,84408
+2016,local_ocorrencia,Estado,Região Centro-Oeste,Mato Grosso do Sul,MS,11336,710,3163,790,747,3,16749
+2016,local_ocorrencia,Estado,Região Centro-Oeste,Mato Grosso,MT,11708,792,2961,1225,832,17,17535
+2016,local_ocorrencia,Estado,Região Centro-Oeste,Goiás,GO,26041,1583,6399,2498,1522,31,38074
+2016,local_ocorrencia,Estado,Região Centro-Oeste,Distrito Federal,DF,8957,451,1700,682,256,4,12050
+2017,local_ocorrencia,Regiao,Região Norte,,,51605,1806,18241,6455,4614,262,82983
+2017,local_ocorrencia,Estado,Região Norte,Rondônia,RO,5756,94,1416,606,329,18,8219
+2017,local_ocorrencia,Estado,Região Norte,Acre,AC,2401,14,809,329,273,6,3832
+2017,local_ocorrencia,Estado,Região Norte,Amazonas,AM,11170,170,3992,1032,893,24,17281
+2017,local_ocorrencia,Estado,Região Norte,Roraima,RR,1504,29,514,140,268,6,2461
+2017,local_ocorrencia,Estado,Região Norte,Pará,PA,23740,1311,8981,3507,2246,195,39980
+2017,local_ocorrencia,Estado,Região Norte,Amapá,AP,2243,41,532,153,187,2,3158
+2017,local_ocorrencia,Estado,Região Norte,Tocantins,TO,4791,147,1997,688,418,11,8052
+2017,local_ocorrencia,Regiao,Região Nordeste,,,207386,14581,92648,24280,12780,370,352045
+2017,local_ocorrencia,Estado,Região Nordeste,Maranhão,MA,20582,1383,9738,2120,1400,52,35275
+2017,local_ocorrencia,Estado,Região Nordeste,Piauí,PI,11432,144,6584,1068,605,17,19850
+2017,local_ocorrencia,Estado,Região Nordeste,Ceará,CE,32691,2545,16804,4771,2383,69,59263
+2017,local_ocorrencia,Estado,Região Nordeste,Rio Grande do Norte,RN,12311,1076,5482,1786,725,29,21409
+2017,local_ocorrencia,Estado,Região Nordeste,Paraíba,PB,16509,587,7455,1463,929,32,26975
+2017,local_ocorrencia,Estado,Região Nordeste,Pernambuco,PE,39781,3418,14412,4578,2135,40,64364
+2017,local_ocorrencia,Estado,Região Nordeste,Alagoas,AL,12660,446,5171,1758,622,16,20673
+2017,local_ocorrencia,Estado,Região Nordeste,Sergipe,SE,8130,179,3561,1200,247,4,13321
+2017,local_ocorrencia,Estado,Região Nordeste,Bahia,BA,53290,4803,23441,5536,3734,111,90915
+2017,local_ocorrencia,Regiao,Região Sudeste,,,417368,48509,93473,16671,17280,391,593692
+2017,local_ocorrencia,Estado,Região Sudeste,Minas Gerais,MG,91314,11232,26291,5107,4005,169,138118
+2017,local_ocorrencia,Estado,Região Sudeste,Espírito Santo,ES,16715,1088,4103,1431,695,80,24112
+2017,local_ocorrencia,Estado,Região Sudeste,Rio de Janeiro,RJ,92738,17236,18395,3244,5071,25,136709
+2017,local_ocorrencia,Estado,Região Sudeste,São Paulo,SP,216601,18953,44684,6889,7509,117,294753
+2017,local_ocorrencia,Regiao,Região Sul,,,138386,6292,37936,7981,7102,96,197793
+2017,local_ocorrencia,Estado,Região Sul,Paraná,PR,47501,3393,15149,3028,2531,31,71633
+2017,local_ocorrencia,Estado,Região Sul,Santa Catarina,SC,28053,884,7837,1707,1428,10,39919
+2017,local_ocorrencia,Estado,Região Sul,Rio Grande do Sul,RS,62832,2015,14950,3246,3143,55,86241
+2017,local_ocorrencia,Regiao,Região Centro-Oeste,,,58153,4602,15051,4937,3327,80,86150
+2017,local_ocorrencia,Estado,Região Centro-Oeste,Mato Grosso do Sul,MS,10976,560,2988,732,696,2,15954
+2017,local_ocorrencia,Estado,Região Centro-Oeste,Mato Grosso,MT,11628,1015,3117,1156,780,13,17709
+2017,local_ocorrencia,Estado,Região Centro-Oeste,Goiás,GO,26497,2348,7044,2443,1584,57,39973
+2017,local_ocorrencia,Estado,Região Centro-Oeste,Distrito Federal,DF,9052,679,1902,606,267,8,12514
+2018,local_ocorrencia,Regiao,Região Norte,,,52533,2625,18550,5923,4578,200,84409
+2018,local_ocorrencia,Estado,Região Norte,Rondônia,RO,5662,111,1545,525,309,13,8165
+2018,local_ocorrencia,Estado,Região Norte,Acre,AC,2620,11,951,262,246,4,4094
+2018,local_ocorrencia,Estado,Região Norte,Amazonas,AM,11486,145,4233,999,828,19,17710
+2018,local_ocorrencia,Estado,Região Norte,Roraima,RR,1790,28,503,154,308,4,2787
+2018,local_ocorrencia,Estado,Região Norte,Pará,PA,23941,2006,8960,3174,2283,149,40513
+2018,local_ocorrencia,Estado,Região Norte,Amapá,AP,2303,67,592,188,192,3,3345
+2018,local_ocorrencia,Estado,Região Norte,Tocantins,TO,4731,257,1766,621,412,8,7795
+2018,local_ocorrencia,Regiao,Região Nordeste,,,205020,16110,88867,21279,12335,358,343969
+2018,local_ocorrencia,Estado,Região Nordeste,Maranhão,MA,20452,1283,9395,1980,1377,38,34525
+2018,local_ocorrencia,Estado,Região Nordeste,Piauí,PI,11680,125,6466,1050,593,69,19983
+2018,local_ocorrencia,Estado,Região Nordeste,Ceará,CE,31524,2806,16158,4322,2165,53,57028
+2018,local_ocorrencia,Estado,Região Nordeste,Rio Grande do Norte,RN,12476,1218,5263,1446,778,28,21209
+2018,local_ocorrencia,Estado,Região Nordeste,Paraíba,PB,16412,646,7183,1394,991,18,26644
+2018,local_ocorrencia,Estado,Região Nordeste,Pernambuco,PE,38616,4238,13651,3684,1788,34,62011
+2018,local_ocorrencia,Estado,Região Nordeste,Alagoas,AL,12231,486,4757,1347,584,6,19411
+2018,local_ocorrencia,Estado,Região Nordeste,Sergipe,SE,8316,145,3395,963,202,3,13024
+2018,local_ocorrencia,Estado,Região Nordeste,Bahia,BA,53313,5163,22599,5093,3857,109,90134
+2018,local_ocorrencia,Regiao,Região Sudeste,,,421919,49594,94172,15161,17014,278,598138
+2018,local_ocorrencia,Estado,Região Sudeste,Minas Gerais,MG,90664,10800,25764,4467,3798,126,135619
+2018,local_ocorrencia,Estado,Região Sudeste,Espírito Santo,ES,16536,1041,3964,1197,722,40,23500
+2018,local_ocorrencia,Estado,Região Sudeste,Rio de Janeiro,RJ,95008,18677,18914,3100,4968,39,140706
+2018,local_ocorrencia,Estado,Região Sudeste,São Paulo,SP,219711,19076,45530,6397,7526,73,298313
+2018,local_ocorrencia,Regiao,Região Sul,,,142249,7113,39622,7211,7468,71,203734
+2018,local_ocorrencia,Estado,Região Sul,Paraná,PR,49133,3654,15702,2861,2476,22,73848
+2018,local_ocorrencia,Estado,Região Sul,Santa Catarina,SC,29252,855,8249,1476,1421,15,41268
+2018,local_ocorrencia,Estado,Região Sul,Rio Grande do Sul,RS,63864,2604,15671,2874,3571,34,88618
+2018,local_ocorrencia,Regiao,Região Centro-Oeste,,,58204,5094,15484,4445,3157,85,86469
+2018,local_ocorrencia,Estado,Região Centro-Oeste,Mato Grosso do Sul,MS,11314,630,3268,695,690,3,16600
+2018,local_ocorrencia,Estado,Região Centro-Oeste,Mato Grosso,MT,12008,1155,3192,1107,715,28,18205
+2018,local_ocorrencia,Estado,Região Centro-Oeste,Goiás,GO,26044,2772,7011,2143,1492,45,39507
+2018,local_ocorrencia,Estado,Região Centro-Oeste,Distrito Federal,DF,8838,537,2013,500,260,9,12157
+2019,local_ocorrencia,Regiao,Região Norte,,,53536,3234,18975,5148,4626,167,85686
+2019,local_ocorrencia,Estado,Região Norte,Rondônia,RO,5750,136,1623,493,325,11,8338
+2019,local_ocorrencia,Estado,Região Norte,Acre,AC,2676,20,950,219,224,9,4098
+2019,local_ocorrencia,Estado,Região Norte,Amazonas,AM,11925,114,4372,985,917,14,18327
+2019,local_ocorrencia,Estado,Região Norte,Roraima,RR,1830,24,575,108,240,2,2779
+2019,local_ocorrencia,Estado,Região Norte,Pará,PA,24027,2603,8928,2587,2334,120,40599
+2019,local_ocorrencia,Estado,Região Norte,Amapá,AP,2392,91,635,208,196,2,3524
+2019,local_ocorrencia,Estado,Região Norte,Tocantins,TO,4936,246,1892,548,390,9,8021
+2019,local_ocorrencia,Regiao,Região Nordeste,,,213280,17577,91583,18439,11644,278,352801
+2019,local_ocorrencia,Estado,Região Nordeste,Maranhão,MA,20921,1290,9739,1844,1302,32,35128
+2019,local_ocorrencia,Estado,Região Nordeste,Piauí,PI,12230,166,6515,951,638,28,20528
+2019,local_ocorrencia,Estado,Região Nordeste,Ceará,CE,32390,3241,16183,3014,1731,21,56580
+2019,local_ocorrencia,Estado,Região Nordeste,Rio Grande do Norte,RN,12845,1514,5509,1252,617,30,21767
+2019,local_ocorrencia,Estado,Região Nordeste,Paraíba,PB,17093,896,7405,1090,882,12,27378
+2019,local_ocorrencia,Estado,Região Nordeste,Pernambuco,PE,40659,4241,14257,3168,1914,56,64295
+2019,local_ocorrencia,Estado,Região Nordeste,Alagoas,AL,13076,622,4888,1111,582,8,20287
+2019,local_ocorrencia,Estado,Região Nordeste,Sergipe,SE,8718,90,3518,949,197,1,13473
+2019,local_ocorrencia,Estado,Região Nordeste,Bahia,BA,55348,5517,23569,5060,3781,90,93365
+2019,local_ocorrencia,Regiao,Região Sudeste,,,432347,53474,98596,14621,16934,271,616243
+2019,local_ocorrencia,Estado,Região Sudeste,Minas Gerais,MG,93643,11954,26885,4309,4110,121,141022
+2019,local_ocorrencia,Estado,Região Sudeste,Espírito Santo,ES,17101,1106,4315,1108,771,30,24431
+2019,local_ocorrencia,Estado,Região Sudeste,Rio de Janeiro,RJ,96602,21073,19660,2792,4423,50,144600
+2019,local_ocorrencia,Estado,Região Sudeste,São Paulo,SP,225001,19341,47736,6412,7630,70,306190
+2019,local_ocorrencia,Regiao,Região Sul,,,144654,7356,39621,6675,7690,90,206086
+2019,local_ocorrencia,Estado,Região Sul,Paraná,PR,50018,3679,15824,2758,2268,19,74566
+2019,local_ocorrencia,Estado,Região Sul,Santa Catarina,SC,30158,896,8146,1444,1618,20,42282
+2019,local_ocorrencia,Estado,Região Sul,Rio Grande do Sul,RS,64478,2781,15651,2473,3804,51,89238
+2019,local_ocorrencia,Regiao,Região Centro-Oeste,,,60212,5398,15853,4256,3213,53,88985
+2019,local_ocorrencia,Estado,Região Centro-Oeste,Mato Grosso do Sul,MS,11533,619,3257,724,680,2,16815
+2019,local_ocorrencia,Estado,Região Centro-Oeste,Mato Grosso,MT,12092,1245,3202,1057,737,8,18341
+2019,local_ocorrencia,Estado,Região Centro-Oeste,Goiás,GO,27221,2930,7331,1952,1551,40,41025
+2019,local_ocorrencia,Estado,Região Centro-Oeste,Distrito Federal,DF,9366,604,2063,523,245,3,12804
+2020,local_ocorrencia,Regiao,Região Norte,,,69015,4390,25728,4911,4809,161,109014
+2020,local_ocorrencia,Estado,Região Norte,Rondônia,RO,7238,163,1981,514,369,13,10278
+2020,local_ocorrencia,Estado,Região Norte,Acre,AC,3127,19,1190,195,317,12,4860
+2020,local_ocorrencia,Estado,Região Norte,Amazonas,AM,16535,361,6107,814,933,15,24765
+2020,local_ocorrencia,Estado,Região Norte,Roraima,RR,2356,19,797,104,297,7,3580
+2020,local_ocorrencia,Estado,Região Norte,Pará,PA,31105,3267,12424,2473,2277,97,51643
+2020,local_ocorrencia,Estado,Região Norte,Amapá,AP,3087,176,891,210,249,4,4617
+2020,local_ocorrencia,Estado,Região Norte,Tocantins,TO,5567,385,2338,601,367,13,9271
+2020,local_ocorrencia,Regiao,Região Nordeste,,,244543,22155,114939,20382,13573,327,415919
+2020,local_ocorrencia,Estado,Região Nordeste,Maranhão,MA,25378,1474,12527,2234,1626,32,43271
+2020,local_ocorrencia,Estado,Região Nordeste,Piauí,PI,13702,173,7972,1016,745,38,23646
+2020,local_ocorrencia,Estado,Região Nordeste,Ceará,CE,38538,4827,19940,3898,2271,38,69512
+2020,local_ocorrencia,Estado,Região Nordeste,Rio Grande do Norte,RN,14166,1870,6671,1291,654,22,24674
+2020,local_ocorrencia,Estado,Região Nordeste,Paraíba,PB,19001,1004,8794,1248,1037,23,31107
+2020,local_ocorrencia,Estado,Região Nordeste,Pernambuco,PE,48380,4582,17968,3298,2310,36,76574
+2020,local_ocorrencia,Estado,Região Nordeste,Alagoas,AL,14900,775,6463,1232,765,13,24148
+2020,local_ocorrencia,Estado,Região Nordeste,Sergipe,SE,9959,165,4463,960,241,5,15793
+2020,local_ocorrencia,Estado,Região Nordeste,Bahia,BA,60519,7285,30141,5205,3924,120,107194
+2020,local_ocorrencia,Regiao,Região Sudeste,,,491889,60276,118936,15200,16404,354,703059
+2020,local_ocorrencia,Estado,Região Sudeste,Minas Gerais,MG,99865,11721,32429,4102,3835,176,152128
+2020,local_ocorrencia,Estado,Região Sudeste,Espírito Santo,ES,20440,1385,5230,1182,843,31,29111
+2020,local_ocorrencia,Estado,Região Sudeste,Rio de Janeiro,RJ,116165,24062,24886,3184,3845,43,172185
+2020,local_ocorrencia,Estado,Região Sudeste,São Paulo,SP,255419,23108,56391,6732,7881,104,349635
+2020,local_ocorrencia,Regiao,Região Sul,,,153312,7266,46181,6863,8101,85,221808
+2020,local_ocorrencia,Estado,Região Sul,Paraná,PR,54970,3691,18296,3094,2498,24,82573
+2020,local_ocorrencia,Estado,Região Sul,Santa Catarina,SC,32709,993,9619,1421,1683,19,46444
+2020,local_ocorrencia,Estado,Região Sul,Rio Grande do Sul,RS,65633,2582,18266,2348,3920,42,92791
+2020,local_ocorrencia,Regiao,Região Centro-Oeste,,,72839,6245,19798,4484,3594,64,107024
+2020,local_ocorrencia,Estado,Região Centro-Oeste,Mato Grosso do Sul,MS,13155,656,3806,740,682,12,19051
+2020,local_ocorrencia,Estado,Região Centro-Oeste,Mato Grosso,MT,15239,1715,4287,1263,882,11,23397
+2020,local_ocorrencia,Estado,Região Centro-Oeste,Goiás,GO,32581,2928,9118,1976,1717,38,48358
+2020,local_ocorrencia,Estado,Região Centro-Oeste,Distrito Federal,DF,11864,946,2587,505,313,3,16218
+2021,local_ocorrencia,Regiao,Região Norte,,,81777,4849,24244,5344,5012,128,121354
+2021,local_ocorrencia,Estado,Região Norte,Rondônia,RO,10478,296,2243,612,399,14,14042
+2021,local_ocorrencia,Estado,Região Norte,Acre,AC,4007,16,1106,169,191,7,5496
+2021,local_ocorrencia,Estado,Região Norte,Amazonas,AM,20475,547,5873,1056,1111,18,29080
+2021,local_ocorrencia,Estado,Região Norte,Roraima,RR,3008,23,746,132,395,2,4306
+2021,local_ocorrencia,Estado,Região Norte,Pará,PA,33119,3150,11046,2562,2227,62,52166
+2021,local_ocorrencia,Estado,Região Norte,Amapá,AP,3270,213,800,201,264,2,4750
+2021,local_ocorrencia,Estado,Região Norte,Tocantins,TO,7420,604,2430,612,425,23,11514
+2021,local_ocorrencia,Regiao,Região Nordeste,,,273416,23540,113272,19402,13954,288,443872
+2021,local_ocorrencia,Estado,Região Nordeste,Maranhão,MA,27900,1174,11500,2145,1900,35,44654
+2021,local_ocorrencia,Estado,Região Nordeste,Piauí,PI,15758,177,8380,1067,802,28,26212
+2021,local_ocorrencia,Estado,Região Nordeste,Ceará,CE,43151,5065,19777,3311,2350,29,73683
+2021,local_ocorrencia,Estado,Região Nordeste,Rio Grande do Norte,RN,16424,2108,6420,1229,571,19,26771
+2021,local_ocorrencia,Estado,Região Nordeste,Paraíba,PB,22076,1111,9070,1271,1128,22,34678
+2021,local_ocorrencia,Estado,Região Nordeste,Pernambuco,PE,53314,4381,17737,3075,2190,20,80717
+2021,local_ocorrencia,Estado,Região Nordeste,Alagoas,AL,16114,1070,6143,1060,688,15,25090
+2021,local_ocorrencia,Estado,Região Nordeste,Sergipe,SE,10771,248,4625,799,232,0,16675
+2021,local_ocorrencia,Estado,Região Nordeste,Bahia,BA,67908,8206,29620,5445,4093,120,115392
+2021,local_ocorrencia,Regiao,Região Sudeste,,,605208,77772,127480,15282,17527,465,843734
+2021,local_ocorrencia,Estado,Região Sudeste,Minas Gerais,MG,131769,15210,34765,4117,4055,169,190085
+2021,local_ocorrencia,Estado,Região Sudeste,Espírito Santo,ES,23437,1805,5487,1075,952,45,32801
+2021,local_ocorrencia,Estado,Região Sudeste,Rio de Janeiro,RJ,131927,24921,25411,3154,3789,30,189232
+2021,local_ocorrencia,Estado,Região Sudeste,São Paulo,SP,318075,35836,61817,6936,8731,221,431616
+2021,local_ocorrencia,Regiao,Região Sul,,,209246,12780,51711,7062,9287,140,290226
+2021,local_ocorrencia,Estado,Região Sul,Paraná,PR,79025,6784,20762,3160,2842,33,112606
+2021,local_ocorrencia,Estado,Região Sul,Santa Catarina,SC,43616,1749,11086,1442,1986,19,59898
+2021,local_ocorrencia,Estado,Região Sul,Rio Grande do Sul,RS,86605,4247,19863,2460,4459,88,117722
+2021,local_ocorrencia,Regiao,Região Centro-Oeste,,,96582,8099,20667,4260,3796,59,133463
+2021,local_ocorrencia,Estado,Região Centro-Oeste,Mato Grosso do Sul,MS,18258,1058,4198,755,763,17,25049
+2021,local_ocorrencia,Estado,Região Centro-Oeste,Mato Grosso,MT,20195,1913,4380,1202,918,15,28623
+2021,local_ocorrencia,Estado,Região Centro-Oeste,Goiás,GO,44066,3650,9515,1789,1667,25,60712
+2021,local_ocorrencia,Estado,Região Centro-Oeste,Distrito Federal,DF,14063,1478,2574,514,448,2,19079
+2022,local_ocorrencia,Regiao,Região Norte,,,59532,4864,21784,5432,4837,103,96552
+2022,local_ocorrencia,Estado,Região Norte,Rondônia,RO,6891,300,2026,602,443,15,10277
+2022,local_ocorrencia,Estado,Região Norte,Acre,AC,2757,13,961,210,212,6,4159
+2022,local_ocorrencia,Estado,Região Norte,Amazonas,AM,13140,143,4764,1206,894,8,20155
+2022,local_ocorrencia,Estado,Região Norte,Roraima,RR,2096,17,640,132,360,1,3246
+2022,local_ocorrencia,Estado,Região Norte,Pará,PA,26673,3540,10483,2532,2225,46,45499
+2022,local_ocorrencia,Estado,Região Norte,Amapá,AP,2358,304,760,145,271,8,3846
+2022,local_ocorrencia,Estado,Região Norte,Tocantins,TO,5617,547,2150,605,432,19,9370
+2022,local_ocorrencia,Regiao,Região Nordeste,,,236831,23010,109822,18676,14527,266,403132
+2022,local_ocorrencia,Estado,Região Nordeste,Maranhão,MA,23541,1299,11298,2101,1663,34,39936
+2022,local_ocorrencia,Estado,Região Nordeste,Piauí,PI,13800,282,8422,1078,738,23,24343
+2022,local_ocorrencia,Estado,Região Nordeste,Ceará,CE,36802,3805,18413,3098,2535,11,64664
+2022,local_ocorrencia,Estado,Região Nordeste,Rio Grande do Norte,RN,13963,2258,6166,1163,637,32,24219
+2022,local_ocorrencia,Estado,Região Nordeste,Paraíba,PB,19479,1230,9274,1200,1198,24,32405
+2022,local_ocorrencia,Estado,Região Nordeste,Pernambuco,PE,45127,4455,16998,3089,2322,20,72011
+2022,local_ocorrencia,Estado,Região Nordeste,Alagoas,AL,13755,1394,5970,993,999,11,23122
+2022,local_ocorrencia,Estado,Região Nordeste,Sergipe,SE,9388,182,4169,835,213,4,14791
+2022,local_ocorrencia,Estado,Região Nordeste,Bahia,BA,60976,8105,29112,5119,4222,107,107641
+2022,local_ocorrencia,Regiao,Região Sudeste,,,475791,61949,123801,15435,18174,319,695469
+2022,local_ocorrencia,Estado,Região Sudeste,Minas Gerais,MG,106837,12358,34556,4251,4455,158,162615
+2022,local_ocorrencia,Estado,Região Sudeste,Espírito Santo,ES,18699,1708,5346,1245,947,47,27992
+2022,local_ocorrencia,Estado,Região Sudeste,Rio de Janeiro,RJ,101088,19774,23608,3001,3310,25,150806
+2022,local_ocorrencia,Estado,Região Sudeste,São Paulo,SP,249167,28109,60291,6938,9462,89,354056
+2022,local_ocorrencia,Regiao,Região Sul,,,166465,10312,51292,7274,9785,93,245221
+2022,local_ocorrencia,Estado,Região Sul,Paraná,PR,57677,5185,20632,3289,3006,19,89808
+2022,local_ocorrencia,Estado,Região Sul,Santa Catarina,SC,35583,1370,10901,1431,2020,12,51317
+2022,local_ocorrencia,Estado,Região Sul,Rio Grande do Sul,RS,73205,3757,19759,2554,4759,62,104096
+2022,local_ocorrencia,Regiao,Região Centro-Oeste,,,69913,6370,19476,4355,3711,67,103892
+2022,local_ocorrencia,Estado,Região Centro-Oeste,Mato Grosso do Sul,MS,14094,665,4056,818,782,19,20434
+2022,local_ocorrencia,Estado,Região Centro-Oeste,Mato Grosso,MT,13670,1678,4197,1241,929,16,21731
+2022,local_ocorrencia,Estado,Região Centro-Oeste,Goiás,GO,32120,2819,8815,1802,1686,28,47270
+2022,local_ocorrencia,Estado,Região Centro-Oeste,Distrito Federal,DF,10029,1208,2408,494,314,4,14457
+2023,local_ocorrencia,Regiao,Região Norte,,,58698,4538,20975,5328,4859,79,94477
+2023,local_ocorrencia,Estado,Região Norte,Rondônia,RO,6845,250,1861,586,418,14,9974
+2023,local_ocorrencia,Estado,Região Norte,Acre,AC,2731,17,1043,177,220,1,4189
+2023,local_ocorrencia,Estado,Região Norte,Amazonas,AM,13360,102,4808,1176,937,2,20385
+2023,local_ocorrencia,Estado,Região Norte,Roraima,RR,2193,23,655,105,333,2,3311
+2023,local_ocorrencia,Estado,Região Norte,Pará,PA,25529,3592,9978,2405,2225,51,43780
+2023,local_ocorrencia,Estado,Região Norte,Amapá,AP,2535,147,733,225,284,2,3926
+2023,local_ocorrencia,Estado,Região Norte,Tocantins,TO,5505,407,1897,654,442,7,8912
+2023,local_ocorrencia,Regiao,Região Nordeste,,,226752,21536,99174,18373,14557,254,380646
+2023,local_ocorrencia,Estado,Região Nordeste,Maranhão,MA,22878,1466,10458,2172,1732,41,38747
+2023,local_ocorrencia,Estado,Região Nordeste,Piauí,PI,13105,303,7277,1122,700,22,22529
+2023,local_ocorrencia,Estado,Região Nordeste,Ceará,CE,34777,3538,16853,2851,2605,11,60635
+2023,local_ocorrencia,Estado,Região Nordeste,Rio Grande do Norte,RN,13035,1950,5722,974,574,47,22302
+2023,local_ocorrencia,Estado,Região Nordeste,Paraíba,PB,17819,934,7735,1241,1030,14,28773
+2023,local_ocorrencia,Estado,Região Nordeste,Pernambuco,PE,43089,4506,15378,3224,2304,26,68527
+2023,local_ocorrencia,Estado,Região Nordeste,Alagoas,AL,13437,1160,5339,1007,1017,5,21965
+2023,local_ocorrencia,Estado,Região Nordeste,Sergipe,SE,9205,162,3797,697,220,6,14087
+2023,local_ocorrencia,Estado,Região Nordeste,Bahia,BA,59407,7517,26615,5085,4375,82,103081
+2023,local_ocorrencia,Regiao,Região Sudeste,,,454516,60880,115130,15426,18144,273,664369
+2023,local_ocorrencia,Estado,Região Sudeste,Minas Gerais,MG,104587,11563,32020,4473,4803,157,157603
+2023,local_ocorrencia,Estado,Região Sudeste,Espírito Santo,ES,18270,1718,5219,1163,921,24,27315
+2023,local_ocorrencia,Estado,Região Sudeste,Rio de Janeiro,RJ,94274,22075,22225,3064,3480,30,145148
+2023,local_ocorrencia,Estado,Região Sudeste,São Paulo,SP,237385,25524,55666,6726,8940,62,334303
+2023,local_ocorrencia,Regiao,Região Sul,,,154745,8740,45803,6922,9249,111,225570
+2023,local_ocorrencia,Estado,Região Sul,Paraná,PR,54971,4206,18438,3073,2755,22,83465
+2023,local_ocorrencia,Estado,Região Sul,Santa Catarina,SC,33614,1341,10180,1463,1978,13,48589
+2023,local_ocorrencia,Estado,Região Sul,Rio Grande do Sul,RS,66160,3193,17185,2386,4516,76,93516
+2023,local_ocorrencia,Regiao,Região Centro-Oeste,,,67403,6348,18839,4250,3638,70,100548
+2023,local_ocorrencia,Estado,Região Centro-Oeste,Mato Grosso do Sul,MS,13387,634,4013,850,737,17,19638
+2023,local_ocorrencia,Estado,Região Centro-Oeste,Mato Grosso,MT,13835,1582,4202,1275,875,21,21790
+2023,local_ocorrencia,Estado,Região Centro-Oeste,Goiás,GO,30520,2796,8332,1678,1684,31,45041
+2023,local_ocorrencia,Estado,Região Centro-Oeste,Distrito Federal,DF,9661,1336,2292,447,342,1,14079
+2024,local_ocorrencia,Regiao,Região Norte,,,60505,5153,20982,5070,4562,77,96349
+2024,local_ocorrencia,Estado,Região Norte,Rondônia,RO,6913,279,1897,580,416,12,10097
+2024,local_ocorrencia,Estado,Região Norte,Acre,AC,2892,27,941,189,210,8,4267
+2024,local_ocorrencia,Estado,Região Norte,Amazonas,AM,13432,156,4654,997,982,4,20225
+2024,local_ocorrencia,Estado,Região Norte,Roraima,RR,2013,35,645,106,255,1,3055
+2024,local_ocorrencia,Estado,Região Norte,Pará,PA,26550,4162,10149,2489,1980,45,45375
+2024,local_ocorrencia,Estado,Região Norte,Amapá,AP,2696,112,670,142,281,2,3903
+2024,local_ocorrencia,Estado,Região Norte,Tocantins,TO,6009,382,2026,567,438,5,9427
+2024,local_ocorrencia,Regiao,Região Nordeste,,,237672,23295,99781,19071,14789,298,394906
+2024,local_ocorrencia,Estado,Região Nordeste,Maranhão,MA,24002,1550,10363,2311,1851,66,40143
+2024,local_ocorrencia,Estado,Região Nordeste,Piauí,PI,13441,464,7491,1162,895,23,23476
+2024,local_ocorrencia,Estado,Região Nordeste,Ceará,CE,36379,4087,17251,3165,2600,14,63496
+2024,local_ocorrencia,Estado,Região Nordeste,Rio Grande do Norte,RN,14051,2118,5787,936,600,35,23527
+2024,local_ocorrencia,Estado,Região Nordeste,Paraíba,PB,18984,1001,7846,1244,1049,29,30153
+2024,local_ocorrencia,Estado,Região Nordeste,Pernambuco,PE,44771,4779,15701,3302,2196,44,70793
+2024,local_ocorrencia,Estado,Região Nordeste,Alagoas,AL,13476,1742,5313,974,1141,7,22653
+2024,local_ocorrencia,Estado,Região Nordeste,Sergipe,SE,9603,132,3770,731,213,4,14453
+2024,local_ocorrencia,Estado,Região Nordeste,Bahia,BA,62965,7422,26259,5246,4244,76,106212
+2024,local_ocorrencia,Regiao,Região Sudeste,,,474078,65463,117418,15894,18479,250,691582
+2024,local_ocorrencia,Estado,Região Sudeste,Minas Gerais,MG,109772,11940,32304,4751,4750,151,163668
+2024,local_ocorrencia,Estado,Região Sudeste,Espírito Santo,ES,18998,1704,5287,1199,936,18,28142
+2024,local_ocorrencia,Estado,Região Sudeste,Rio de Janeiro,RJ,94261,24161,23208,2814,3680,32,148156
+2024,local_ocorrencia,Estado,Região Sudeste,São Paulo,SP,251047,27658,56619,7130,9113,49,351616
+2024,local_ocorrencia,Regiao,Região Sul,,,168114,10059,47812,7120,9635,86,242826
+2024,local_ocorrencia,Estado,Região Sul,Paraná,PR,59936,4740,18448,3095,2891,12,89122
+2024,local_ocorrencia,Estado,Região Sul,Santa Catarina,SC,36291,1619,10685,1572,2047,10,52224
+2024,local_ocorrencia,Estado,Região Sul,Rio Grande do Sul,RS,71887,3700,18679,2453,4697,64,101480
+2024,local_ocorrencia,Regiao,Região Centro-Oeste,,,71795,7556,19009,4288,3670,34,106352
+2024,local_ocorrencia,Estado,Região Centro-Oeste,Mato Grosso do Sul,MS,13875,638,3825,781,719,3,19841
+2024,local_ocorrencia,Estado,Região Centro-Oeste,Mato Grosso,MT,14467,1987,4114,1261,962,12,22803
+2024,local_ocorrencia,Estado,Região Centro-Oeste,Goiás,GO,32605,3293,8477,1817,1620,18,47830
+2024,local_ocorrencia,Estado,Região Centro-Oeste,Distrito Federal,DF,10848,1638,2593,429,369,1,15878
+2025,local_ocorrencia,Regiao,Região Norte,,,63343,5064,21050,4759,4637,60,98913
+2025,local_ocorrencia,Estado,Região Norte,Rondônia,RO,7305,354,1934,542,421,3,10559
+2025,local_ocorrencia,Estado,Região Norte,Acre,AC,2855,22,972,181,202,7,4239
+2025,local_ocorrencia,Estado,Região Norte,Amazonas,AM,13973,155,4662,722,859,4,20375
+2025,local_ocorrencia,Estado,Região Norte,Roraima,RR,2249,52,679,124,253,11,3368
+2025,local_ocorrencia,Estado,Região Norte,Pará,PA,27910,4052,10119,2486,2146,31,46744
+2025,local_ocorrencia,Estado,Região Norte,Amapá,AP,2776,95,676,111,330,0,3988
+2025,local_ocorrencia,Estado,Região Norte,Tocantins,TO,6275,334,2008,593,426,4,9640
+2025,local_ocorrencia,Regiao,Região Nordeste,,,242420,23109,98298,18195,13957,297,396276
+2025,local_ocorrencia,Estado,Região Nordeste,Maranhão,MA,24840,1443,10486,2274,1857,33,40933
+2025,local_ocorrencia,Estado,Região Nordeste,Piauí,PI,13767,504,7138,1101,693,18,23221
+2025,local_ocorrencia,Estado,Região Nordeste,Ceará,CE,36971,4196,17205,2936,2558,34,63900
+2025,local_ocorrencia,Estado,Região Nordeste,Rio Grande do Norte,RN,14228,2103,5447,881,645,46,23350
+2025,local_ocorrencia,Estado,Região Nordeste,Paraíba,PB,19377,1312,7633,1168,1036,21,30547
+2025,local_ocorrencia,Estado,Região Nordeste,Pernambuco,PE,45304,4852,15226,3031,2079,18,70510
+2025,local_ocorrencia,Estado,Região Nordeste,Alagoas,AL,13555,1957,5447,974,989,14,22936
+2025,local_ocorrencia,Estado,Região Nordeste,Sergipe,SE,9774,144,3715,678,255,14,14580
+2025,local_ocorrencia,Estado,Região Nordeste,Bahia,BA,64604,6598,26001,5152,3845,99,106299
+2025,local_ocorrencia,Regiao,Região Sudeste,,,474198,66222,121108,15574,18886,226,696214
+2025,local_ocorrencia,Estado,Região Sudeste,Minas Gerais,MG,107220,10931,32459,4575,4468,119,159772
+2025,local_ocorrencia,Estado,Região Sudeste,Espírito Santo,ES,19944,1760,5631,1150,896,20,29401
+2025,local_ocorrencia,Estado,Região Sudeste,Rio de Janeiro,RJ,95683,25028,24749,2870,3933,21,152284
+2025,local_ocorrencia,Estado,Região Sudeste,São Paulo,SP,251351,28503,58269,6979,9589,66,354757
+2025,local_ocorrencia,Regiao,Região Sul,,,165618,9798,46301,6867,9291,101,237976
+2025,local_ocorrencia,Estado,Região Sul,Paraná,PR,59267,4580,18220,3065,2678,6,87816
+2025,local_ocorrencia,Estado,Região Sul,Santa Catarina,SC,36338,1547,10615,1529,2075,22,52126
+2025,local_ocorrencia,Estado,Região Sul,Rio Grande do Sul,RS,70013,3671,17466,2273,4538,73,98034
+2025,local_ocorrencia,Regiao,Região Centro-Oeste,,,71330,7886,18534,4036,3390,33,105209
+2025,local_ocorrencia,Estado,Região Centro-Oeste,Mato Grosso do Sul,MS,14215,695,3701,766,663,3,20043
+2025,local_ocorrencia,Estado,Região Centro-Oeste,Mato Grosso,MT,15020,2075,4022,1117,800,15,23049
+2025,local_ocorrencia,Estado,Região Centro-Oeste,Goiás,GO,31782,3599,8343,1678,1595,15,47012
+2025,local_ocorrencia,Estado,Região Centro-Oeste,Distrito Federal,DF,10313,1517,2468,475,332,0,15105
+2026,local_ocorrencia,Regiao,Região Norte,,,22980,1759,7221,1491,1370,16,34837
+2026,local_ocorrencia,Estado,Região Norte,Rondônia,RO,2585,131,618,169,125,5,3633
+2026,local_ocorrencia,Estado,Região Norte,Acre,AC,1023,5,346,56,79,1,1510
+2026,local_ocorrencia,Estado,Região Norte,Amazonas,AM,4835,15,1603,229,235,1,6918
+2026,local_ocorrencia,Estado,Região Norte,Roraima,RR,740,9,201,36,48,0,1034
+2026,local_ocorrencia,Estado,Região Norte,Pará,PA,10493,1452,3579,782,645,7,16958
+2026,local_ocorrencia,Estado,Região Norte,Amapá,AP,1001,24,218,46,100,1,1390
+2026,local_ocorrencia,Estado,Região Norte,Tocantins,TO,2303,123,656,173,138,1,3394
+2026,local_ocorrencia,Regiao,Região Nordeste,,,85208,8056,33311,5545,4732,70,136922
+2026,local_ocorrencia,Estado,Região Nordeste,Maranhão,MA,9720,509,3677,702,717,6,15331
+2026,local_ocorrencia,Estado,Região Nordeste,Piauí,PI,5016,171,2353,340,230,2,8112
+2026,local_ocorrencia,Estado,Região Nordeste,Ceará,CE,13584,1674,6211,743,864,11,23087
+2026,local_ocorrencia,Estado,Região Nordeste,Rio Grande do Norte,RN,4891,841,1829,303,183,7,8054
+2026,local_ocorrencia,Estado,Região Nordeste,Paraíba,PB,7180,552,2587,388,373,12,11092
+2026,local_ocorrencia,Estado,Região Nordeste,Pernambuco,PE,14895,1665,5252,871,728,6,23417
+2026,local_ocorrencia,Estado,Região Nordeste,Alagoas,AL,4701,543,1924,284,286,1,7739
+2026,local_ocorrencia,Estado,Região Nordeste,Sergipe,SE,3522,57,1417,236,105,1,5338
+2026,local_ocorrencia,Estado,Região Nordeste,Bahia,BA,21699,2044,8061,1678,1246,24,34752
+2026,local_ocorrencia,Regiao,Região Sudeste,,,152536,20689,37309,4886,5907,69,221396
+2026,local_ocorrencia,Estado,Região Sudeste,Minas Gerais,MG,34656,3166,9431,1191,1272,37,49753
+2026,local_ocorrencia,Estado,Região Sudeste,Espírito Santo,ES,6122,606,1708,373,274,3,9086
+2026,local_ocorrencia,Estado,Região Sudeste,Rio de Janeiro,RJ,30487,7560,8003,846,1380,10,48286
+2026,local_ocorrencia,Estado,Região Sudeste,São Paulo,SP,81271,9357,18167,2476,2981,19,114271
+2026,local_ocorrencia,Regiao,Região Sul,,,54907,3077,14326,2307,3092,18,77727
+2026,local_ocorrencia,Estado,Região Sul,Paraná,PR,20748,1498,5885,1106,884,3,30124
+2026,local_ocorrencia,Estado,Região Sul,Santa Catarina,SC,12277,459,3394,529,729,4,17392
+2026,local_ocorrencia,Estado,Região Sul,Rio Grande do Sul,RS,21882,1120,5047,672,1479,11,30211
+2026,local_ocorrencia,Regiao,Região Centro-Oeste,,,24656,2404,6160,1258,1162,9,35649
+2026,local_ocorrencia,Estado,Região Centro-Oeste,Mato Grosso do Sul,MS,4967,257,1244,236,274,0,6978
+2026,local_ocorrencia,Estado,Região Centro-Oeste,Mato Grosso,MT,5573,601,1347,327,277,3,8128
+2026,local_ocorrencia,Estado,Região Centro-Oeste,Goiás,GO,10536,1056,2759,519,500,5,15375
+2026,local_ocorrencia,Estado,Região Centro-Oeste,Distrito Federal,DF,3580,490,810,176,111,1,5168
