@@ -81,3 +81,40 @@ A linha "Total" (Brasil) foi **removida** — é recalculável a qualquer moment
 **CID-10 → descrição:** tabela de referência oficial (22 capítulos, OMS) salva em `data/processed/mortalidade_geral/referencia_cid10.csv` (colunas: `capitulo`, `intervalo_codigos`, `descricao`), reaproveitável pelas outras 6 categorias.
 
 **Formato longo/tidy:** `capitulo_cid10_long.csv` (7.392 linhas) — uma linha por combinação (ano, UF/Região, capítulo), já com a descrição do capítulo. Este é o formato recomendado para o P4 consumir no Power BI (dimensões `faixa_etaria`, `sexo`, `local_ocorrencia` continuam em formato largo, pois já têm poucas colunas e nomes autoexplicativos — não precisam de melt).
+
+### Consolidação da base (Etapa 6)
+Script: `src/cleaning/consolidacao_base.py`. **Depende das Etapas 4 e 5 já terem rodado.**
+
+Gera `fato_obitos.csv` — a tabela-fato do modelo em estrela: uma linha por `(ano, nivel, regiao, uf, sigla)` com `total_obitos`, validada como idêntica entre as 4 dimensões antes de ser gravada (o script lança erro se qualquer combinação divergir).
+
+**Modelo final para consumo em BI:**
+| Arquivo | Papel | Chave de relacionamento |
+|---|---|---|
+| `fato_obitos.csv` | Tabela-fato (métrica central) | `(ano, uf, sigla)` |
+| `capitulo_cid10.csv` | Detalhe por causa (CID-10) | `(ano, uf, sigla)` |
+| `faixa_etaria.csv` | Detalhe por idade | `(ano, uf, sigla)` |
+| `sexo.csv` | Detalhe por sexo | `(ano, uf, sigla)` |
+| `local_ocorrencia.csv` | Detalhe por local de ocorrência | `(ano, uf, sigla)` |
+| `capitulo_cid10_long.csv` | Versão tidy de capitulo_cid10, com descrição | — (já desnormalizada) |
+| `referencia_cid10.csv` | Dimensão auxiliar (descrição dos 22 capítulos) | `capitulo` |
+
+**Validação:** série histórica recalculada a partir de `fato_obitos.csv` bate exatamente com a validada na Etapa 2 (pico de óbitos em 2020–2021, dado parcial em 2026).
+
+### Validação final + entrega (Etapa 7)
+Script: `src/cleaning/validacao_final.py` — roda a pipeline completa (Etapas 4→5→6) do zero e confere 24 critérios de qualidade automaticamente (nulos, remoção da linha Total, siglas preenchidas, descrição de capítulo preenchida, contagem de linhas da tabela-fato, integridade da série histórica, existência de todos os arquivos de entrega). Uso: `python src/cleaning/validacao_final.py` — sai com erro se qualquer checagem falhar.
+
+**Status: ✅ Mortalidade Geral — pipeline de limpeza (P2) concluída e validada em 20/09/2026.**
+
+### Entrega final ao grupo
+```
+data/processed/mortalidade_geral/
+├── fato_obitos.csv           (tabela-fato: 352 linhas)
+├── capitulo_cid10.csv        (detalhe por causa CID-10)
+├── capitulo_cid10_long.csv   (versão tidy, com descrição — recomendada para BI)
+├── faixa_etaria.csv          (detalhe por idade)
+├── sexo.csv                  (detalhe por sexo)
+├── local_ocorrencia.csv      (detalhe por local de ocorrência)
+└── referencia_cid10.csv      (dimensão auxiliar: 22 capítulos CID-10)
+```
+
+Ordem de execução da pipeline (do bruto ao final): `limpeza_mortalidade_geral.py` → `padronizacao_categorias.py` → `consolidacao_base.py`, ou simplesmente `validacao_final.py` (roda as três em sequência e confere tudo).

@@ -1,0 +1,353 @@
+ano,nivel,regiao,uf,sigla,total_obitos
+2016,Estado,Região Centro-Oeste,Distrito Federal,DF,12050
+2016,Estado,Região Centro-Oeste,Goiás,GO,38074
+2016,Estado,Região Centro-Oeste,Mato Grosso,MT,17535
+2016,Estado,Região Centro-Oeste,Mato Grosso do Sul,MS,16749
+2016,Estado,Região Nordeste,Alagoas,AL,20769
+2016,Estado,Região Nordeste,Bahia,BA,88094
+2016,Estado,Região Nordeste,Ceará,CE,54276
+2016,Estado,Região Nordeste,Maranhão,MA,34362
+2016,Estado,Região Nordeste,Paraíba,PB,28041
+2016,Estado,Região Nordeste,Pernambuco,PE,66928
+2016,Estado,Região Nordeste,Piauí,PI,19187
+2016,Estado,Região Nordeste,Rio Grande do Norte,RN,21922
+2016,Estado,Região Nordeste,Sergipe,SE,13516
+2016,Estado,Região Norte,Acre,AC,3763
+2016,Estado,Região Norte,Amapá,AP,2995
+2016,Estado,Região Norte,Amazonas,AM,16799
+2016,Estado,Região Norte,Pará,PA,38557
+2016,Estado,Região Norte,Rondônia,RO,8344
+2016,Estado,Região Norte,Roraima,RR,2157
+2016,Estado,Região Norte,Tocantins,TO,7490
+2016,Estado,Região Sudeste,Espírito Santo,ES,22868
+2016,Estado,Região Sudeste,Minas Gerais,MG,135257
+2016,Estado,Região Sudeste,Rio de Janeiro,RJ,141089
+2016,Estado,Região Sudeste,São Paulo,SP,296359
+2016,Estado,Região Sul,Paraná,PR,74740
+2016,Estado,Região Sul,Rio Grande do Sul,RS,87583
+2016,Estado,Região Sul,Santa Catarina,SC,40270
+2016,Regiao,Região Centro-Oeste,,,84408
+2016,Regiao,Região Nordeste,,,347095
+2016,Regiao,Região Norte,,,80105
+2016,Regiao,Região Sudeste,,,595573
+2016,Regiao,Região Sul,,,202593
+2017,Estado,Região Centro-Oeste,Distrito Federal,DF,12514
+2017,Estado,Região Centro-Oeste,Goiás,GO,39973
+2017,Estado,Região Centro-Oeste,Mato Grosso,MT,17709
+2017,Estado,Região Centro-Oeste,Mato Grosso do Sul,MS,15954
+2017,Estado,Região Nordeste,Alagoas,AL,20673
+2017,Estado,Região Nordeste,Bahia,BA,90915
+2017,Estado,Região Nordeste,Ceará,CE,59263
+2017,Estado,Região Nordeste,Maranhão,MA,35275
+2017,Estado,Região Nordeste,Paraíba,PB,26975
+2017,Estado,Região Nordeste,Pernambuco,PE,64364
+2017,Estado,Região Nordeste,Piauí,PI,19850
+2017,Estado,Região Nordeste,Rio Grande do Norte,RN,21409
+2017,Estado,Região Nordeste,Sergipe,SE,13321
+2017,Estado,Região Norte,Acre,AC,3832
+2017,Estado,Região Norte,Amapá,AP,3158
+2017,Estado,Região Norte,Amazonas,AM,17281
+2017,Estado,Região Norte,Pará,PA,39980
+2017,Estado,Região Norte,Rondônia,RO,8219
+2017,Estado,Região Norte,Roraima,RR,2461
+2017,Estado,Região Norte,Tocantins,TO,8052
+2017,Estado,Região Sudeste,Espírito Santo,ES,24112
+2017,Estado,Região Sudeste,Minas Gerais,MG,138118
+2017,Estado,Região Sudeste,Rio de Janeiro,RJ,136709
+2017,Estado,Região Sudeste,São Paulo,SP,294753
+2017,Estado,Região Sul,Paraná,PR,71633
+2017,Estado,Região Sul,Rio Grande do Sul,RS,86241
+2017,Estado,Região Sul,Santa Catarina,SC,39919
+2017,Regiao,Região Centro-Oeste,,,86150
+2017,Regiao,Região Nordeste,,,352045
+2017,Regiao,Região Norte,,,82983
+2017,Regiao,Região Sudeste,,,593692
+2017,Regiao,Região Sul,,,197793
+2018,Estado,Região Centro-Oeste,Distrito Federal,DF,12157
+2018,Estado,Região Centro-Oeste,Goiás,GO,39507
+2018,Estado,Região Centro-Oeste,Mato Grosso,MT,18205
+2018,Estado,Região Centro-Oeste,Mato Grosso do Sul,MS,16600
+2018,Estado,Região Nordeste,Alagoas,AL,19411
+2018,Estado,Região Nordeste,Bahia,BA,90134
+2018,Estado,Região Nordeste,Ceará,CE,57028
+2018,Estado,Região Nordeste,Maranhão,MA,34525
+2018,Estado,Região Nordeste,Paraíba,PB,26644
+2018,Estado,Região Nordeste,Pernambuco,PE,62011
+2018,Estado,Região Nordeste,Piauí,PI,19983
+2018,Estado,Região Nordeste,Rio Grande do Norte,RN,21209
+2018,Estado,Região Nordeste,Sergipe,SE,13024
+2018,Estado,Região Norte,Acre,AC,4094
+2018,Estado,Região Norte,Amapá,AP,3345
+2018,Estado,Região Norte,Amazonas,AM,17710
+2018,Estado,Região Norte,Pará,PA,40513
+2018,Estado,Região Norte,Rondônia,RO,8165
+2018,Estado,Região Norte,Roraima,RR,2787
+2018,Estado,Região Norte,Tocantins,TO,7795
+2018,Estado,Região Sudeste,Espírito Santo,ES,23500
+2018,Estado,Região Sudeste,Minas Gerais,MG,135619
+2018,Estado,Região Sudeste,Rio de Janeiro,RJ,140706
+2018,Estado,Região Sudeste,São Paulo,SP,298313
+2018,Estado,Região Sul,Paraná,PR,73848
+2018,Estado,Região Sul,Rio Grande do Sul,RS,88618
+2018,Estado,Região Sul,Santa Catarina,SC,41268
+2018,Regiao,Região Centro-Oeste,,,86469
+2018,Regiao,Região Nordeste,,,343969
+2018,Regiao,Região Norte,,,84409
+2018,Regiao,Região Sudeste,,,598138
+2018,Regiao,Região Sul,,,203734
+2019,Estado,Região Centro-Oeste,Distrito Federal,DF,12804
+2019,Estado,Região Centro-Oeste,Goiás,GO,41025
+2019,Estado,Região Centro-Oeste,Mato Grosso,MT,18341
+2019,Estado,Região Centro-Oeste,Mato Grosso do Sul,MS,16815
+2019,Estado,Região Nordeste,Alagoas,AL,20287
+2019,Estado,Região Nordeste,Bahia,BA,93365
+2019,Estado,Região Nordeste,Ceará,CE,56580
+2019,Estado,Região Nordeste,Maranhão,MA,35128
+2019,Estado,Região Nordeste,Paraíba,PB,27378
+2019,Estado,Região Nordeste,Pernambuco,PE,64295
+2019,Estado,Região Nordeste,Piauí,PI,20528
+2019,Estado,Região Nordeste,Rio Grande do Norte,RN,21767
+2019,Estado,Região Nordeste,Sergipe,SE,13473
+2019,Estado,Região Norte,Acre,AC,4098
+2019,Estado,Região Norte,Amapá,AP,3524
+2019,Estado,Região Norte,Amazonas,AM,18327
+2019,Estado,Região Norte,Pará,PA,40599
+2019,Estado,Região Norte,Rondônia,RO,8338
+2019,Estado,Região Norte,Roraima,RR,2779
+2019,Estado,Região Norte,Tocantins,TO,8021
+2019,Estado,Região Sudeste,Espírito Santo,ES,24431
+2019,Estado,Região Sudeste,Minas Gerais,MG,141022
+2019,Estado,Região Sudeste,Rio de Janeiro,RJ,144600
+2019,Estado,Região Sudeste,São Paulo,SP,306190
+2019,Estado,Região Sul,Paraná,PR,74566
+2019,Estado,Região Sul,Rio Grande do Sul,RS,89238
+2019,Estado,Região Sul,Santa Catarina,SC,42282
+2019,Regiao,Região Centro-Oeste,,,88985
+2019,Regiao,Região Nordeste,,,352801
+2019,Regiao,Região Norte,,,85686
+2019,Regiao,Região Sudeste,,,616243
+2019,Regiao,Região Sul,,,206086
+2020,Estado,Região Centro-Oeste,Distrito Federal,DF,16218
+2020,Estado,Região Centro-Oeste,Goiás,GO,48358
+2020,Estado,Região Centro-Oeste,Mato Grosso,MT,23397
+2020,Estado,Região Centro-Oeste,Mato Grosso do Sul,MS,19051
+2020,Estado,Região Nordeste,Alagoas,AL,24148
+2020,Estado,Região Nordeste,Bahia,BA,107194
+2020,Estado,Região Nordeste,Ceará,CE,69512
+2020,Estado,Região Nordeste,Maranhão,MA,43271
+2020,Estado,Região Nordeste,Paraíba,PB,31107
+2020,Estado,Região Nordeste,Pernambuco,PE,76574
+2020,Estado,Região Nordeste,Piauí,PI,23646
+2020,Estado,Região Nordeste,Rio Grande do Norte,RN,24674
+2020,Estado,Região Nordeste,Sergipe,SE,15793
+2020,Estado,Região Norte,Acre,AC,4860
+2020,Estado,Região Norte,Amapá,AP,4617
+2020,Estado,Região Norte,Amazonas,AM,24765
+2020,Estado,Região Norte,Pará,PA,51643
+2020,Estado,Região Norte,Rondônia,RO,10278
+2020,Estado,Região Norte,Roraima,RR,3580
+2020,Estado,Região Norte,Tocantins,TO,9271
+2020,Estado,Região Sudeste,Espírito Santo,ES,29111
+2020,Estado,Região Sudeste,Minas Gerais,MG,152128
+2020,Estado,Região Sudeste,Rio de Janeiro,RJ,172185
+2020,Estado,Região Sudeste,São Paulo,SP,349635
+2020,Estado,Região Sul,Paraná,PR,82573
+2020,Estado,Região Sul,Rio Grande do Sul,RS,92791
+2020,Estado,Região Sul,Santa Catarina,SC,46444
+2020,Regiao,Região Centro-Oeste,,,107024
+2020,Regiao,Região Nordeste,,,415919
+2020,Regiao,Região Norte,,,109014
+2020,Regiao,Região Sudeste,,,703059
+2020,Regiao,Região Sul,,,221808
+2021,Estado,Região Centro-Oeste,Distrito Federal,DF,19079
+2021,Estado,Região Centro-Oeste,Goiás,GO,60712
+2021,Estado,Região Centro-Oeste,Mato Grosso,MT,28623
+2021,Estado,Região Centro-Oeste,Mato Grosso do Sul,MS,25049
+2021,Estado,Região Nordeste,Alagoas,AL,25090
+2021,Estado,Região Nordeste,Bahia,BA,115392
+2021,Estado,Região Nordeste,Ceará,CE,73683
+2021,Estado,Região Nordeste,Maranhão,MA,44654
+2021,Estado,Região Nordeste,Paraíba,PB,34678
+2021,Estado,Região Nordeste,Pernambuco,PE,80717
+2021,Estado,Região Nordeste,Piauí,PI,26212
+2021,Estado,Região Nordeste,Rio Grande do Norte,RN,26771
+2021,Estado,Região Nordeste,Sergipe,SE,16675
+2021,Estado,Região Norte,Acre,AC,5496
+2021,Estado,Região Norte,Amapá,AP,4750
+2021,Estado,Região Norte,Amazonas,AM,29080
+2021,Estado,Região Norte,Pará,PA,52166
+2021,Estado,Região Norte,Rondônia,RO,14042
+2021,Estado,Região Norte,Roraima,RR,4306
+2021,Estado,Região Norte,Tocantins,TO,11514
+2021,Estado,Região Sudeste,Espírito Santo,ES,32801
+2021,Estado,Região Sudeste,Minas Gerais,MG,190085
+2021,Estado,Região Sudeste,Rio de Janeiro,RJ,189232
+2021,Estado,Região Sudeste,São Paulo,SP,431616
+2021,Estado,Região Sul,Paraná,PR,112606
+2021,Estado,Região Sul,Rio Grande do Sul,RS,117722
+2021,Estado,Região Sul,Santa Catarina,SC,59898
+2021,Regiao,Região Centro-Oeste,,,133463
+2021,Regiao,Região Nordeste,,,443872
+2021,Regiao,Região Norte,,,121354
+2021,Regiao,Região Sudeste,,,843734
+2021,Regiao,Região Sul,,,290226
+2022,Estado,Região Centro-Oeste,Distrito Federal,DF,14457
+2022,Estado,Região Centro-Oeste,Goiás,GO,47270
+2022,Estado,Região Centro-Oeste,Mato Grosso,MT,21731
+2022,Estado,Região Centro-Oeste,Mato Grosso do Sul,MS,20434
+2022,Estado,Região Nordeste,Alagoas,AL,23122
+2022,Estado,Região Nordeste,Bahia,BA,107641
+2022,Estado,Região Nordeste,Ceará,CE,64664
+2022,Estado,Região Nordeste,Maranhão,MA,39936
+2022,Estado,Região Nordeste,Paraíba,PB,32405
+2022,Estado,Região Nordeste,Pernambuco,PE,72011
+2022,Estado,Região Nordeste,Piauí,PI,24343
+2022,Estado,Região Nordeste,Rio Grande do Norte,RN,24219
+2022,Estado,Região Nordeste,Sergipe,SE,14791
+2022,Estado,Região Norte,Acre,AC,4159
+2022,Estado,Região Norte,Amapá,AP,3846
+2022,Estado,Região Norte,Amazonas,AM,20155
+2022,Estado,Região Norte,Pará,PA,45499
+2022,Estado,Região Norte,Rondônia,RO,10277
+2022,Estado,Região Norte,Roraima,RR,3246
+2022,Estado,Região Norte,Tocantins,TO,9370
+2022,Estado,Região Sudeste,Espírito Santo,ES,27992
+2022,Estado,Região Sudeste,Minas Gerais,MG,162615
+2022,Estado,Região Sudeste,Rio de Janeiro,RJ,150806
+2022,Estado,Região Sudeste,São Paulo,SP,354056
+2022,Estado,Região Sul,Paraná,PR,89808
+2022,Estado,Região Sul,Rio Grande do Sul,RS,104096
+2022,Estado,Região Sul,Santa Catarina,SC,51317
+2022,Regiao,Região Centro-Oeste,,,103892
+2022,Regiao,Região Nordeste,,,403132
+2022,Regiao,Região Norte,,,96552
+2022,Regiao,Região Sudeste,,,695469
+2022,Regiao,Região Sul,,,245221
+2023,Estado,Região Centro-Oeste,Distrito Federal,DF,14079
+2023,Estado,Região Centro-Oeste,Goiás,GO,45041
+2023,Estado,Região Centro-Oeste,Mato Grosso,MT,21790
+2023,Estado,Região Centro-Oeste,Mato Grosso do Sul,MS,19638
+2023,Estado,Região Nordeste,Alagoas,AL,21965
+2023,Estado,Região Nordeste,Bahia,BA,103081
+2023,Estado,Região Nordeste,Ceará,CE,60635
+2023,Estado,Região Nordeste,Maranhão,MA,38747
+2023,Estado,Região Nordeste,Paraíba,PB,28773
+2023,Estado,Região Nordeste,Pernambuco,PE,68527
+2023,Estado,Região Nordeste,Piauí,PI,22529
+2023,Estado,Região Nordeste,Rio Grande do Norte,RN,22302
+2023,Estado,Região Nordeste,Sergipe,SE,14087
+2023,Estado,Região Norte,Acre,AC,4189
+2023,Estado,Região Norte,Amapá,AP,3926
+2023,Estado,Região Norte,Amazonas,AM,20385
+2023,Estado,Região Norte,Pará,PA,43780
+2023,Estado,Região Norte,Rondônia,RO,9974
+2023,Estado,Região Norte,Roraima,RR,3311
+2023,Estado,Região Norte,Tocantins,TO,8912
+2023,Estado,Região Sudeste,Espírito Santo,ES,27315
+2023,Estado,Região Sudeste,Minas Gerais,MG,157603
+2023,Estado,Região Sudeste,Rio de Janeiro,RJ,145148
+2023,Estado,Região Sudeste,São Paulo,SP,334303
+2023,Estado,Região Sul,Paraná,PR,83465
+2023,Estado,Região Sul,Rio Grande do Sul,RS,93516
+2023,Estado,Região Sul,Santa Catarina,SC,48589
+2023,Regiao,Região Centro-Oeste,,,100548
+2023,Regiao,Região Nordeste,,,380646
+2023,Regiao,Região Norte,,,94477
+2023,Regiao,Região Sudeste,,,664369
+2023,Regiao,Região Sul,,,225570
+2024,Estado,Região Centro-Oeste,Distrito Federal,DF,15878
+2024,Estado,Região Centro-Oeste,Goiás,GO,47830
+2024,Estado,Região Centro-Oeste,Mato Grosso,MT,22803
+2024,Estado,Região Centro-Oeste,Mato Grosso do Sul,MS,19841
+2024,Estado,Região Nordeste,Alagoas,AL,22653
+2024,Estado,Região Nordeste,Bahia,BA,106212
+2024,Estado,Região Nordeste,Ceará,CE,63496
+2024,Estado,Região Nordeste,Maranhão,MA,40143
+2024,Estado,Região Nordeste,Paraíba,PB,30153
+2024,Estado,Região Nordeste,Pernambuco,PE,70793
+2024,Estado,Região Nordeste,Piauí,PI,23476
+2024,Estado,Região Nordeste,Rio Grande do Norte,RN,23527
+2024,Estado,Região Nordeste,Sergipe,SE,14453
+2024,Estado,Região Norte,Acre,AC,4267
+2024,Estado,Região Norte,Amapá,AP,3903
+2024,Estado,Região Norte,Amazonas,AM,20225
+2024,Estado,Região Norte,Pará,PA,45375
+2024,Estado,Região Norte,Rondônia,RO,10097
+2024,Estado,Região Norte,Roraima,RR,3055
+2024,Estado,Região Norte,Tocantins,TO,9427
+2024,Estado,Região Sudeste,Espírito Santo,ES,28142
+2024,Estado,Região Sudeste,Minas Gerais,MG,163668
+2024,Estado,Região Sudeste,Rio de Janeiro,RJ,148156
+2024,Estado,Região Sudeste,São Paulo,SP,351616
+2024,Estado,Região Sul,Paraná,PR,89122
+2024,Estado,Região Sul,Rio Grande do Sul,RS,101480
+2024,Estado,Região Sul,Santa Catarina,SC,52224
+2024,Regiao,Região Centro-Oeste,,,106352
+2024,Regiao,Região Nordeste,,,394906
+2024,Regiao,Região Norte,,,96349
+2024,Regiao,Região Sudeste,,,691582
+2024,Regiao,Região Sul,,,242826
+2025,Estado,Região Centro-Oeste,Distrito Federal,DF,15105
+2025,Estado,Região Centro-Oeste,Goiás,GO,47012
+2025,Estado,Região Centro-Oeste,Mato Grosso,MT,23049
+2025,Estado,Região Centro-Oeste,Mato Grosso do Sul,MS,20043
+2025,Estado,Região Nordeste,Alagoas,AL,22936
+2025,Estado,Região Nordeste,Bahia,BA,106299
+2025,Estado,Região Nordeste,Ceará,CE,63900
+2025,Estado,Região Nordeste,Maranhão,MA,40933
+2025,Estado,Região Nordeste,Paraíba,PB,30547
+2025,Estado,Região Nordeste,Pernambuco,PE,70510
+2025,Estado,Região Nordeste,Piauí,PI,23221
+2025,Estado,Região Nordeste,Rio Grande do Norte,RN,23350
+2025,Estado,Região Nordeste,Sergipe,SE,14580
+2025,Estado,Região Norte,Acre,AC,4239
+2025,Estado,Região Norte,Amapá,AP,3988
+2025,Estado,Região Norte,Amazonas,AM,20375
+2025,Estado,Região Norte,Pará,PA,46744
+2025,Estado,Região Norte,Rondônia,RO,10559
+2025,Estado,Região Norte,Roraima,RR,3368
+2025,Estado,Região Norte,Tocantins,TO,9640
+2025,Estado,Região Sudeste,Espírito Santo,ES,29401
+2025,Estado,Região Sudeste,Minas Gerais,MG,159772
+2025,Estado,Região Sudeste,Rio de Janeiro,RJ,152284
+2025,Estado,Região Sudeste,São Paulo,SP,354757
+2025,Estado,Região Sul,Paraná,PR,87816
+2025,Estado,Região Sul,Rio Grande do Sul,RS,98034
+2025,Estado,Região Sul,Santa Catarina,SC,52126
+2025,Regiao,Região Centro-Oeste,,,105209
+2025,Regiao,Região Nordeste,,,396276
+2025,Regiao,Região Norte,,,98913
+2025,Regiao,Região Sudeste,,,696214
+2025,Regiao,Região Sul,,,237976
+2026,Estado,Região Centro-Oeste,Distrito Federal,DF,5168
+2026,Estado,Região Centro-Oeste,Goiás,GO,15375
+2026,Estado,Região Centro-Oeste,Mato Grosso,MT,8128
+2026,Estado,Região Centro-Oeste,Mato Grosso do Sul,MS,6978
+2026,Estado,Região Nordeste,Alagoas,AL,7739
+2026,Estado,Região Nordeste,Bahia,BA,34752
+2026,Estado,Região Nordeste,Ceará,CE,23087
+2026,Estado,Região Nordeste,Maranhão,MA,15331
+2026,Estado,Região Nordeste,Paraíba,PB,11092
+2026,Estado,Região Nordeste,Pernambuco,PE,23417
+2026,Estado,Região Nordeste,Piauí,PI,8112
+2026,Estado,Região Nordeste,Rio Grande do Norte,RN,8054
+2026,Estado,Região Nordeste,Sergipe,SE,5338
+2026,Estado,Região Norte,Acre,AC,1510
+2026,Estado,Região Norte,Amapá,AP,1390
+2026,Estado,Região Norte,Amazonas,AM,6918
+2026,Estado,Região Norte,Pará,PA,16958
+2026,Estado,Região Norte,Rondônia,RO,3633
+2026,Estado,Região Norte,Roraima,RR,1034
+2026,Estado,Região Norte,Tocantins,TO,3394
+2026,Estado,Região Sudeste,Espírito Santo,ES,9086
+2026,Estado,Região Sudeste,Minas Gerais,MG,49753
+2026,Estado,Região Sudeste,Rio de Janeiro,RJ,48286
+2026,Estado,Região Sudeste,São Paulo,SP,114271
+2026,Estado,Região Sul,Paraná,PR,30124
+2026,Estado,Região Sul,Rio Grande do Sul,RS,30211
+2026,Estado,Região Sul,Santa Catarina,SC,17392
+2026,Regiao,Região Centro-Oeste,,,35649
+2026,Regiao,Região Nordeste,,,136922
+2026,Regiao,Região Norte,,,34837
+2026,Regiao,Região Sudeste,,,221396
+2026,Regiao,Região Sul,,,77727
