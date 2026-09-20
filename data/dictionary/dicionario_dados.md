@@ -7,23 +7,28 @@ Atualizado incrementalmente conforme cada categoria do SIM é processada.
 
 **Fonte:** DATASUS/SIM, extraído via TabNet.
 **Arquivos brutos:** `data/raw/datasus_sim/mortalidade_geral/` (45 CSVs).
+**Base tratada:** `data/processed/mortalidade_geral/{capitulo_cid10, faixa_etaria, sexo, local_ocorrencia}.csv` (363 linhas cada = 33 regiões/UFs × 11 anos).
 **Período:** 2016–2026 (2025 = dado preliminar; 2026 = 1ª prévia, ambos sujeitos a revisão pelo DATASUS).
 
 ### Estrutura dos arquivos brutos
 - Encoding: ISO-8859-1 (latin1); separador: `;`.
 - 3 linhas de metadado (título, subtítulo, período) antes do cabeçalho de dados.
 - Linha "Total" encerra o bloco de dados; linhas seguintes são rodapé (fonte/notas), descartado na leitura.
-- Caractere `"-"` representa zero ou valor suprimido por sigilo estatístico — convertido para `NaN` na leitura crua (`src/io/leitura_tabnet.py`).
+- Caractere `"-"` representa zero — ver Etapa 4 abaixo.
 
-### Dimensões disponíveis (4 por ano, 2017–2026)
+### Dimensões disponíveis (4 por ano, 2016–2026)
 | Dimensão | Coluna identificadora | Conteúdo |
 |---|---|---|
-| `capitulo_cid10` | Cap I – Cap XX | Óbitos por capítulo da CID-10 (causa básica) |
+| `capitulo_cid10` | Cap I – Cap XX (+ XIX/XXII em anos pontuais) | Óbitos por capítulo da CID-10 (causa básica) |
 | `faixa_etaria` | Menor 1 ano – 80 anos e mais | Óbitos por faixa etária |
 | `sexo` | Masc / Fem / Ign | Óbitos por sexo |
 | `local_ocorrencia` | Hospital / Domicílio / Via pública / Outros | Óbitos por local de ocorrência |
 
-**Nota sobre capítulos CID-10 ausentes:** as colunas não incluem Cap XIX, XXI e XXII. Não é erro de extração — o SIM não usa esses capítulos como causa básica de óbito nesta tabulação (XIX é coberto por XX; XXI e XXII são códigos administrativos/especiais).
+**Nota sobre capítulos CID-10 (corrigida na Etapa 4):** o TabNet omite, por ano, qualquer coluna de capítulo cuja soma seja zero em todas as UFs naquele ano — não é ausência permanente do capítulo na classificação. Constatado que:
+- **Cap XXI** nunca teve ocorrência em nenhum dos 11 anos (2016–2026) — genuinamente sem uso nesta série.
+- **Cap XIX** apareceu apenas em **2023** (0 nos demais 10 anos).
+- **Cap XXII** apareceu apenas em **2026** (0 nos demais 10 anos).
+- Ao consolidar todos os anos, essas colunas recebem `0` para os anos sem ocorrência (mesma regra da Etapa 4).
 
 ### Registro atípico: Região × Região (2016)
 Um arquivo do ano de 2016 (`sim_cnv_obt10uf185444138_0_146_204.csv`) cruza Região de residência × Região de ocorrência, fora do padrão das outras 4 dimensões — e existe **somente para 2016**, sem equivalente nos demais anos.
@@ -34,8 +39,15 @@ Um arquivo do ano de 2016 (`sim_cnv_obt10uf185444138_0_146_204.csv`) cruza Regi�
 - Preservado em `data/raw/` para uso exploratório futuro (ex.: mobilidade de óbitos entre regiões).
 - Já isolado automaticamente pelo código: `leitura_tabnet.py` o identifica como `dimensao="regiao_x_regiao"`, e `app.py` o exclui da lista de dimensões do dashboard principal.
 
-### Duplicidade
-Verificação por hash MD5 nos 45 arquivos: **nenhuma duplicata exata encontrada** nesta categoria (checado em 20/09/2026).
+### Duplicidade (Etapa 3)
+Verificação por hash MD5 nos 45 arquivos: **nenhuma duplicata exata encontrada** nesta categoria.
+
+### Tratamento de nulos (Etapa 4)
+O caractere `"-"` (e colunas ausentes por ano, ver acima) representa **zero real**, não dado suprimido por sigilo estatístico.
+
+**Evidência:** validado comparando a soma das colunas de cada linha (tratando `"-"`/`NaN` como `0`) contra a coluna "Total", em **1.408 linhas** de Região/UF nas 4 dimensões principais — **100% de correspondência exata, 0 divergências**.
+
+**Regra aplicada:** `NaN → 0` (script: `src/cleaning/limpeza_mortalidade_geral.py`). Resultado final: **0 valores nulos** na base tratada, com validação automática (`soma(colunas) == Total`) embutida no script — o script lança erro se qualquer linha divergir.
 
 ---
 
@@ -51,3 +63,4 @@ As 6 categorias abaixo existem no dataset original do DATASUS/SIM, mas seus CSVs
 **Pendências já identificadas no material original (zip), a resolver quando essas categorias forem enviadas e processadas:**
 - 3 arquivos duplicados com sufixo `(1).csv` — em Causas Evitáveis, Óbitos Infantis e Óbitos por Causas Externas.
 - 1 arquivo de Causas Externas classificado incorretamente dentro da pasta de Óbitos Fetais.
+- Verificar, para cada categoria, se o mesmo padrão de colunas de capítulo CID-10 "aparecem só em anos com ocorrência" se repete (provável, dado o comportamento do TabNet).
