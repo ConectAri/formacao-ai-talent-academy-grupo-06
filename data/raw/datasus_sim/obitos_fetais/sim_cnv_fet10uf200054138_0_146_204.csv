@@ -1,0 +1,44 @@
+ Óbitos fetais - Brasil
+Óbitos p/Residênc por Região/Unidade da Federação e Duração gestação
+Período:2021
+"Região/Unidade da Federação";"Menos de 22 semanas";"22 a 27 semanas";"28 a 31 semanas";"32 a 36 semanas";"37 a 41 semanas";"42 semanas e mais";"Ignorado";"Total"
+"Região Norte";256;678;578;1012;931;29;212;3696
+".. Rondônia";13;50;44;66;53;-;15;241
+".. Acre";10;37;24;48;32;1;12;164
+".. Amazonas";51;188;154;284;271;12;42;1002
+".. Roraima";11;24;22;34;37;1;15;144
+".. Pará";132;283;254;450;422;10;96;1647
+".. Amapá";11;31;42;46;61;3;21;215
+".. Tocantins";28;65;38;84;55;2;11;283
+"Região Nordeste";708;1941;1536;2356;2341;44;681;9607
+".. Maranhão";117;208;237;366;439;15;89;1471
+".. Piauí";25;105;80;141;135;2;35;523
+".. Ceará";104;323;205;352;314;1;89;1388
+".. Rio Grande do Norte";55;101;80;116;89;-;24;465
+".. Paraíba";33;135;108;124;148;4;55;607
+".. Pernambuco";87;271;277;409;312;5;90;1451
+".. Alagoas";22;92;94;123;142;7;65;545
+".. Sergipe";26;77;52;102;105;-;16;378
+".. Bahia";239;629;403;623;657;10;218;2779
+"Região Sudeste";887;2821;1786;2489;1772;9;829;10593
+".. Minas Gerais";228;676;429;602;455;2;165;2557
+".. Espírito Santo";27;126;101;136;104;-;41;535
+".. Rio de Janeiro";175;620;454;659;399;2;151;2460
+".. São Paulo";457;1399;802;1092;814;5;472;5041
+"Região Sul";245;783;536;759;509;8;150;2990
+".. Paraná";82;303;231;282;203;4;45;1150
+".. Santa Catarina";69;195;121;207;138;1;40;771
+".. Rio Grande do Sul";94;285;184;270;168;3;65;1069
+"Região Centro-Oeste";207;613;435;616;441;7;120;2439
+".. Mato Grosso do Sul";45;108;81;129;94;2;28;487
+".. Mato Grosso";36;151;111;148;134;2;26;608
+".. Goiás";88;249;179;249;148;3;44;960
+".. Distrito Federal";38;105;64;90;65;-;22;384
+"Total";2303;6836;4871;7232;5994;97;1992;29325
+ Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Notas:
+ 
+ Dados finais disponíveis até 2024 - data de extração 02/12/2025.
+ Dados de 2025 - Preliminares - data de extração 28/07/2026.
+ Dados de 2026 - 1a prévia - data de extração 01/06/2026.
+ 

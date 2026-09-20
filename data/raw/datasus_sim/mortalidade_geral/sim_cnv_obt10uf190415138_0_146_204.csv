@@ -1,0 +1,44 @@
+ Mortalidade - Brasil
+Óbitos p/Residênc por Região/Unidade da Federação e Sexo
+Período:2018
+"Região/Unidade da Federação";"Masc";"Fem";"Ign";"Total"
+"Região Norte";51568;32741;100;84409
+".. Rondônia";5065;3090;10;8165
+".. Acre";2481;1606;7;4094
+".. Amazonas";10666;7041;3;17710
+".. Roraima";1716;1068;3;2787
+".. Pará";24735;15709;69;40513
+".. Amapá";2098;1246;1;3345
+".. Tocantins";4807;2981;7;7795
+"Região Nordeste";195296;148460;213;343969
+".. Maranhão";20200;14307;18;34525
+".. Piauí";11381;8574;28;19983
+".. Ceará";32363;24648;17;57028
+".. Rio Grande do Norte";12054;9140;15;21209
+".. Paraíba";14613;12021;10;26644
+".. Pernambuco";34227;27736;48;62011
+".. Alagoas";10940;8460;11;19411
+".. Sergipe";7524;5496;4;13024
+".. Bahia";51994;38078;62;90134
+"Região Sudeste";323636;274286;216;598138
+".. Minas Gerais";75052;60551;16;135619
+".. Espírito Santo";13351;10137;12;23500
+".. Rio de Janeiro";74036;66548;122;140706
+".. São Paulo";161197;137050;66;298313
+"Região Sul";112244;91409;81;203734
+".. Paraná";41581;32251;16;73848
+".. Santa Catarina";22963;18303;2;41268
+".. Rio Grande do Sul";47700;40855;63;88618
+"Região Centro-Oeste";50872;35561;36;86469
+".. Mato Grosso do Sul";9637;6962;1;16600
+".. Mato Grosso";11245;6949;11;18205
+".. Goiás";23302;16183;22;39507
+".. Distrito Federal";6688;5467;2;12157
+"Total";733616;582457;646;1316719
+ Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Notas:
+ 
+ Dados finais disponíveis até 2024 - data de extração 02/12/2025.
+ Dados de 2025 - Preliminares - data de extração 28/07/2026.
+ Dados de 2026 - 1a prévia - data de extração 01/06/2026.
+ 

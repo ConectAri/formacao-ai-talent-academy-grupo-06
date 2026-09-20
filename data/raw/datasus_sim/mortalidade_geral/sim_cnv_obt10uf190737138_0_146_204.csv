@@ -1,0 +1,44 @@
+ Mortalidade - Brasil
+Óbitos p/Residênc por Região/Unidade da Federação e Local ocorrência
+Período:2026
+"Região/Unidade da Federação";"Hospital";"Outro estabelecimento de saúde";"Domicílio";"Via pública";"Outros";"Ignorado";"Total"
+"Região Norte";22980;1759;7221;1491;1370;16;34837
+".. Rondônia";2585;131;618;169;125;5;3633
+".. Acre";1023;5;346;56;79;1;1510
+".. Amazonas";4835;15;1603;229;235;1;6918
+".. Roraima";740;9;201;36;48;-;1034
+".. Pará";10493;1452;3579;782;645;7;16958
+".. Amapá";1001;24;218;46;100;1;1390
+".. Tocantins";2303;123;656;173;138;1;3394
+"Região Nordeste";85208;8056;33311;5545;4732;70;136922
+".. Maranhão";9720;509;3677;702;717;6;15331
+".. Piauí";5016;171;2353;340;230;2;8112
+".. Ceará";13584;1674;6211;743;864;11;23087
+".. Rio Grande do Norte";4891;841;1829;303;183;7;8054
+".. Paraíba";7180;552;2587;388;373;12;11092
+".. Pernambuco";14895;1665;5252;871;728;6;23417
+".. Alagoas";4701;543;1924;284;286;1;7739
+".. Sergipe";3522;57;1417;236;105;1;5338
+".. Bahia";21699;2044;8061;1678;1246;24;34752
+"Região Sudeste";152536;20689;37309;4886;5907;69;221396
+".. Minas Gerais";34656;3166;9431;1191;1272;37;49753
+".. Espírito Santo";6122;606;1708;373;274;3;9086
+".. Rio de Janeiro";30487;7560;8003;846;1380;10;48286
+".. São Paulo";81271;9357;18167;2476;2981;19;114271
+"Região Sul";54907;3077;14326;2307;3092;18;77727
+".. Paraná";20748;1498;5885;1106;884;3;30124
+".. Santa Catarina";12277;459;3394;529;729;4;17392
+".. Rio Grande do Sul";21882;1120;5047;672;1479;11;30211
+"Região Centro-Oeste";24656;2404;6160;1258;1162;9;35649
+".. Mato Grosso do Sul";4967;257;1244;236;274;-;6978
+".. Mato Grosso";5573;601;1347;327;277;3;8128
+".. Goiás";10536;1056;2759;519;500;5;15375
+".. Distrito Federal";3580;490;810;176;111;1;5168
+"Total";340287;35985;98327;15487;16263;182;506531
+ Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Notas:
+ 
+ Dados finais disponíveis até 2024 - data de extração 02/12/2025.
+ Dados de 2025 - Preliminares - data de extração 28/07/2026.
+ Dados de 2026 - 1a prévia - data de extração 01/06/2026.
+ 

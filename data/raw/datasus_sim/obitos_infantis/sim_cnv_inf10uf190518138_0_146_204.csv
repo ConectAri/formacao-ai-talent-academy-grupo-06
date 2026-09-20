@@ -1,0 +1,44 @@
+ Óbitos infantis - Brasil
+Óbitos p/Residênc por Região/Unidade da Federação e Local ocorrência
+Período:2024
+"Região/Unidade da Federação";"Hospital";"Outro estabelecimento de saúde";"Domicílio";"Via pública";"Outros";"Ignorado";"Total"
+"Região Norte";3679;76;260;33;120;-;4168
+".. Rondônia";287;1;5;1;1;-;295
+".. Acre";198;3;26;5;4;-;236
+".. Amazonas";899;7;95;7;57;-;1065
+".. Roraima";166;9;31;3;22;-;231
+".. Pará";1632;53;85;11;29;-;1810
+".. Amapá";210;-;8;1;1;-;220
+".. Tocantins";287;3;10;5;6;-;311
+"Região Nordeste";8367;184;295;63;118;6;9033
+".. Maranhão";1156;15;59;25;34;2;1291
+".. Piauí";509;4;34;6;13;-;566
+".. Ceará";1130;7;28;3;11;1;1180
+".. Rio Grande do Norte";447;10;8;-;4;-;469
+".. Paraíba";560;9;24;4;10;1;608
+".. Pernambuco";1389;50;37;11;6;-;1493
+".. Alagoas";583;24;15;-;11;-;633
+".. Sergipe";370;2;9;2;1;1;385
+".. Bahia";2223;63;81;12;28;1;2408
+"Região Sudeste";9890;370;261;20;50;3;10594
+".. Minas Gerais";2317;69;86;5;7;2;2486
+".. Espírito Santo";551;29;20;2;8;-;610
+".. Rio de Janeiro";2013;127;32;4;10;1;2187
+".. São Paulo";5009;145;123;9;25;-;5311
+"Região Sul";3254;86;94;14;58;1;3507
+".. Paraná";1288;46;36;6;22;-;1398
+".. Santa Catarina";902;20;32;4;14;-;972
+".. Rio Grande do Sul";1064;20;26;4;22;1;1137
+"Região Centro-Oeste";2480;67;125;14;31;1;2718
+".. Mato Grosso do Sul";419;15;45;3;5;1;488
+".. Mato Grosso";719;17;32;5;12;-;785
+".. Goiás";1022;26;37;4;7;-;1096
+".. Distrito Federal";320;9;11;2;7;-;349
+"Total";27670;783;1035;144;377;11;30020
+ Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Notas:
+ 
+ Dados finais disponíveis até 2024 - data de extração 02/12/2025.
+ Dados de 2025 - Preliminares - data de extração 28/07/2026.
+ Dados de 2026 - 1a prévia - data de extração 01/06/2026.
+ 

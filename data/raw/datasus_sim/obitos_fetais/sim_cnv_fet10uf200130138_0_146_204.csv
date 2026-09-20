@@ -1,0 +1,44 @@
+ Óbitos fetais - Brasil
+Óbitos p/Residênc por Região/Unidade da Federação e Duração gestação
+Período:2025
+"Região/Unidade da Federação";"Menos de 22 semanas";"22 a 27 semanas";"28 a 31 semanas";"32 a 36 semanas";"37 a 41 semanas";"42 semanas e mais";"Ignorado";"Total"
+"Região Norte";308;752;542;815;688;16;137;3258
+".. Rondônia";9;54;42;54;32;1;4;196
+".. Acre";8;30;31;24;29;1;15;138
+".. Amazonas";84;199;157;220;221;7;33;921
+".. Roraima";9;29;24;35;32;-;11;140
+".. Pará";150;357;230;402;316;5;55;1515
+".. Amapá";10;26;19;26;25;2;12;120
+".. Tocantins";38;57;39;54;33;-;7;228
+"Região Nordeste";847;1943;1227;1817;1481;9;476;7800
+".. Maranhão";83;216;176;281;277;5;78;1116
+".. Piauí";56;119;80;110;86;-;28;479
+".. Ceará";106;258;149;246;179;-;49;987
+".. Rio Grande do Norte";65;101;66;84;66;-;21;403
+".. Paraíba";53;139;79;109;89;1;22;492
+".. Pernambuco";94;291;185;281;233;1;70;1155
+".. Alagoas";46;107;83;118;97;-;34;485
+".. Sergipe";34;87;51;89;65;-;15;341
+".. Bahia";310;625;358;499;389;2;159;2342
+"Região Sudeste";1170;2680;1429;1890;1212;7;689;9077
+".. Minas Gerais";305;647;330;455;336;1;142;2216
+".. Espírito Santo";38;149;84;127;81;1;41;521
+".. Rio de Janeiro";220;535;348;480;273;2;122;1980
+".. São Paulo";607;1349;667;828;522;3;384;4360
+"Região Sul";374;849;428;565;382;2;112;2712
+".. Paraná";142;330;167;226;165;-;22;1052
+".. Santa Catarina";109;243;107;158;111;2;28;758
+".. Rio Grande do Sul";123;276;154;181;106;-;62;902
+"Região Centro-Oeste";320;641;352;507;328;4;74;2226
+".. Mato Grosso do Sul";65;110;71;105;57;-;19;427
+".. Mato Grosso";53;157;78;119;86;3;19;515
+".. Goiás";143;270;147;210;128;1;32;931
+".. Distrito Federal";59;104;56;73;57;-;4;353
+"Total";3019;6865;3978;5594;4091;38;1488;25073
+ Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Notas:
+ 
+ Dados finais disponíveis até 2024 - data de extração 02/12/2025.
+ Dados de 2025 - Preliminares - data de extração 28/07/2026.
+ Dados de 2026 - 1a prévia - data de extração 01/06/2026.
+ 
