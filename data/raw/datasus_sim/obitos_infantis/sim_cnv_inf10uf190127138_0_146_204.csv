@@ -1,0 +1,44 @@
+ Óbitos infantis - Brasil
+Óbitos p/Residênc por Região/Unidade da Federação e Sexo
+Período:2016
+"Região/Unidade da Federação";"Masc";"Fem";"Ign";"Total"
+"Região Norte";2702;2044;24;4770
+".. Rondônia";192;162;3;357
+".. Acre";131;108;-;239
+".. Amazonas";712;510;3;1225
+".. Roraima";119;91;-;210
+".. Pará";1220;923;14;2157
+".. Amapá";152;131;1;284
+".. Tocantins";176;119;3;298
+"Região Nordeste";6376;5032;97;11505
+".. Maranhão";898;754;4;1656
+".. Piauí";431;320;12;763
+".. Ceará";874;709;13;1596
+".. Rio Grande do Norte";316;258;7;581
+".. Paraíba";395;311;3;709
+".. Pernambuco";999;808;14;1821
+".. Alagoas";376;304;9;689
+".. Sergipe";273;216;6;495
+".. Bahia";1814;1352;29;3195
+"Região Sudeste";7301;5843;49;13193
+".. Minas Gerais";1592;1305;15;2912
+".. Espírito Santo";338;284;2;624
+".. Rio de Janeiro";1634;1347;9;2990
+".. São Paulo";3737;2907;23;6667
+"Região Sul";2164;1727;12;3903
+".. Paraná";900;726;4;1630
+".. Santa Catarina";462;366;6;834
+".. Rio Grande do Sul";802;635;2;1439
+"Região Centro-Oeste";1648;1323;8;2979
+".. Mato Grosso do Sul";303;245;-;548
+".. Mato Grosso";408;329;3;740
+".. Goiás";678;561;5;1244
+".. Distrito Federal";259;188;-;447
+"Total";20191;15969;190;36350
+ Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Notas:
+ 
+ Dados finais disponíveis até 2024 - data de extração 02/12/2025.
+ Dados de 2025 - Preliminares - data de extração 28/07/2026.
+ Dados de 2026 - 1a prévia - data de extração 01/06/2026.
+ 

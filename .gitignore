@@ -177,8 +177,8 @@ pyrightconfig.json
 
 # se o volume crescer muito (ex: recorte nacional futuro)
 data/raw/**/*.csv
-# exceção: dados usados diretamente pelo app.py em produção (Streamlit Cloud)
-!data/raw/datasus_sim/mortalidade_geral/*.csv
+# exceção: manter todos os CSVs do DATASUS SIM como evidência no projeto
+!data/raw/datasus_sim/**/*.csv
 # arquivos do Power BI podem ficar grandes — avaliar Git LFS
 *.pbix
 .ipynb_checkpoints/

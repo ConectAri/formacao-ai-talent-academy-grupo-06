@@ -1,0 +1,44 @@
+ Óbitos por Causas Externas - Brasil
+Óbitos p/Residênc por Região/Unidade da Federação e Grande Grupo CID10
+Período:2025
+"Região/Unidade da Federação";"V01-V99 Acidentes de transporte";"W00-X59 Outras causas externas de lesões acident";"X60-X84 Lesões autoprovocadas voluntariamente";"X85-Y09 Agressões";"Y10-Y34 Eventos cuja intenção é indeterminada";"Y35-Y36 Intervenções legais e operações de guerra";"Y40-Y84 Complic assistência médica e cirúrgica";"Y85-Y89 Seqüelas de causas externas";"Total"
+"Região Norte";4137;3093;1553;4445;543;336;47;28;14182
+".. Rondônia";523;303;153;505;77;14;5;2;1582
+".. Acre";131;118;117;183;16;1;6;-;572
+".. Amazonas";502;594;386;842;207;6;4;6;2547
+".. Roraima";168;129;74;217;68;2;6;-;664
+".. Pará";2032;1464;561;2168;96;189;9;10;6529
+".. Amapá";91;107;74;232;25;110;13;1;653
+".. Tocantins";690;378;188;298;54;14;4;9;1635
+"Região Nordeste";12172;10094;4047;16445;5218;886;551;108;49521
+".. Maranhão";1658;1056;458;2135;155;8;73;8;5551
+".. Piauí";1197;626;420;542;55;5;17;12;2874
+".. Ceará";1940;1527;729;2588;2264;30;54;10;9142
+".. Rio Grande do Norte";512;450;266;877;234;18;82;3;2442
+".. Paraíba";885;737;308;1006;66;3;44;-;3049
+".. Pernambuco";1808;2303;643;3146;783;10;66;30;8789
+".. Alagoas";688;538;186;1107;225;9;97;6;2856
+".. Sergipe";532;457;173;495;89;2;16;9;1773
+".. Bahia";2952;2400;864;4549;1347;801;102;30;13045
+"Região Sudeste";11505;17362;5474;8490;13694;484;1283;153;58445
+".. Minas Gerais";3403;3622;1733;2175;4292;42;238;39;15544
+".. Espírito Santo";973;1581;331;919;160;33;29;27;4053
+".. Rio de Janeiro";1678;3568;739;2798;3866;188;435;15;13287
+".. São Paulo";5451;8591;2671;2598;5376;221;581;72;25561
+"Região Sul";6148;7147;3704;3257;824;463;197;202;21942
+".. Paraná";2730;3053;1122;1473;354;391;59;118;9300
+".. Santa Catarina";1589;1563;1014;538;225;70;34;18;5051
+".. Rio Grande do Sul";1829;2531;1568;1246;245;2;104;66;7591
+"Região Centro-Oeste";3992;3364;1692;2594;700;249;138;64;12793
+".. Mato Grosso do Sul";710;557;330;437;107;58;16;5;2220
+".. Mato Grosso";1148;710;310;795;94;42;12;20;3131
+".. Goiás";1822;1691;801;1102;235;137;65;36;5889
+".. Distrito Federal";312;406;251;260;264;12;45;3;1553
+"Total";37954;41060;16470;35231;20979;2418;2216;555;156883
+ Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Notas:
+ 
+ Dados finais disponíveis até 2024 - data de extração 02/12/2025.
+ Dados de 2025 - Preliminares - data de extração 28/07/2026.
+ Dados de 2026 - 1a prévia - data de extração 01/06/2026.
+ 

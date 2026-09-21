@@ -1,0 +1,44 @@
+ Óbitos de mulheres em idade fértil e óbitos maternos - Brasil
+Óbitos mulheres idade fértil por Região/Unidade da Federação e Local ocorrência
+Período:2016
+"Região/Unidade da Federação";"Hospital";"Outro estabelecimento de saúde";"Domicílio";"Via pública";"Outros";"Ignorado";"Total"
+"Região Norte";3804;104;899;427;249;19;5502
+".. Rondônia";386;8;65;60;16;2;537
+".. Acre";163;2;45;21;12;-;243
+".. Amazonas";890;6;235;54;59;1;1245
+".. Roraima";96;3;44;10;13;2;168
+".. Pará";1772;70;401;236;117;12;2608
+".. Amapá";176;3;31;10;13;1;234
+".. Tocantins";321;12;78;36;19;1;467
+"Região Nordeste";12757;668;3402;1327;742;21;18917
+".. Maranhão";1453;102;468;177;90;4;2294
+".. Piauí";693;6;207;70;26;2;1004
+".. Ceará";1733;91;520;216;131;3;2694
+".. Rio Grande do Norte";726;33;180;85;39;2;1065
+".. Paraíba";942;31;232;93;62;2;1362
+".. Pernambuco";2430;119;532;222;97;1;3401
+".. Alagoas";872;29;193;99;32;-;1225
+".. Sergipe";537;7;141;49;19;-;753
+".. Bahia";3371;250;929;316;246;7;5119
+"Região Sudeste";20499;2307;3328;1231;830;23;28218
+".. Minas Gerais";4518;568;1034;387;218;11;6736
+".. Espírito Santo";840;69;186;82;38;4;1219
+".. Rio de Janeiro";4874;817;585;196;262;1;6735
+".. São Paulo";10267;853;1523;566;312;7;13528
+"Região Sul";6704;286;1274;659;289;4;9216
+".. Paraná";2547;150;510;270;109;1;3587
+".. Santa Catarina";1454;35;307;153;78;2;2029
+".. Rio Grande do Sul";2703;101;457;236;102;1;3600
+"Região Centro-Oeste";3715;222;701;423;230;3;5294
+".. Mato Grosso do Sul";703;31;141;79;57;2;1013
+".. Mato Grosso";810;44;151;105;40;-;1150
+".. Goiás";1619;115;296;176;107;1;2314
+".. Distrito Federal";583;32;113;63;26;-;817
+"Total";47479;3587;9604;4067;2340;70;67147
+ Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Notas:
+ 
+ Dados finais disponíveis até 2024 - data de extração 02/12/2025.
+ Dados de 2025 - Preliminares - data de extração 28/07/2026.
+ Dados de 2026 - 1a prévia - data de extração 01/06/2026.
+ 

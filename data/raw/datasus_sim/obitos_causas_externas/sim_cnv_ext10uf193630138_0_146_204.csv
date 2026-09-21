@@ -1,0 +1,44 @@
+ Óbitos por Causas Externas - Brasil
+Óbitos p/Residênc por Região/Unidade da Federação e Sexo
+Período:2021
+"Região/Unidade da Federação";"Masc";"Fem";"Ign";"Total"
+"Região Norte";12217;2158;29;14404
+".. Rondônia";1263;235;-;1498
+".. Acre";376;88;5;469
+".. Amazonas";2859;440;4;3303
+".. Roraima";547;112;-;659
+".. Pará";5263;901;18;6182
+".. Amapá";680;104;-;784
+".. Tocantins";1229;278;2;1509
+"Região Nordeste";39894;7712;26;47632
+".. Maranhão";4279;775;2;5056
+".. Piauí";2179;463;10;2652
+".. Ceará";6799;1358;-;8157
+".. Rio Grande do Norte";2193;383;-;2576
+".. Paraíba";2521;460;-;2981
+".. Pernambuco";6683;1560;9;8252
+".. Alagoas";2085;388;-;2473
+".. Sergipe";1540;299;2;1841
+".. Bahia";11615;2026;3;13644
+"Região Sudeste";40199;12964;84;53247
+".. Minas Gerais";10225;3133;8;13366
+".. Espírito Santo";2871;871;2;3744
+".. Rio de Janeiro";9763;3221;50;13034
+".. São Paulo";17340;5739;24;23103
+"Região Sul";16440;4935;37;21412
+".. Paraná";7147;2007;18;9172
+".. Santa Catarina";3498;1077;-;4575
+".. Rio Grande do Sul";5795;1851;19;7665
+"Região Centro-Oeste";10079;2537;11;12627
+".. Mato Grosso do Sul";1673;416;2;2091
+".. Mato Grosso";2607;558;4;3169
+".. Goiás";4680;1220;5;5905
+".. Distrito Federal";1119;343;-;1462
+"Total";118829;30306;187;149322
+ Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Notas:
+ 
+ Dados finais disponíveis até 2024 - data de extração 02/12/2025.
+ Dados de 2025 - Preliminares - data de extração 28/07/2026.
+ Dados de 2026 - 1a prévia - data de extração 01/06/2026.
+ 

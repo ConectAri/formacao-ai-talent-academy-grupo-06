@@ -1,0 +1,44 @@
+ Óbitos por causas evitáveis em menores de 5 anos - Brasil
+Óbitos p/Residênc por Região/Unidade da Federação e Local ocorrência
+Período:2025
+"Região/Unidade da Federação";"Hospital";"Outro estabelecimento de saúde";"Domicílio";"Via pública";"Outros";"Ignorado";"Total"
+"Região Norte";4285;113;375;61;224;5;5063
+".. Rondônia";320;5;15;5;10;-;355
+".. Acre";244;1;22;6;21;-;294
+".. Amazonas";1109;17;131;13;76;-;1346
+".. Roraima";241;19;48;2;34;4;348
+".. Pará";1855;54;122;28;65;1;2125
+".. Amapá";224;14;15;1;8;-;262
+".. Tocantins";292;3;22;6;10;-;333
+"Região Nordeste";9365;274;438;91;198;8;10374
+".. Maranhão";1308;17;96;22;55;3;1501
+".. Piauí";587;6;42;9;15;1;660
+".. Ceará";1277;21;52;13;18;-;1381
+".. Rio Grande do Norte";476;18;12;6;3;-;515
+".. Paraíba";685;11;22;3;8;-;729
+".. Pernambuco";1549;80;66;8;23;-;1726
+".. Alagoas";587;28;25;1;22;-;663
+".. Sergipe";482;3;15;3;2;-;505
+".. Bahia";2414;90;108;26;52;4;2694
+"Região Sudeste";11189;595;348;75;130;5;12342
+".. Minas Gerais";2678;101;111;38;37;4;2969
+".. Espírito Santo";642;34;24;6;13;-;719
+".. Rio de Janeiro";2292;211;30;6;18;1;2558
+".. São Paulo";5577;249;183;25;62;-;6096
+"Região Sul";3774;98;140;29;62;2;4105
+".. Paraná";1543;61;54;15;22;-;1695
+".. Santa Catarina";993;17;46;8;28;-;1092
+".. Rio Grande do Sul";1238;20;40;6;12;2;1318
+"Região Centro-Oeste";2879;95;176;48;40;1;3239
+".. Mato Grosso do Sul";540;16;50;10;12;-;628
+".. Mato Grosso";860;24;62;18;13;1;978
+".. Goiás";1134;37;50;18;11;-;1250
+".. Distrito Federal";345;18;14;2;4;-;383
+"Total";31492;1175;1477;304;654;21;35123
+ Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+ Notas:
+ 
+ Dados finais disponíveis até 2024 - data de extração 02/12/2025.
+ Dados de 2025 - Preliminares - data de extração 28/07/2026.
+ Dados de 2026 - 1a prévia - data de extração 01/06/2026.
+ 
