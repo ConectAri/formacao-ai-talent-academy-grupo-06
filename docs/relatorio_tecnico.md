@@ -4,7 +4,7 @@
 **Trilha:** Analytics
 **Última atualização:** 20/09/2026, por Ariane (P5 — Documentação)
 
-> Este documento é colaborativo. Cada seção pertence a um papel do grupo (P1 a P4) e deve ser atualizada pela pessoa responsável conforme sua etapa avança. P5 consolida e mantém a coerência geral.
+> Este documento é colaborativo e **vivo** — cada seção pertence a um papel do grupo (P1 a P4) e deve ser atualizada pela pessoa responsável conforme sua etapa avança. P5 consolida e mantém a coerência geral. O README do repositório traz uma versão resumida e sem atribuição de responsáveis; este relatório é a fonte de verdade para o detalhamento técnico completo.
 
 ---
 
@@ -126,3 +126,17 @@ O modelo de dados já está pronto para consumo direto (ver seção P2 — Entre
 3. Replicar a pipeline de limpeza (P2) para cada uma.
 4. P3 iniciar a EDA sobre a base de Mortalidade Geral já disponível.
 5. P4 iniciar a modelagem do dashboard com o que já está pronto.
+
+---
+
+## 7. Status do projeto
+
+| Frente | Status |
+|---|---|
+| P1 — Extração de Dados | Parcial — Mortalidade Geral extraída; demais 6 categorias pendentes de envio ao repositório |
+| P2 — Limpeza e Tratamento de Dados | Concluído para Mortalidade Geral (Etapas 3 a 7 do cronograma); pendente replicar para as demais categorias |
+| P3 — Análise Exploratória (EDA) | Não iniciado |
+| P4 — Power BI / Dashboard | Não iniciado (dashboard exploratório em Streamlit já publicado como entrega intermediária) |
+| P5 — Documentação | Em andamento — este relatório e o dicionário de dados são atualizados incrementalmente |
+
+> **Nota:** este relatório técnico e o README do repositório são documentos vivos. Ambos devem ser atualizados à medida que o projeto avança — especialmente após a extração das demais categorias do SIM e a entrada das etapas de EDA e dashboard.
