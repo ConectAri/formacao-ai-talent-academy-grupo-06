@@ -14,24 +14,24 @@ O grupo desenvolve um projeto de Analytics sobre **mortalidade no Brasil**, usan
 
 **Nota de escopo:** o projeto pivotou da proposta original registrada no Forms 01 (internações hospitalares via SIH/SUS) para mortalidade (SIM), já que o material de trabalho do grupo — os 7 relatórios estruturais e os dados brutos — é de mortalidade. Essa mudança foi validada com a equipe em 20/09/2026.
 
-O SIM está organizado em 7 categorias temáticas. Até o momento, **apenas Mortalidade Geral** (categoria piloto) foi processada de ponta a ponta e está disponível no repositório:
+O SIM está organizado em 7 categorias temáticas. **As 7 já foram extraídas e estão disponíveis no repositório** (`data/raw/datasus_sim/`). Até o momento, apenas **Mortalidade Geral** (categoria piloto) foi processada de ponta a ponta pela pipeline de limpeza:
 
-| Categoria | Status |
-|---|---|
-| Mortalidade Geral | ✅ Extraída, limpa, padronizada e consolidada |
-| Óbitos Infantis | ⏳ Extraída (zip original), não enviada ao repositório |
-| Óbitos Fetais | ⏳ Extraída (zip original), não enviada ao repositório |
-| Óbitos por Causas Externas | ⏳ Extraída (zip original), não enviada ao repositório |
-| Óbitos de Mulheres em Idade Fértil e Maternos | ⏳ Extraída (zip original), não enviada ao repositório |
-| Causas Evitáveis | ⏳ Extraída (zip original), não enviada ao repositório |
-| Mortalidade de Residentes no Exterior | ⏳ Extraída (zip original), não enviada ao repositório |
+| Categoria | Arquivos brutos | Status |
+|---|---|---|
+| Mortalidade Geral | 45 CSVs | ✅ Extraída, limpa, padronizada e consolidada |
+| Óbitos Infantis | 56 CSVs | ✅ Extraída e disponível no repositório; limpeza pendente |
+| Óbitos Fetais | 45 CSVs | ✅ Extraída e disponível no repositório; limpeza pendente |
+| Óbitos por Causas Externas | 45 CSVs | ✅ Extraída e disponível no repositório; limpeza pendente |
+| Óbitos de Mulheres em Idade Fértil e Maternos | 44 CSVs | ✅ Extraída e disponível no repositório; limpeza pendente |
+| Causas Evitáveis | 55 CSVs | ✅ Extraída e disponível no repositório; limpeza pendente |
+| Mortalidade de Residentes no Exterior | 47 CSVs | ✅ Extraída e disponível no repositório; limpeza pendente |
 
 ---
 
 ## 2. P1 — Extração de Dados
 
 **Responsável:** Roboaldo
-**Status:** parcialmente documentado — seção a ser complementada pelo responsável.
+**Status:** ✅ extração das 7 categorias concluída e disponível no repositório (`data/raw/datasus_sim/`). Documentação do processo ainda parcial — seção a ser complementada pelo responsável.
 
 ### O que está confirmado
 - Fonte: TabNet/DATASUS, sistema SIM.
@@ -42,9 +42,14 @@ O SIM está organizado em 7 categorias temáticas. Até o momento, **apenas Mort
 ### ⚠️ Divergência a esclarecer com o P1
 O plano registrado no Alinhamento do Grupo 6 previa extração via **PySUS** (biblioteca Python que acessa o FTP do DATASUS programaticamente). O padrão observado nos arquivos reais, no entanto, é de **exportação manual via TabNet** (não há rastro de uso do PySUS nos arquivos brutos). Isso não é um problema — o dado é válido de qualquer forma — mas o P1 deveria confirmar e documentar qual método foi de fato usado, para o relatório final refletir a realidade.
 
-### Pendências conhecidas (a validar pelo P1)
-- 3 arquivos duplicados com sufixo `(1).csv`, no material original: em Causas Evitáveis, Óbitos Infantis e Óbitos por Causas Externas.
-- 1 arquivo de Causas Externas classificado incorretamente dentro da pasta de Óbitos Fetais.
+### Pendências confirmadas no repositório (a resolver antes da limpeza de cada categoria)
+Conferidas em 20/09/2026, após o envio das 7 categorias — seguem presentes:
+- 3 arquivos duplicados com sufixo `(1).csv`:
+  - `data/raw/datasus_sim/causas_evitaveis/sim_cnv_evita10uf180517138_0_146_204 (1).csv`
+  - `data/raw/datasus_sim/obitos_infantis/sim_cnv_inf10uf190033138_0_146_204 (1).csv`
+  - `data/raw/datasus_sim/obitos_causas_externas/sim_cnv_ext10uf193744138_0_146_204 (1).csv`
+- 1 arquivo de Causas Externas classificado incorretamente dentro de Óbitos Fetais:
+  - `data/raw/datasus_sim/obitos_fetais/sim_cnv_ext10uf193101138_0_146_204.csv`
 
 **[Espaço para o P1 preencher: processo de extração, scripts usados (se houver), decisões sobre recorte de dados, dificuldades encontradas.]**
 
@@ -93,9 +98,9 @@ data/processed/mortalidade_geral/
 Detalhamento completo de cada decisão técnica: ver `data/dictionary/dicionario_dados.md`.
 
 ### Pendências para replicar nas outras 6 categorias
-- As 6 categorias restantes ainda não foram enviadas ao repositório.
-- Quando enviadas, aplicar a mesma pipeline (`limpeza` → `padronizacao` → `consolidacao` → `validacao`), adaptando os scripts para cada estrutura de dimensão específica (cada categoria tem variáveis próprias, além de Região/UF).
-- Resolver, nessa hora, os 3 arquivos `(1).csv` duplicados e o arquivo mal classificado (Causas Externas dentro de Óbitos Fetais) sinalizados pelo P1.
+- As 6 categorias restantes **já estão disponíveis no repositório** (ver seção 1), mas ainda não passaram pela pipeline de limpeza.
+- Antes de rodar a limpeza em cada uma, resolver as pendências herdadas do P1 (ver seção 2): remover/consolidar os 3 arquivos `(1).csv` duplicados e realocar o arquivo de Causas Externas que está dentro de Óbitos Fetais.
+- Adaptar os scripts (`limpeza`, `padronizacao`, `consolidacao`, `validacao`) para a estrutura de dimensão específica de cada categoria — nem todas têm exatamente as mesmas 4 dimensões de Mortalidade Geral (ex: Óbitos Fetais provavelmente tem "Duração da Gestação" em vez de "Local de Ocorrência", conforme o relatório-esqueleto original de cada categoria).
 
 ---
 
@@ -121,11 +126,10 @@ O modelo de dados já está pronto para consumo direto (ver seção P2 — Entre
 
 ## 6. Próximos passos do grupo
 
-1. P1 confirmar o método real de extração e resolver as pendências de duplicados/classificação nas 6 categorias restantes.
-2. Enviar as 6 categorias restantes ao repositório.
-3. Replicar a pipeline de limpeza (P2) para cada uma.
-4. P3 iniciar a EDA sobre a base de Mortalidade Geral já disponível.
-5. P4 iniciar a modelagem do dashboard com o que já está pronto.
+1. P1 confirmar o método real de extração (TabNet manual vs. PySUS) e resolver as 4 pendências de duplicados/classificação (seção 2) nas categorias afetadas.
+2. Replicar a pipeline de limpeza (P2) para as 6 categorias já disponíveis no repositório.
+3. P3 iniciar a EDA sobre a base de Mortalidade Geral já disponível.
+4. P4 iniciar a modelagem do dashboard com o que já está pronto.
 
 ---
 
@@ -133,8 +137,8 @@ O modelo de dados já está pronto para consumo direto (ver seção P2 — Entre
 
 | Frente | Status |
 |---|---|
-| P1 — Extração de Dados | Parcial — Mortalidade Geral extraída; demais 6 categorias pendentes de envio ao repositório |
-| P2 — Limpeza e Tratamento de Dados | Concluído para Mortalidade Geral (Etapas 3 a 7 do cronograma); pendente replicar para as demais categorias |
+| P1 — Extração de Dados | ✅ Extração das 7 categorias concluída; 4 pendências de qualidade a resolver (3 duplicados + 1 arquivo mal classificado) |
+| P2 — Limpeza e Tratamento de Dados | Concluído para Mortalidade Geral (Etapas 3 a 7 do cronograma); pendente replicar para as 6 categorias já disponíveis |
 | P3 — Análise Exploratória (EDA) | Não iniciado |
 | P4 — Power BI / Dashboard | Não iniciado (dashboard exploratório em Streamlit já publicado como entrega intermediária) |
 | P5 — Documentação | Em andamento — este relatório e o dicionário de dados são atualizados incrementalmente |

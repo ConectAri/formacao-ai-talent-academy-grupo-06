@@ -4,7 +4,7 @@ Projeto de Analytics sobre mortalidade no Brasil, com base em dados públicos do
 
 Projeto final da trilha **Analytics** — AI Talent Academy (White Cube), Grupo 6.
 
-🔗 **Demo:** https://analytics-em-saude-publica.streamlit.app/
+🔗 [**Link da Demonstração:**](https://analytics-em-saude-publica.streamlit.app/)
 
 ![Dashboard Streamlit](docs/evidencias/streamlit_dashboard.png)
 
@@ -18,19 +18,17 @@ Python · Pandas · Streamlit · Plotly · Power BI
 
 ## Equipe
 
-| Nome | LinkedIn |
-|---|---|
-| Ariane Moura | [linkedin.com/in/arianemoura](https://www.linkedin.com/in/arianemoura/) |
-| Adriana Selestrina Dos Santos | A preencher |
-| Abner Ribeiro Lopes | A preencher |
-| Alexandre Robalo Da Silva | A preencher |
-| Levi Miquéias Lima E Silva | A preencher |
+[Ariane Moura](https://www.linkedin.com/in/arianemoura/)
+[Adriana Selestrina Dos Santos](https://www.linkedin.com/in/adriana-selestrina/)
+[Abner Ribeiro Lopes](https://www.linkedin.com/)
+[Alexandre Robalo Da Silva](https://www.linkedin.com/in/alexandre-robalo)
+[Levi Miquéias Lima E Silva](https://www.linkedin.com/)
 
 ---
 
 ## Estrutura do repositório
 
-```
+```md
 formacao-ai-talent-academy-grupo-06/
 ├── README.md
 ├── requirements.txt
