@@ -18,11 +18,11 @@ Python · Pandas · Streamlit · Plotly · Power BI
 
 ## Equipe
 
-[Ariane Moura](https://www.linkedin.com/in/arianemoura/)
-[Adriana Selestrina Dos Santos](https://www.linkedin.com/in/adriana-selestrina/)
-[Abner Ribeiro Lopes](https://www.linkedin.com/)
-[Alexandre Robalo Da Silva](https://www.linkedin.com/in/alexandre-robalo)
-[Levi Miquéias Lima E Silva](https://www.linkedin.com/)
+- [Ariane Moura](https://www.linkedin.com/in/arianemoura/)
+- [Adriana Selestrina Dos Santos](https://www.linkedin.com/in/adriana-selestrina/)
+- [Abner Ribeiro Lopes](https://www.linkedin.com/)
+- [Alexandre Robalo Da Silva](https://www.linkedin.com/in/alexandre-robalo)
+- [Levi Miquéias Lima E Silva](https://www.linkedin.com/)
 
 ---
 
