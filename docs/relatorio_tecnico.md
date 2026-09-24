@@ -155,8 +155,7 @@ O modelo de dados já está pronto para consumo direto (ver seção P2 — Entre
 
 1. P1 confirmar o método real de extração (TabNet manual vs. PySUS) e resolver as 4 pendências de duplicados/classificação (seção 2) nas categorias afetadas.
 2. Replicar a pipeline de limpeza (P2) para as 6 categorias já disponíveis no repositório.
-3. P3 iniciar a EDA sobre a base de Mortalidade Geral já disponível.
-4. P4 iniciar a modelagem do dashboard com o que já está pronto.
+3. P4 usar os achados e as hipóteses levantadas pelo P3 (seção 4) como ponto de partida para a modelagem do dashboard.
 
 ---
 

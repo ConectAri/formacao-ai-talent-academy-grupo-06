@@ -96,6 +96,23 @@ Para o detalhamento completo de cada etapa, decisões técnicas e evidências: v
 
 ---
 
+## Análise Exploratória (EDA)
+
+A EDA da categoria Mortalidade Geral já foi concluída, a partir da base tratada em [`data/processed/mortalidade_geral/`](data/processed/mortalidade_geral/).
+
+- GitHub: https://github.com/ConectAri/formacao-ai-talent-academy-grupo-06/blob/main/notebooks/02_eda_mortalidade_geral.ipynb
+- nbviewer (alternativa caso o GitHub não renderize): https://nbviewer.org/github/ConectAri/formacao-ai-talent-academy-grupo-06/blob/main/notebooks/02_eda_mortalidade_geral.ipynb
+
+![Série anual de óbitos](reports/mortalidade_geral/fig_serie_anual_obitos.png)
+
+*Série histórica de óbitos por ano, com o salto atípico da pandemia em 2020-2021.*
+
+![Principais causas de óbito por capítulo CID-10](reports/mortalidade_geral/fig_top_causas_cid10.png)
+
+*Ranking das principais causas de óbito por capítulo CID-10.*
+
+---
+
 ## Como rodar localmente
 
 ```bash
