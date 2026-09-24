@@ -1,3 +1,9 @@
 pandas>=2.0
 streamlit>=1.38
 plotly>=5.20
+
+# EDA (P3)
+matplotlib>=3.9
+seaborn>=0.13
+jupyter>=1.1
+jupytext>=1.16

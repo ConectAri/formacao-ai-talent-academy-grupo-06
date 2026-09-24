@@ -107,9 +107,36 @@ Detalhamento completo de cada decisão técnica: ver `data/dictionary/dicionario
 ## 4. P3 — Análise Exploratória (EDA)
 
 **Responsável:** Levi Lima
-**Status:** não iniciado.
+**Status:** ✅ concluído (23/09/2026) para a categoria Mortalidade Geral.
 
-**[Espaço para o P3 preencher: perguntas de negócio exploradas, principais achados, gráficos/estatísticas descritivas, hipóteses para o P4 aprofundar no dashboard.]**
+**Notebook:** `notebooks/02_eda_mortalidade_geral.ipynb` (script-fonte legível em `notebooks/02_eda_mortalidade_geral.py`, formato jupytext).
+**Gráficos exportados:** `reports/mortalidade_geral/fig_*.png`.
+**Fonte dos dados:** exclusivamente `data/processed/mortalidade_geral/` (base já limpa e validada pelo P2 — 24/24 checagens OK). Nenhum dado bruto foi reprocessado.
+
+### Perguntas de negócio exploradas
+1. Quais são as principais causas de óbito (capítulos CID-10) no período?
+2. Como o total de óbitos evoluiu ano a ano?
+3. Existe tendência de crescimento/queda ao longo da série?
+4. Como os óbitos variam por faixa etária e por sexo?
+5. Existe diferença relevante entre regiões/UFs?
+
+### Principais achados
+1. **Causas de óbito:** doenças do aparelho circulatório (Cap IX), neoplasias (Cap II) e doenças do aparelho respiratório (Cap X) são as três maiores causas de óbito no Brasil no período, nessa ordem — concentram a maior parte dos óbitos com causa definida. Sugestão para o P4: destacar esses 3 capítulos como KPI fixo no dashboard.
+2. **Série temporal:** salto atípico de óbitos em 2020-2021 (+18% em 2020 sobre 2019), coincidindo com a pandemia de COVID-19, sobre uma tendência de fundo já crescente (~2-3%/ano no período pré-pandemia). 2025 (preliminar) e 2026 (1ª prévia) ainda estão incompletos no TabNet e **não devem ser lidos como queda real** — recomenda-se que o P4 marque visualmente esses dois anos como "dado sujeito a revisão".
+3. **Tendência/sazonalidade:** a base é consolidada em nível anual, então não é possível avaliar sazonalidade intra-ano; a análise de tendência foi feita ano a ano (ver item 2).
+4. **Faixa etária e sexo:** óbitos concentrados nas faixas de 70+ anos (esperado numa população envelhecendo); homens são maioria dos óbitos (~55%) contra ~45% de mulheres. Ambos os recortes são bons filtros/segmentações para o dashboard.
+5. **Regiões/UFs:** Sudeste e São Paulo lideram em volume absoluto de óbitos, mas isso reflete principalmente o tamanho da população de cada UF/região, não necessariamente maior risco de morte.
+
+### Limitações e pontos de atenção identificados
+- **Sem dado de população:** a base não permite calcular taxa de mortalidade (óbitos por 100 mil habitantes) — as comparações regionais feitas aqui são só em volume absoluto. Sugestão para uma próxima iteração: cruzar com dado populacional do IBGE (por UF/ano) para permitir comparação justa entre regiões.
+- **2025 e 2026 são dados preliminares/prévia**, sujeitos a revisão pelo DATASUS (já documentado pelo P2 no dicionário de dados) — reforçado aqui porque afeta diretamente a leitura visual da série temporal no dashboard.
+- **Granularidade anual:** impede qualquer análise de sazonalidade dentro do ano.
+- Cap XIX (lesões/envenenamento) só aparece em 2023 e Cap XXII (códigos especiais, ex. COVID-19) só em 2026 nesta série — confirmado como ausência real de ocorrência nesse recorte, não erro de dado (já validado pelo P2).
+
+### Hipóteses para o P4 aprofundar no dashboard
+- Comparar a evolução do Cap IX (circulatório) e Cap II (neoplasias) ao longo dos anos — ambos crescem em termos absolutos junto com a população, vale conferir se crescem mais rápido que o total geral.
+- Explorar o cruzamento causa (CID-10) × faixa etária, que a EDA não aprofundou (ficou em análises univariadas por dimensão).
+- Considerar um filtro/toggle no dashboard para excluir 2025/2026 das visualizações de tendência, evitando leitura equivocada do dado ainda incompleto.
 
 ---
 
@@ -139,7 +166,7 @@ O modelo de dados já está pronto para consumo direto (ver seção P2 — Entre
 |---|---|
 | P1 — Extração de Dados | ✅ Extração das 7 categorias concluída; 4 pendências de qualidade a resolver (3 duplicados + 1 arquivo mal classificado) |
 | P2 — Limpeza e Tratamento de Dados | Concluído para Mortalidade Geral (Etapas 3 a 7 do cronograma); pendente replicar para as 6 categorias já disponíveis |
-| P3 — Análise Exploratória (EDA) | Não iniciado |
+| P3 — Análise Exploratória (EDA) | ✅ Concluído para Mortalidade Geral (ver seção 4) |
 | P4 — Power BI / Dashboard | Não iniciado (dashboard exploratório em Streamlit já publicado como entrega intermediária) |
 | P5 — Documentação | Em andamento — este relatório e o dicionário de dados são atualizados incrementalmente |
 
