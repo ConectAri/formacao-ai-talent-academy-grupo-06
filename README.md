@@ -100,8 +100,8 @@ Para o detalhamento completo de cada etapa, decisões técnicas e evidências: v
 
 A EDA da categoria Mortalidade Geral já foi concluída, a partir da base tratada em [`data/processed/mortalidade_geral/`](data/processed/mortalidade_geral/).
 
-- GitHub: https://github.com/ConectAri/formacao-ai-talent-academy-grupo-06/blob/main/notebooks/02_eda_mortalidade_geral.ipynb
-- nbviewer (alternativa caso o GitHub não renderize): https://nbviewer.org/github/ConectAri/formacao-ai-talent-academy-grupo-06/blob/main/notebooks/02_eda_mortalidade_geral.ipynb
+- [GitHub](https://github.com/ConectAri/formacao-ai-talent-academy-grupo-06/blob/main/notebooks/02_eda_mortalidade_geral.ipynb)
+- [nbviewer](https://nbviewer.org/github/ConectAri/formacao-ai-talent-academy-grupo-06/blob/main/notebooks/02_eda_mortalidade_geral.ipynb) (alternativa caso o GitHub não renderize)
 
 ![Série anual de óbitos](reports/mortalidade_geral/fig_serie_anual_obitos.png)
 
