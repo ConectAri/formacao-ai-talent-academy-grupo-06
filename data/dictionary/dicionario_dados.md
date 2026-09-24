@@ -7,7 +7,7 @@ Atualizado incrementalmente conforme cada categoria do SIM é processada.
 
 **Fonte:** DATASUS/SIM, extraído via TabNet.
 **Arquivos brutos:** `data/raw/datasus_sim/mortalidade_geral/` (45 CSVs).
-**Base tratada:** `data/processed/mortalidade_geral/{capitulo_cid10, faixa_etaria, sexo, local_ocorrencia}.csv` (363 linhas cada = 33 regiões/UFs × 11 anos).
+**Base tratada:** `data/processed/mortalidade_geral/{capitulo_cid10, faixa_etaria, sexo, local_ocorrencia}.csv` (352 linhas cada = 32 regiões/UFs × 11 anos).
 **Período:** 2016–2026 (2025 = dado preliminar; 2026 = 1ª prévia, ambos sujeitos a revisão pelo DATASUS).
 
 ### Estrutura dos arquivos brutos
