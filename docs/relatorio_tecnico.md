@@ -143,11 +143,21 @@ Detalhamento completo de cada decisão técnica: ver `data/dictionary/dicionario
 ## 5. P4 — Power BI / Dashboard
 
 **Responsável:** Abner
-**Status:** não iniciado.
+**Status:** Em andamento — painel complementar publicado no Google Looker Studio.
 
 O modelo de dados já está pronto para consumo direto (ver seção P2 — Entregável final). Sugestão de relacionamento no Power BI: `fato_obitos` como tabela-fato central, demais tabelas de detalhe relacionadas por `(ano, uf, sigla)`.
 
-**[Espaço para o P4 preencher: link do dashboard, principais indicadores construídos, decisões de visualização.]**
+**Dashboard:** "Painel de Análise de Óbitos - Brasil (CID-10)" — [abrir no Looker Studio](https://datastudio.google.com/reporting/0e8a7ab3-6735-4d8b-8f0d-09594e0ef77a).
+
+O painel traz um KPI de total de óbitos, filtros por UF, Ano, Doenças e Região, e 5 visualizações: principais causas de óbito por capítulo CID-10, distribuição geográfica em mapa, óbitos por estado, evolução por faixa etária ano a ano, e distribuição por sexo.
+
+![Painel de Análise de Óbitos - Brasil (CID-10)](evidencias/dashboard_looker_studio_cid10.png)
+
+### Observações sobre o dado
+
+- Observação confirmada com o P4: o filtro de UF exibe um valor nulo/em branco ("Acre, null (2)"), correspondente a óbitos registrados por hospitais onde apenas a região foi informada, sem o estado (UF) específico. Esse é um problema de preenchimento pontual em registros individuais brutos — diferente do arquivo atípico "Região x Região" de 2016 já documentado na seção 3 (que é uma dimensão inteira à parte, não um campo faltando em registros individuais). Vale avaliar, numa próxima iteração da limpeza, se esses registros com UF nulo devem ser mantidos agrupados só por região, descartados, ou destacados como categoria "Não informado".
+
+**[Espaço para o P4 confirmar: se o Power BI original ainda será construído ou se o Looker Studio substitui esse plano.]**
 
 ---
 

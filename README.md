@@ -113,6 +113,18 @@ A EDA da categoria Mortalidade Geral já foi concluída, a partir da base tratad
 
 ---
 
+## Dashboard — Looker Studio
+
+Além do dashboard exploratório em Streamlit (link no topo deste README), o grupo também disponibiliza um painel complementar no Google Looker Studio, intitulado "Painel de Análise de Óbitos - Brasil (CID-10)", com filtros por UF, Ano, Doenças e Região.
+
+[Abrir painel no Looker Studio](https://datastudio.google.com/reporting/0e8a7ab3-6735-4d8b-8f0d-09594e0ef77a)
+
+![Painel de Análise de Óbitos - Brasil (CID-10)](docs/evidencias/dashboard_looker_studio_cid10.png)
+
+*Painel com principais causas de óbito, distribuição geográfica, óbitos por estado, evolução por faixa etária e distribuição por sexo.*
+
+---
+
 ## Como rodar localmente
 
 ```bash
