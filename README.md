@@ -12,7 +12,7 @@ Projeto final da trilha **Analytics** — AI Talent Academy (White Cube), Grupo 
 
 ## Stack
 
-Python · Pandas · Streamlit · Plotly · Power BI
+Python · Pandas · Streamlit · Plotly · Power BI · Google Looker Studio
 
 ---
 
@@ -84,13 +84,12 @@ formacao-ai-talent-academy-grupo-06/
 - Consolidação da base em modelo de dados relacional (tabela-fato + dimensões)
 - Validação automatizada de qualidade de dados
 - Dashboard exploratório publicado (Streamlit)
+- Análise exploratória de dados (EDA) da categoria Mortalidade Geral
+- Dashboard complementar publicado (Google Looker Studio)
 
 ## Próximas etapas
 
-- Extração e tratamento das demais categorias do SIM
-- Análise exploratória de dados (EDA)
-- Construção do dashboard final (Power BI)
-- Consolidação da documentação técnica
+- Apresentação final do projeto
 
 Para o detalhamento completo de cada etapa, decisões técnicas e evidências: ver [`docs/relatorio_tecnico.md`](docs/relatorio_tecnico.md) e [`data/dictionary/dicionario_dados.md`](data/dictionary/dicionario_dados.md).
 
