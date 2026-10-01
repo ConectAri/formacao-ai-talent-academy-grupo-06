@@ -14,17 +14,13 @@ Tratamos os dados públicos de mortalidade do DATASUS (Sistema de Informações 
 
 ## O problema
 
-Python · Pandas · Streamlit · Plotly · Power BI · Google Looker Studio
+O SIM registra todos os óbitos do país, e o dado é público. Na prática, ele chega pelo TabNet em dezenas de planilhas, com cabeçalhos de metadados, células preenchidas com traço e região misturada com estado na mesma coluna. Do jeito que sai, serve para consulta pontual, mas não para comparar anos, causas e estados.
 
 A pergunta que guiou o projeto: **quais doenças mais matam, em quem e onde, e o que isso indica para a prevenção?**
 
 ## Contexto da apresentação
 
-- [Ariane Moura](https://www.linkedin.com/in/arianemoura/)
-- [Adriana Selestrina Dos Santos](https://www.linkedin.com/in/adriana-selestrina/)
-- [Abner Ribeiro Lopes](https://www.linkedin.com/in/abnerribeiroalves/)
-- [Alexandre Robalo Da Silva](https://www.linkedin.com/in/alexandre-robalo)
-- [Levi Miquéias Lima E Silva](https://www.linkedin.com/in/levi-limas)
+No Demo Day, apresentamos o projeto como o time de dados de uma empresa farmacêutica fictícia que abre essa base para a gestão pública. A lógica é que diagnóstico precoce e tratamento contínuo na atenção primária custam menos ao SUS do que internação e alta complexidade. O enquadramento é da apresentação; os dados, o código e os resultados deste repositório são os mesmos.
 
 ---
 
@@ -41,19 +37,11 @@ Números de 2016 a 2024, somando os estados. 2025 e 2026 ficam fora porque ainda
 | Óbitos de pessoas com 70 anos ou mais | 51% |
 | Pico da série (pandemia de COVID-19) | 1,83 milhão de óbitos em 2021 |
 
-- Extração de dados brutos do DATASUS/SIM (TabNet)
-- Tratamento de duplicados
-- Tratamento de valores nulos e ausentes
-- Padronização de categorias (região/UF, capítulos CID-10)
-- Consolidação da base em modelo de dados relacional (tabela-fato + dimensões)
-- Validação automatizada de qualidade de dados
-- Dashboard exploratório publicado (Streamlit)
-- Análise exploratória de dados (EDA) da categoria Mortalidade Geral
-- Dashboard complementar publicado (Google Looker Studio)
+Por capítulo da CID-10, as maiores causas foram: aparelho circulatório (25,5%), neoplasias (16,1%), aparelho respiratório (11,1%), causas externas (10,4%), doenças infecciosas e parasitárias (9,5%) e doenças endócrinas, como diabetes (5,9%).
 
 **Volume não é gravidade.** Em número absoluto, São Paulo lidera os óbitos de 2024 (351.616). Cruzando com a população estimada pelo IBGE para 2024, a taxa por 100 mil habitantes coloca o Rio Grande do Sul em primeiro (903,7), e São Paulo cai para quarto (764,8). A média nacional é 720,7.
 
-- Apresentação final do projeto
+![Principais causas de óbito por capítulo CID-10](reports/mortalidade_geral/fig_top_causas_cid10.png)
 
 ![Série anual de óbitos](reports/mortalidade_geral/fig_serie_anual_obitos.png)
 
@@ -74,6 +62,16 @@ O detalhamento de cada decisão está em [`docs/relatorio_tecnico.md`](docs/rela
 ### Escopo
 
 As 7 categorias do SIM foram extraídas e estão em `data/raw/datasus_sim/`. Apenas **Mortalidade Geral** passou pelo pipeline completo de limpeza, validação e análise. As outras 6 ficam no repositório como registro da extração.
+
+---
+
+## Painéis
+
+**Dashboard exploratório (Streamlit).** Filtros por dimensão (causa, faixa etária, sexo ou local de ocorrência) e por ano, de 2016 a 2026, com aviso quando o dado do ano é preliminar. Mostra o ranking de óbitos por UF e a série histórica nacional. [Abrir dashboard](https://analytics-em-saude-publica.streamlit.app/)
+
+**Painel complementar (Looker Studio).** "Painel de Análise de Óbitos - Brasil (CID-10)", com filtros por UF, ano, doença e região. Traz as principais causas de óbito, a distribuição geográfica em mapa, os óbitos por estado, a evolução por faixa etária e a distribuição por sexo. [Abrir painel](https://datastudio.google.com/reporting/0e8a7ab3-6735-4d8b-8f0d-09594e0ef77a)
+
+![Painel de Análise de Óbitos - Brasil (CID-10)](docs/evidencias/dashboard_looker_studio_cid10.png)
 
 ---
 
@@ -110,17 +108,6 @@ formacao-ai-talent-academy-grupo-06/
 ├── reports/                       gráficos e relatórios por categoria
 └── docs/                          relatório técnico, proposta, referências e prints
 ```
-## Dashboard — Looker Studio
-
-Além do dashboard exploratório em Streamlit (link no topo deste README), o grupo também disponibiliza um painel complementar no Google Looker Studio, intitulado "Painel de Análise de Óbitos - Brasil (CID-10)", com filtros por UF, Ano, Doenças e Região.
-
-[Abrir painel no Looker Studio](https://datastudio.google.com/reporting/0e8a7ab3-6735-4d8b-8f0d-09594e0ef77a)
-
-![Painel de Análise de Óbitos - Brasil (CID-10)](docs/evidencias/dashboard_looker_studio_cid10.png)
-
-*Painel com principais causas de óbito, distribuição geográfica, óbitos por estado, evolução por faixa etária e distribuição por sexo.*
-
----
 
 ## Como rodar localmente
 
