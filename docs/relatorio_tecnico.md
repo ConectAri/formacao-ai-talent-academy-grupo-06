@@ -42,14 +42,15 @@ O SIM está organizado em 7 categorias temáticas. **As 7 já foram extraídas e
 ### ⚠️ Divergência a esclarecer com o P1
 O plano registrado no Alinhamento do Grupo 6 previa extração via **PySUS** (biblioteca Python que acessa o FTP do DATASUS programaticamente). O padrão observado nos arquivos reais, no entanto, é de **exportação manual via TabNet** (não há rastro de uso do PySUS nos arquivos brutos). Isso não é um problema — o dado é válido de qualquer forma — mas o P1 deveria confirmar e documentar qual método foi de fato usado, para o relatório final refletir a realidade.
 
-### Pendências confirmadas no repositório (a resolver antes da limpeza de cada categoria)
-Conferidas em 20/09/2026, após o envio das 7 categorias — seguem presentes:
+### Pontos de melhoria futura
+Conferidas em 20/09/2026, após o envio das 7 categorias — seguem presentes na base bruta. Não entraram no escopo desta entrega e ficam registradas para uma eventual próxima iteração do projeto:
 - 3 arquivos duplicados com sufixo `(1).csv`:
   - `data/raw/datasus_sim/causas_evitaveis/sim_cnv_evita10uf180517138_0_146_204 (1).csv`
   - `data/raw/datasus_sim/obitos_infantis/sim_cnv_inf10uf190033138_0_146_204 (1).csv`
   - `data/raw/datasus_sim/obitos_causas_externas/sim_cnv_ext10uf193744138_0_146_204 (1).csv`
 - 1 arquivo de Causas Externas classificado incorretamente dentro de Óbitos Fetais:
   - `data/raw/datasus_sim/obitos_fetais/sim_cnv_ext10uf193101138_0_146_204.csv`
+- Confirmar e documentar qual método de extração foi de fato usado (TabNet manual vs. PySUS — ver divergência acima).
 
 **[Espaço para o P1 preencher: processo de extração, scripts usados (se houver), decisões sobre recorte de dados, dificuldades encontradas.]**
 
@@ -97,10 +98,10 @@ data/processed/mortalidade_geral/
 
 Detalhamento completo de cada decisão técnica: ver `data/dictionary/dicionario_dados.md`.
 
-### Pendências para replicar nas outras 6 categorias
-- As 6 categorias restantes **já estão disponíveis no repositório** (ver seção 1), mas ainda não passaram pela pipeline de limpeza.
-- Antes de rodar a limpeza em cada uma, resolver as pendências herdadas do P1 (ver seção 2): remover/consolidar os 3 arquivos `(1).csv` duplicados e realocar o arquivo de Causas Externas que está dentro de Óbitos Fetais.
-- Adaptar os scripts (`limpeza`, `padronizacao`, `consolidacao`, `validacao`) para a estrutura de dimensão específica de cada categoria — nem todas têm exatamente as mesmas 4 dimensões de Mortalidade Geral (ex: Óbitos Fetais provavelmente tem "Duração da Gestação" em vez de "Local de Ocorrência", conforme o relatório-esqueleto original de cada categoria).
+### Pontos de melhoria futura
+- As 6 categorias restantes **já estão disponíveis no repositório** (ver seção 1), mas não passaram pela pipeline de limpeza dentro do escopo desta entrega — fica como trabalho futuro.
+- Para replicar, seria necessário antes resolver os pontos herdados do P1 (ver seção 2): remover/consolidar os 3 arquivos `(1).csv` duplicados e realocar o arquivo de Causas Externas que está dentro de Óbitos Fetais.
+- Também seria necessário adaptar os scripts (`limpeza`, `padronizacao`, `consolidacao`, `validacao`) para a estrutura de dimensão específica de cada categoria — nem todas têm exatamente as mesmas 4 dimensões de Mortalidade Geral (ex: Óbitos Fetais provavelmente tem "Duração da Gestação" em vez de "Local de Ocorrência", conforme o relatório-esqueleto original de cada categoria).
 
 ---
 
@@ -143,19 +144,31 @@ Detalhamento completo de cada decisão técnica: ver `data/dictionary/dicionario
 ## 5. P4 — Power BI / Dashboard
 
 **Responsável:** Abner
-**Status:** não iniciado.
+**Status:** Em andamento — painel complementar publicado no Google Looker Studio.
 
 O modelo de dados já está pronto para consumo direto (ver seção P2 — Entregável final). Sugestão de relacionamento no Power BI: `fato_obitos` como tabela-fato central, demais tabelas de detalhe relacionadas por `(ano, uf, sigla)`.
 
-**[Espaço para o P4 preencher: link do dashboard, principais indicadores construídos, decisões de visualização.]**
+**Dashboard:** "Painel de Análise de Óbitos - Brasil (CID-10)" — [abrir no Looker Studio](https://datastudio.google.com/reporting/0e8a7ab3-6735-4d8b-8f0d-09594e0ef77a).
+
+O painel traz um KPI de total de óbitos, filtros por UF, Ano, Doenças e Região, e 5 visualizações: principais causas de óbito por capítulo CID-10, distribuição geográfica em mapa, óbitos por estado, evolução por faixa etária ano a ano, e distribuição por sexo.
+
+![Painel de Análise de Óbitos - Brasil (CID-10)](evidencias/dashboard_looker_studio_cid10.png)
+
+### Observações sobre o dado
+
+- Observação confirmada com o P4: o filtro de UF exibe um valor nulo/em branco ("Acre, null (2)"), correspondente a óbitos registrados por hospitais onde apenas a região foi informada, sem o estado (UF) específico. Esse é um problema de preenchimento pontual em registros individuais brutos — diferente do arquivo atípico "Região x Região" de 2016 já documentado na seção 3 (que é uma dimensão inteira à parte, não um campo faltando em registros individuais). Vale avaliar, numa próxima iteração da limpeza, se esses registros com UF nulo devem ser mantidos agrupados só por região, descartados, ou destacados como categoria "Não informado".
+
+O painel no Looker Studio é a entrega final de dashboard deste projeto — substitui o plano original de construir em Power BI. Uma versão nativa em Power BI fica registrada como ponto de melhoria futura (ver seção 6), caso o projeto continue em uma próxima iteração.
 
 ---
 
-## 6. Próximos passos do grupo
+## 6. Pontos de melhoria futura
 
-1. P1 confirmar o método real de extração (TabNet manual vs. PySUS) e resolver as 4 pendências de duplicados/classificação (seção 2) nas categorias afetadas.
-2. Replicar a pipeline de limpeza (P2) para as 6 categorias já disponíveis no repositório.
-3. P4 usar os achados e as hipóteses levantadas pelo P3 (seção 4) como ponto de partida para a modelagem do dashboard.
+Itens que não entraram no escopo desta entrega e ficam registrados para uma eventual próxima iteração do projeto:
+
+1. Confirmar o método real de extração (TabNet manual vs. PySUS) e resolver os pontos de duplicados/classificação (seção 2).
+2. Replicar a pipeline de limpeza (P2) para as 6 categorias já disponíveis no repositório (seção 3).
+3. Construir uma versão nativa do dashboard em Power BI, além do painel complementar já publicado no Looker Studio (seção 5).
 
 ---
 
@@ -163,10 +176,10 @@ O modelo de dados já está pronto para consumo direto (ver seção P2 — Entre
 
 | Frente | Status |
 |---|---|
-| P1 — Extração de Dados | ✅ Extração das 7 categorias concluída; 4 pendências de qualidade a resolver (3 duplicados + 1 arquivo mal classificado) |
-| P2 — Limpeza e Tratamento de Dados | Concluído para Mortalidade Geral (Etapas 3 a 7 do cronograma); pendente replicar para as 6 categorias já disponíveis |
+| P1 — Extração de Dados | ✅ Extração das 7 categorias concluída; pontos de qualidade documentados como melhoria futura (3 duplicados + 1 arquivo mal classificado — ver seção 2) |
+| P2 — Limpeza e Tratamento de Dados | ✅ Concluído para Mortalidade Geral (Etapas 3 a 7 do cronograma); replicação para as demais 6 categorias fica como melhoria futura (ver seção 3) |
 | P3 — Análise Exploratória (EDA) | ✅ Concluído para Mortalidade Geral (ver seção 4) |
-| P4 — Power BI / Dashboard | Não iniciado (dashboard exploratório em Streamlit já publicado como entrega intermediária) |
-| P5 — Documentação | Em andamento — este relatório e o dicionário de dados são atualizados incrementalmente |
+| P4 — Power BI / Dashboard | ✅ Painel complementar publicado no Google Looker Studio, além do dashboard exploratório em Streamlit; versão nativa em Power BI fica como melhoria futura (ver seção 5) |
+| P5 — Documentação | ✅ Concluída para o escopo desta entrega |
 
-> **Nota:** este relatório técnico e o README do repositório são documentos vivos. Ambos devem ser atualizados à medida que o projeto avança — especialmente após a extração das demais categorias do SIM e a entrada das etapas de EDA e dashboard.
+> **Nota:** este relatório técnico e o README do repositório documentam o escopo entregue nesta versão do projeto (Mortalidade Geral, ponta a ponta). Os pontos de melhoria futura listados nas seções 2, 3, 5 e 6 ficam registrados para uma eventual próxima iteração, mas não são compromissos desta entrega.
