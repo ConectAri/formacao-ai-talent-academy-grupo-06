@@ -57,9 +57,13 @@ Período de 2016 a 2024, somando os estados. 2025 e 2026 ficam de fora porque o 
 
 **Streamlit.** Filtros por dimensão (causa, faixa etária, sexo ou local de ocorrência) e por ano, com aviso quando o ano escolhido é preliminar. Mostra o ranking de óbitos por UF e a série histórica nacional.
 
+[Abrir o dashboard no Streamlit](https://analytics-em-saude-publica.streamlit.app/)
+
 ![Dashboard Streamlit](docs/evidencias/streamlit_dashboard.png)
 
 **Looker Studio.** Filtros por UF, ano, doença e região. Mostra as principais causas, o mapa de óbitos por estado, a evolução por faixa etária e a distribuição por sexo.
+
+[Abrir o painel no Looker Studio](https://datastudio.google.com/reporting/0e8a7ab3-6735-4d8b-8f0d-09594e0ef77a)
 
 ![Painel de Análise de Óbitos - Brasil (CID-10)](docs/evidencias/dashboard_looker_studio_cid10.png)
 
